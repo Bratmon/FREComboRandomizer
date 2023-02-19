@@ -61,3 +61,17 @@ It is recommended to finish the tutorials of both games (up to the point where y
 Once you're on your way, the goal is to beat all the Gyms of both games and both Elite Fours in order.  We don't really have any special tracking for that, so you have to keep track yourself.
 
 Your party Pokemon carry over between games, but your items and badges do not.  Also, your box isn't shared either (Bill's PC and Lanette's PC are different after all)
+
+### Saving
+
+There is currently a bug in mGBA that prevents savestates and hard saves from working normally after a ROM swap.  To save, please use the "Save State File" option in mGBA.
+
+This script also makes frequent autosaves.  You can find them in the "Savestates" folder.
+
+### If you get stuck
+
+Although all seeds are beatable, it is possible to softlock yourself.  If you do get stuck, here are some ways to free yourself.
+
+* Load an old autosave from the "Savestates" folder
+* If that doesn't work, you can restart the emulator without the script and go somewhere else
+* If all else fails, you can try a walk through walls cheat
