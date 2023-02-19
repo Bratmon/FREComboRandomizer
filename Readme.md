@@ -4,7 +4,7 @@ Have you ever played a Pokemon randomizer and thought "I like this, but wish the
 
 With the Pokemon Emerald / Fire Red Combo Warp Randomizer, you and your party will be able to move seamlessly between Hoenn and Kanto on your very confusing and disjointed adventure.  The warps are randomized, and any door can go to either game.
 
-We guarantee all saves are winnable or your money back!
+We guarantee all seeds are winnable or your money back!
 
 ![Illustration](https://user-images.githubusercontent.com/7422646/219937320-9ed8c3e0-07a0-4a4b-9668-a0c84957d349.png)
 
@@ -65,6 +65,8 @@ Your party Pokemon carry over between games, but your items and badges do not.  
 ### Saving
 
 There is currently a bug in mGBA that prevents savestates and hard saves from working normally after a ROM swap.  To save, please use the "Save State File" option in mGBA.
+
+<img src="https://user-images.githubusercontent.com/125828415/219980675-15d1f15f-96e6-41e7-82c3-ead251db79f0.png" height="350">
 
 This script also makes frequent autosaves.  You can find them in the "Savestates" folder.
 
