@@ -31,7 +31,7 @@ To run this script, you need:
 4. Open the "Scripting" panel in mGBA
 <img src="https://user-images.githubusercontent.com/7422646/219937387-13905a5f-e61e-4bf7-bb9f-cd2a8545cecb.png" height="450">
 
-5. Click "Load Script" and load the Combo Randomizer script.  The script will automatically perform some initial setup.
+5. Click "Load Script" and load the Combo Randomizer script.  The script will automatically perform some initial setup.  Note that you must open this script every time you play.
 <img src="https://user-images.githubusercontent.com/7422646/219937401-e352e852-c2cc-415c-ad66-aeb3e0810071.png" height="275">
 
 <img src="https://user-images.githubusercontent.com/7422646/219937409-8da70d13-d0d9-46f3-b062-36611360ab98.png" height="150">
