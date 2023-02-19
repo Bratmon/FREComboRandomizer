@@ -3,15 +3,19 @@ BasePath = ""
 if BasePath == "" then
     local pathLookup = debug.getinfo(1, "S").source:sub(2)
     BasePath = pathLookup:match("(.*[/\\])") or ""
-    console:log("BasePath: " .. BasePath)  
+    console:log("BasePath: " .. BasePath)
 end
 LIB_PATH = BasePath .. "lib\\"
-EXEC_SUFFEX = " & pause"
+EXEC_SUFFEX = ""
 LastSeenWarp = nil
 DisableWarping = false
 Forcewarp = nil
 InitialLoad = false
 DidSetupChecks = false
+
+dofile(LIB_PATH .. "memory.lua")
+dofile(LIB_PATH .. "final.lua")
+dofile(LIB_PATH .. "ips.lua")
 
 -- Symbols tables references (from the pret decomp work):
 -- 	Ruby:
@@ -130,16 +134,12 @@ function RomPath(rom)
     return BasePath .. "Patched ROMs\\" .. rom.romName .. ".patched.gba"
 end
 
-
-dofile(LIB_PATH .. "memory.lua")
-dofile(LIB_PATH .. "final.lua")
-
- function BackupOldStates()
+function BackupOldStates()
     os.remove(StatePath() .. "_oldest.ss0")
     os.rename(StatePath() .. "_older.ss0", StatePath() .. "_oldest.ss0")
     os.rename(StatePath() .. "_old.ss0", StatePath() .. "_older.ss0")
     os.rename(StatePath(), StatePath() .. "_old.ss0")
- end
+end
 
 function FileExists(name)
    local f=io.open(name,"r")
@@ -147,7 +147,7 @@ function FileExists(name)
 end
 
 function Exec(command)
-    console:log("Executing command: " .. command)
+    -- console:log("Executing command: " .. command)
     local success, _ = os.execute(command)
     return success
 end
@@ -178,16 +178,12 @@ function SetupIfNeeded()
                 DisableWarping = true
                 return                
             end
-            success = Exec(string.format('%sips.exe "%s\\Patches\\%s.ips" "%s" %s', LIB_PATH, LIB_PATH, r.romName, destFile, EXEC_SUFFEX))
-            if not success then
-                console:log("ERROR: Patching failed!  The game will be buggy!")
-                return
-            end
+            IPSPatch(destFile, string.format("%s\\Patches\\%s.ips", LIB_PATH, r.romName))
             CheckROMs(r)
         end
     end
     DidSetupChecks = true
-    console:log("Automatic Patching completed successfully.  Please type 'NewGame()' in the prompt to randomize the warps.")
+    console:log("\n\nAutomatic Patching completed successfully.  Please type 'NewGame()' in the prompt to randomize the warps.")
     console:log("(Add a number between the brackets to set a fixed seed.)")
 end
 
@@ -197,7 +193,7 @@ function NewGame(seed)
         seedArg = "--seed=" .. seed
     end
     -- Call shuffle.
-    local command = string.format("%sshuffle.exe %s --output=%sfinal.lua --hubsroot=%shubs %s", LIB_PATH, seedArg, LIB_PATH, LIB_PATH, EXEC_SUFFEX)
+    local command = string.format('"%sshuffle.exe" %s --output="%sfinal.lua" --hubsroot="%shubs %s"', LIB_PATH, seedArg, LIB_PATH, LIB_PATH, EXEC_SUFFEX)
     console:log("Running command: " .. command)
     local result = io.popen(command)
     for l in result:lines() do
