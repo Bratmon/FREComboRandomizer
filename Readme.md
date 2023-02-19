@@ -18,7 +18,7 @@ To run this script, you need:
 * A copy of the [mGBA emulator](https://mgba.io/) version 0.10.0 or later.  No other emulators are currently supported.
 * A ROM of the US version of Pokemon Emerald.
 * A ROM of the US 1.1 version of Pokemon Fire Red.  Note that the US 1.0 version is currently not supported.
-* The current release of this emulator.
+* The [current release of this randomizer](https://github.com/Bratmon/FREComboRandomizer/releases).
 
 ### How to run
 
