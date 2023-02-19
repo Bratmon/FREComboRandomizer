@@ -1,0 +1,35 @@
+{
+  "hubs": [
+    {
+      "requirements": ["ksurf"],
+      "warps": [
+        {
+          "x": 64,
+          "y": 13,
+          "ourMapGroup": 3,
+          "ourMapNum": 54,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_FIVE_ISLAND_LOST_CAVE_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 12,
+          "duplicates": []
+        },
+        {
+          "x": 39,
+          "y": 8,
+          "ourMapGroup": 3,
+          "ourMapNum": 54,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_FIVE_ISLAND_RESORT_GORGEOUS_HOUSE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 39,
+          "destMapNum": 0,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

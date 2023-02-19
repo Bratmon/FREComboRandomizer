@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 4,
+          "y": 7,
+          "ourMapGroup": 39,
+          "ourMapNum": 0,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_FIVE_ISLAND_RESORT_GORGEOUS",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 54,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

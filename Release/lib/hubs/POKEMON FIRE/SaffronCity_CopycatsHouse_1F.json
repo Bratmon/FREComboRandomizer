@@ -1,0 +1,62 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 3,
+          "y": 8,
+          "ourMapGroup": 14,
+          "ourMapNum": 0,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_SAFFRON_CITY",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 10,
+          "duplicates": [
+            {
+              "x": 4,
+              "y": 8,
+              "ourMapGroup": 14,
+              "ourMapNum": 0,
+              "ourID": 1,
+              "destID": 1,
+              "destMapString": "MAP_SAFFRON_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 10,
+              "duplicates": []
+            },
+            {
+              "x": 5,
+              "y": 8,
+              "ourMapGroup": 14,
+              "ourMapNum": 0,
+              "ourID": 2,
+              "destID": 1,
+              "destMapString": "MAP_SAFFRON_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 10,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 10,
+          "y": 2,
+          "ourMapGroup": 14,
+          "ourMapNum": 0,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_SAFFRON_CITY_COPYCATS_HOUSE_2F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 14,
+          "destMapNum": 1,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

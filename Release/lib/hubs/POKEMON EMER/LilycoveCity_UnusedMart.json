@@ -1,0 +1,37 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "xy_required": true,
+      "warps": [
+        {
+          "x": 3,
+          "y": 7,
+          "ourMapGroup": 13,
+          "ourMapNum": 8,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 5,
+          "duplicates": [
+            {
+              "x": 4,
+              "y": 7,
+              "ourMapGroup": 13,
+              "ourMapNum": 8,
+              "ourID": 1,
+              "destID": 0,
+              "destMapString": "MAP_LILYCOVE_CITY",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 5,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

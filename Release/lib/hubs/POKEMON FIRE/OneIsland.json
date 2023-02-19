@@ -1,0 +1,88 @@
+{
+  "hubs": [
+    {
+      "requirements": ["ksurf"],
+      "warps": [
+        {
+          "x": 19,
+          "y": 9,
+          "ourMapGroup": 3,
+          "ourMapNum": 12,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_ONE_ISLAND_HOUSE1",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 32,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 8,
+          "y": 11,
+          "ourMapGroup": 3,
+          "ourMapNum": 12,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_ONE_ISLAND_HOUSE2",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 32,
+          "destMapNum": 3,
+          "duplicates": []
+        },
+        {
+          "x": 12,
+          "y": 18,
+          "ourMapGroup": 3,
+          "ourMapNum": 12,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_ONE_ISLAND_HARBOR",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 32,
+          "destMapNum": 4,
+          "duplicates": []
+        },
+        {
+          "x": 11,
+          "y": 6,
+          "ourMapGroup": 3,
+          "ourMapNum": 45,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_MT_EMBER_EXTERIOR",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 97,
+          "duplicates": [
+            {
+              "x": 12,
+              "y": 6,
+              "ourMapGroup": 3,
+              "ourMapNum": 45,
+              "ourID": 1,
+              "destID": 1,
+              "destMapString": "MAP_MT_EMBER_EXTERIOR",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 1,
+              "destMapNum": 97,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 15,
+          "y": 58,
+          "ourMapGroup": 3,
+          "ourMapNum": 45,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_ONE_ISLAND_KINDLE_ROAD_EMBER_SPA",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 57,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+- Moved the gym maps and a few others to "Unused Warps".
+
+Bugs:
+- One Island Pokemon Center is not randomized.  If you want to go into that quagmire, that's your own problem.
+
+To Fix:
+-Teleport from anywhere works but fly doesn't (See Task_Flymap) (Only in FR)
+-Weight the RNG by open warps so that we don't end up with all the warps in the biggest hubs facing each other.
+
+-We're done!

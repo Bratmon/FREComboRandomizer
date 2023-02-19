@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 3,
+          "y": 1,
+          "ourMapGroup": 9,
+          "ourMapNum": 1,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_SLATEPORT_CITY_STERNS_SHIPYARD_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 9,
+          "destMapNum": 0,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

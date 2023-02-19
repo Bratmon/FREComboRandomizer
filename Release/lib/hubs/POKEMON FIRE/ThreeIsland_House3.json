@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 4,
+          "y": 7,
+          "ourMapGroup": 34,
+          "ourMapNum": 5,
+          "ourID": 0,
+          "destID": 4,
+          "destMapString": "MAP_THREE_ISLAND",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 14,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

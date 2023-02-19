@@ -1,0 +1,49 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 7,
+          "y": 9,
+          "ourMapGroup": 14,
+          "ourMapNum": 9,
+          "ourID": 0,
+          "destID": 8,
+          "destMapString": "MAP_MOSSDEEP_CITY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 6,
+          "duplicates": [
+            {
+              "x": 8,
+              "y": 9,
+              "ourMapGroup": 14,
+              "ourMapNum": 9,
+              "ourID": 1,
+              "destID": 8,
+              "destMapString": "MAP_MOSSDEEP_CITY",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 6,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 13,
+          "y": 1,
+          "ourMapGroup": 14,
+          "ourMapNum": 9,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_MOSSDEEP_CITY_SPACE_CENTER_2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 10,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

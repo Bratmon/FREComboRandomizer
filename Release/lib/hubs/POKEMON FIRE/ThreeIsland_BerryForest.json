@@ -1,0 +1,49 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 43,
+          "y": 41,
+          "ourMapGroup": 1,
+          "ourMapNum": 109,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_THREE_ISLAND_BOND_BRIDGE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 48,
+          "duplicates": [
+            {
+              "x": 42,
+              "y": 41,
+              "ourMapGroup": 1,
+              "ourMapNum": 109,
+              "ourID": 1,
+              "destID": 0,
+              "destMapString": "MAP_THREE_ISLAND_BOND_BRIDGE",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 48,
+              "duplicates": []
+            },
+            {
+              "x": 44,
+              "y": 41,
+              "ourMapGroup": 1,
+              "ourMapNum": 109,
+              "ourID": 2,
+              "destID": 1,
+              "destMapString": "MAP_THREE_ISLAND_BOND_BRIDGE",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 48,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

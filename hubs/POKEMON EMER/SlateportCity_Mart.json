@@ -1,0 +1,36 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 3,
+          "y": 7,
+          "ourMapGroup": 9,
+          "ourMapNum": 13,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_SLATEPORT_CITY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 1,
+          "duplicates": [
+            {
+              "x": 4,
+              "y": 7,
+              "ourMapGroup": 9,
+              "ourMapNum": 13,
+              "ourID": 1,
+              "destID": 1,
+              "destMapString": "MAP_SLATEPORT_CITY",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 1,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

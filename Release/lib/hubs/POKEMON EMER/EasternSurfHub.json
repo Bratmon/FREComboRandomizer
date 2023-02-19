@@ -1,0 +1,81 @@
+{
+  "hubs": [
+    {
+      "requirements": ["hsurf"],
+      "provides": ["eastern_sea"],
+      "warps": [
+        {
+          "x": 70,
+          "y": 48,
+          "ourMapGroup": 0,
+          "ourMapNum": 39,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE124_DIVING_TREASURE_HUNTERS_HOUSE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 33,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 36,
+          "y": 6,
+          "ourMapGroup": 0,
+          "ourMapNum": 46,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SKY_PILLAR_ENTRANCE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 77,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "requirements":["hsurf", "hdive", "eastern_sea"],
+      "always_available": true,
+      "warps":[
+        {
+          "x": 45,
+          "y": 65,
+          "ourMapGroup": 0,
+          "ourMapNum": 51,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_UNDERWATER_SOOTOPOLIS_CITY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 5,
+          "duplicates": []
+        },    
+        {
+          "x": 38,
+          "y": 26,
+          "ourMapGroup": 0,
+          "ourMapNum": 53,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_UNDERWATER_SEAFLOOR_CAVERN",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 26,
+          "duplicates": []
+        },
+        {
+          "x": 8,
+          "y": 8,
+          "ourMapGroup": 24,
+          "ourMapNum": 69,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_UNDERWATER_SEALED_CHAMBER",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 70,
+          "duplicates": []
+        }            
+      ]
+    }
+  ]
+}

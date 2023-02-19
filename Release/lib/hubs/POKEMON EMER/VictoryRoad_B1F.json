@@ -1,0 +1,114 @@
+{
+  "hubs": [
+    {
+      "requirements": [
+        "hflash",
+        "hstrength",
+        "hrocksmash"
+      ],
+      "warps": [
+        {
+          "x": 30,
+          "y": 25,
+          "ourMapGroup": 24,
+          "ourMapNum": 44,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_VICTORY_ROAD_B2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 45,
+          "duplicates": []
+        },
+        {
+          "x": 42,
+          "y": 25,
+          "ourMapGroup": 24,
+          "ourMapNum": 44,
+          "ourID": 2,
+          "destID": 3,
+          "destMapString": "MAP_VICTORY_ROAD_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 43,
+          "duplicates": []
+        },
+        {
+          "x": 8,
+          "y": 3,
+          "ourMapGroup": 24,
+          "ourMapNum": 44,
+          "ourID": 4,
+          "destID": 4,
+          "destMapString": "MAP_VICTORY_ROAD_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 43,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements":["hstrength", "hrocksmash", "hflash"],
+      "warps":[
+        {
+          "x": 17,
+          "y": 16,
+          "ourMapGroup": 24,
+          "ourMapNum": 44,
+          "ourID": 1,
+          "destID": 2,
+          "destMapString": "MAP_VICTORY_ROAD_B2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 45,
+          "duplicates": []
+        },
+        {
+          "x": 20,
+          "y": 21,
+          "ourMapGroup": 24,
+          "ourMapNum": 44,
+          "ourID": 5,
+          "destID": 2,
+          "destMapString": "MAP_VICTORY_ROAD_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 43,
+          "duplicates": []
+        },
+        {
+          "x": 5,
+          "y": 26,
+          "ourMapGroup": 24,
+          "ourMapNum": 44,
+          "ourID": 6,
+          "destID": 3,
+          "destMapString": "MAP_VICTORY_ROAD_B2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 45,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "requirements":["hflash"],
+      "warps":[
+        {
+          "x": 42,
+          "y": 2,
+          "ourMapGroup": 24,
+          "ourMapNum": 44,
+          "ourID": 3,
+          "destID": 1,
+          "destMapString": "MAP_VICTORY_ROAD_B2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 45,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

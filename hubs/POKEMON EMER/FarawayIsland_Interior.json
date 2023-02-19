@@ -1,0 +1,36 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 12,
+          "y": 19,
+          "ourMapGroup": 26,
+          "ourMapNum": 57,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_FARAWAY_ISLAND_ENTRANCE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 56,
+          "duplicates": [
+            {
+              "x": 13,
+              "y": 19,
+              "ourMapGroup": 26,
+              "ourMapNum": 57,
+              "ourID": 1,
+              "destID": 1,
+              "destMapString": "MAP_FARAWAY_ISLAND_ENTRANCE",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 26,
+              "destMapNum": 56,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

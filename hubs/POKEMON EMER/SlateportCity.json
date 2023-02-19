@@ -1,0 +1,157 @@
+{
+  "hubs": [
+    {
+      "warps":[
+        {
+          "x": 30,
+          "y": 26,
+          "ourMapGroup": 0,
+          "ourMapNum": 1,
+          "ourID": 5,
+          "destID": 0,
+          "destMapString": "MAP_SLATEPORT_CITY_OCEANIC_MUSEUM_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 9,
+          "destMapNum": 7,
+          "duplicates": [
+            {
+              "x": 31,
+              "y": 26,
+              "ourMapGroup": 0,
+              "ourMapNum": 1,
+              "ourID": 7,
+              "destID": 1,
+              "destMapString": "MAP_SLATEPORT_CITY_OCEANIC_MUSEUM_1F",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 9,
+              "destMapNum": 7,
+              "duplicates": []
+            }
+          ]
+        }        
+      ]
+    },
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 19,
+          "y": 19,
+          "ourMapGroup": 0,
+          "ourMapNum": 1,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SLATEPORT_CITY_POKEMON_CENTER_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 9,
+          "destMapNum": 11,
+          "duplicates": []
+        },
+        {
+          "x": 13,
+          "y": 26,
+          "ourMapGroup": 0,
+          "ourMapNum": 1,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_SLATEPORT_CITY_MART",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 9,
+          "destMapNum": 13,
+          "duplicates": []
+        },
+        {
+          "x": 26,
+          "y": 38,
+          "ourMapGroup": 0,
+          "ourMapNum": 1,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_SLATEPORT_CITY_STERNS_SHIPYARD_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 9,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 10,
+          "y": 12,
+          "ourMapGroup": 0,
+          "ourMapNum": 1,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_SLATEPORT_CITY_BATTLE_TENT_LOBBY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 9,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 4,
+          "y": 26,
+          "ourMapGroup": 0,
+          "ourMapNum": 1,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_SLATEPORT_CITY_POKEMON_FAN_CLUB",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 9,
+          "destMapNum": 6,
+          "duplicates": []
+        },
+        {
+          "x": 5,
+          "y": 19,
+          "ourMapGroup": 0,
+          "ourMapNum": 1,
+          "ourID": 6,
+          "destID": 0,
+          "destMapString": "MAP_SLATEPORT_CITY_NAME_RATERS_HOUSE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 9,
+          "destMapNum": 5,
+          "duplicates": []
+        },
+        {
+          "x": 21,
+          "y": 44,
+          "ourMapGroup": 0,
+          "ourMapNum": 1,
+          "ourID": 10,
+          "destID": 0,
+          "destMapString": "MAP_SLATEPORT_CITY_HOUSE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 9,
+          "destMapNum": 10,
+          "duplicates": []
+        },
+        {
+          "x": 12,
+          "y": 5,
+          "ourMapGroup": 0,
+          "ourMapNum": 24,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE109_SEASHORE_HOUSE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 28,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 16,
+          "y": 88,
+          "ourMapGroup": 0,
+          "ourMapNum": 25,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE110_SEASIDE_CYCLING_ROAD_NORTH_ENTRANCE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 29,
+          "destMapNum": 11,
+          "duplicates": []
+        }           
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "hubs": [
+    {
+      "warps":[
+        {
+          "x": 32,
+          "y": 42,
+          "ourMapGroup": 0,
+          "ourMapNum": 19,
+          "ourID": 6,
+          "destID": 4,
+          "destMapString": "MAP_PETALBURG_WOODS",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 11,
+          "duplicates": [
+            {
+              "x": 33,
+              "y": 42,
+              "ourMapGroup": 0,
+              "ourMapNum": 19,
+              "ourID": 7,
+              "destID": 5,
+              "destMapString": "MAP_PETALBURG_WOODS",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 24,
+              "destMapNum": 11,
+              "duplicates": []
+            }
+          ]
+        }        
+      ]
+    }
+  ]
+}

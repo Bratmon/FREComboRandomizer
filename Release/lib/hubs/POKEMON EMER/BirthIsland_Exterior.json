@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 15,
+          "y": 24,
+          "ourMapGroup": 26,
+          "ourMapNum": 58,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_BIRTH_ISLAND_HARBOR",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 59,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

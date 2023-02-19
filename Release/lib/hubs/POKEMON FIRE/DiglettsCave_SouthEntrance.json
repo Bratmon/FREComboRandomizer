@@ -1,0 +1,35 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 4,
+          "y": 6,
+          "ourMapGroup": 1,
+          "ourMapNum": 38,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE11",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 29,
+          "duplicates": []
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "ourMapGroup": 1,
+          "ourMapNum": 38,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_DIGLETTS_CAVE_B1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 37,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

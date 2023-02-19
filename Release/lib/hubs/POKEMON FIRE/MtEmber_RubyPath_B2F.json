@@ -1,0 +1,35 @@
+{
+  "hubs": [
+    {
+      "requirements": ["kstrength"],
+      "warps": [
+        {
+          "x": 1,
+          "y": 7,
+          "ourMapGroup": 1,
+          "ourMapNum": 105,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_MT_EMBER_RUBY_PATH_B1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 104,
+          "duplicates": []
+        },
+        {
+          "x": 13,
+          "y": 9,
+          "ourMapGroup": 1,
+          "ourMapNum": 105,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_MT_EMBER_RUBY_PATH_B3F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 106,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

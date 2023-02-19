@@ -1,0 +1,88 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 3,
+          "y": 9,
+          "ourMapGroup": 12,
+          "ourMapNum": 1,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_CINNABAR_ISLAND",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 8,
+          "duplicates": [
+            {
+              "x": 4,
+              "y": 9,
+              "ourMapGroup": 12,
+              "ourMapNum": 1,
+              "ourID": 1,
+              "destID": 2,
+              "destMapString": "MAP_CINNABAR_ISLAND",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 8,
+              "duplicates": []
+            },
+            {
+              "x": 5,
+              "y": 9,
+              "ourMapGroup": 12,
+              "ourMapNum": 1,
+              "ourID": 2,
+              "destID": 2,
+              "destMapString": "MAP_CINNABAR_ISLAND",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 8,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 13,
+          "y": 5,
+          "ourMapGroup": 12,
+          "ourMapNum": 1,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_CINNABAR_ISLAND_POKEMON_LAB_LOUNGE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 12,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 19,
+          "y": 5,
+          "ourMapGroup": 12,
+          "ourMapNum": 1,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_CINNABAR_ISLAND_POKEMON_LAB_RESEARCH_ROOM",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 12,
+          "destMapNum": 3,
+          "duplicates": []
+        },
+        {
+          "x": 25,
+          "y": 5,
+          "ourMapGroup": 12,
+          "ourMapNum": 1,
+          "ourID": 5,
+          "destID": 0,
+          "destMapString": "MAP_CINNABAR_ISLAND_POKEMON_LAB_EXPERIMENT_ROOM",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 12,
+          "destMapNum": 4,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

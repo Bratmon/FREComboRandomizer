@@ -1,0 +1,66 @@
+{
+  "hubs": [
+    {
+      "warps":[
+        {
+          "x": 35,
+          "y": 3,
+          "ourMapGroup": 24,
+          "ourMapNum": 7,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_GRANITE_CAVE_B1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 8,
+          "duplicates": []
+        },
+        {
+          "x": 5,
+          "y": 10,
+          "ourMapGroup": 24,
+          "ourMapNum": 7,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_GRANITE_CAVE_STEVENS_ROOM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 10,
+          "duplicates": []
+        }           
+      ]
+    },
+    {
+      "requirements": [],
+      "provides": ["hm05"],
+      "warps": [
+        {
+          "x": 37,
+          "y": 12,
+          "ourMapGroup": 24,
+          "ourMapNum": 7,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE106",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 21,
+          "duplicates": []
+        },
+        {
+          "x": 17,
+          "y": 11,
+          "ourMapGroup": 24,
+          "ourMapNum": 7,
+          "ourID": 2,
+          "destID": 1,
+          "destMapString": "MAP_GRANITE_CAVE_B1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 8,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

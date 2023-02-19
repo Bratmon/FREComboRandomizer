@@ -1,0 +1,158 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "xy_required": true,
+      "warps": [
+        {
+          "x": 8,
+          "y": 7,
+          "ourMapGroup": 13,
+          "ourMapNum": 16,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 5,
+          "duplicates": [
+            {
+              "x": 9,
+              "y": 7,
+              "ourMapGroup": 13,
+              "ourMapNum": 16,
+              "ourID": 1,
+              "destID": 0,
+              "destMapString": "MAP_LILYCOVE_CITY",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 5,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 16,
+          "y": 1,
+          "ourMapGroup": 13,
+          "ourMapNum": 16,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY_DEPARTMENT_STORE_2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 17,
+          "duplicates": []
+        },
+        {
+          "x": 16,
+          "y": 1,
+          "ourMapGroup": 13,
+          "ourMapNum": 17,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_LILYCOVE_CITY_DEPARTMENT_STORE_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 16,
+          "duplicates": []
+        },
+        {
+          "x": 13,
+          "y": 1,
+          "ourMapGroup": 13,
+          "ourMapNum": 17,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY_DEPARTMENT_STORE_3F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 18,
+          "duplicates": []
+        },
+        {
+          "x": 13,
+          "y": 1,
+          "ourMapGroup": 13,
+          "ourMapNum": 18,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_LILYCOVE_CITY_DEPARTMENT_STORE_2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 17,
+          "duplicates": []
+        },
+        {
+          "x": 16,
+          "y": 1,
+          "ourMapGroup": 13,
+          "ourMapNum": 18,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY_DEPARTMENT_STORE_4F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 19,
+          "duplicates": []
+        },
+        {
+          "x": 16,
+          "y": 1,
+          "ourMapGroup": 13,
+          "ourMapNum": 19,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_LILYCOVE_CITY_DEPARTMENT_STORE_3F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 18,
+          "duplicates": []
+        },
+        {
+          "x": 13,
+          "y": 1,
+          "ourMapGroup": 13,
+          "ourMapNum": 19,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY_DEPARTMENT_STORE_5F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 20,
+          "duplicates": []
+        },
+        {
+          "x": 13,
+          "y": 1,
+          "ourMapGroup": 13,
+          "ourMapNum": 20,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_LILYCOVE_CITY_DEPARTMENT_STORE_4F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 19,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "warps":[
+        {
+          "x": 16,
+          "y": 1,
+          "ourMapGroup": 13,
+          "ourMapNum": 20,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY_DEPARTMENT_STORE_ROOFTOP",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 21,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 3,
+          "y": 17,
+          "ourMapGroup": 1,
+          "ourMapNum": 111,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_FOUR_ISLAND_ICEFALL_CAVE_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 110,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 12,
+          "y": 12,
+          "ourMapGroup": 1,
+          "ourMapNum": 111,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_FOUR_ISLAND_ICEFALL_CAVE_B1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 112,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 12,
+          "y": 3,
+          "ourMapGroup": 1,
+          "ourMapNum": 111,
+          "ourID": 3,
+          "destID": 1,
+          "destMapString": "MAP_FOUR_ISLAND_ICEFALL_CAVE_B1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 112,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements": [],
+      "provides": ["hm07"],
+      "warps": [
+        {
+          "x": 15,
+          "y": 16,
+          "ourMapGroup": 1,
+          "ourMapNum": 111,
+          "ourID": 4,
+          "destID": 2,
+          "destMapString": "MAP_FOUR_ISLAND_ICEFALL_CAVE_B1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 112,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 3,
+          "y": 6,
+          "ourMapGroup": 1,
+          "ourMapNum": 111,
+          "ourID": 5,
+          "destID": 0,
+          "destMapString": "MAP_FOUR_ISLAND_ICEFALL_CAVE_BACK",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 113,
+          "duplicates": []
+        },
+        {
+          "x": 2,
+          "y": 8,
+          "ourMapGroup": 1,
+          "ourMapNum": 111,
+          "ourID": 1,
+          "destID": 2,
+          "destMapString": "MAP_FOUR_ISLAND_ICEFALL_CAVE_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 110,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

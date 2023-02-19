@@ -1,0 +1,90 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 14,
+          "y": 5,
+          "ourMapGroup": 24,
+          "ourMapNum": 11,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_ROUTE104",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 19,
+          "duplicates": [
+            {
+              "x": 15,
+              "y": 5,
+              "ourMapGroup": 24,
+              "ourMapNum": 11,
+              "ourID": 1,
+              "destID": 3,
+              "destMapString": "MAP_ROUTE104",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 19,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 16,
+          "y": 38,
+          "ourMapGroup": 24,
+          "ourMapNum": 11,
+          "ourID": 2,
+          "destID": 4,
+          "destMapString": "MAP_ROUTE104",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 19,
+          "duplicates": [
+            {
+              "x": 17,
+              "y": 38,
+              "ourMapGroup": 24,
+              "ourMapNum": 11,
+              "ourID": 3,
+              "destID": 5,
+              "destMapString": "MAP_ROUTE104",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 19,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 36,
+          "y": 38,
+          "ourMapGroup": 24,
+          "ourMapNum": 11,
+          "ourID": 4,
+          "destID": 6,
+          "destMapString": "MAP_ROUTE104",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 19,
+          "duplicates": [
+            {
+              "x": 37,
+              "y": 38,
+              "ourMapGroup": 24,
+              "ourMapNum": 11,
+              "ourID": 5,
+              "destID": 7,
+              "destMapString": "MAP_ROUTE104",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 19,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

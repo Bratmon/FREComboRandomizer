@@ -1,0 +1,167 @@
+{
+  "hubs": [
+    {
+      "always_available": true,
+      "requirements": [],
+      "warps": [
+        {
+          "x": 5,
+          "y": 7,
+          "ourMapGroup": 0,
+          "ourMapNum": 10,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_OLDALE_TOWN_HOUSE1",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 2,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 15,
+          "y": 16,
+          "ourMapGroup": 0,
+          "ourMapNum": 10,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_OLDALE_TOWN_HOUSE2",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 2,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 6,
+          "y": 16,
+          "ourMapGroup": 0,
+          "ourMapNum": 10,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_OLDALE_TOWN_POKEMON_CENTER_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 2,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 14,
+          "y": 6,
+          "ourMapGroup": 0,
+          "ourMapNum": 10,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_OLDALE_TOWN_MART",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 2,
+          "destMapNum": 4,
+          "duplicates": []
+        },
+        {
+          "x": 10,
+          "y": 19,
+          "ourMapGroup": 0,
+          "ourMapNum": 0,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_PETALBURG_CITY_HOUSE1",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 15,
+          "y": 8,
+          "ourMapGroup": 0,
+          "ourMapNum": 0,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": []
+        },        
+        {
+          "x": 20,
+          "y": 16,
+          "ourMapGroup": 0,
+          "ourMapNum": 0,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_PETALBURG_CITY_POKEMON_CENTER_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 4,
+          "duplicates": []
+        },
+        {
+          "x": 20,
+          "y": 24,
+          "ourMapGroup": 0,
+          "ourMapNum": 0,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_PETALBURG_CITY_HOUSE2",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 3,
+          "duplicates": []
+        },
+        {
+          "x": 25,
+          "y": 12,
+          "ourMapGroup": 0,
+          "ourMapNum": 0,
+          "ourID": 5,
+          "destID": 0,
+          "destMapString": "MAP_PETALBURG_CITY_MART",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 6,
+          "duplicates": []
+        },
+        {
+          "x": 17,
+          "y": 50,
+          "ourMapGroup": 0,
+          "ourMapNum": 19,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE104_MR_BRINEYS_HOUSE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 17,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 10,
+          "y": 38,
+          "ourMapGroup": 0,
+          "ourMapNum": 19,
+          "ourID": 4,
+          "destID": 2,
+          "destMapString": "MAP_PETALBURG_WOODS",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 11,
+          "duplicates": [
+            {
+              "x": 11,
+              "y": 38,
+              "ourMapGroup": 0,
+              "ourMapNum": 19,
+              "ourID": 5,
+              "destID": 3,
+              "destMapString": "MAP_PETALBURG_WOODS",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 24,
+              "destMapNum": 11,
+              "duplicates": []
+            }
+          ]
+        }        
+      ]
+    }
+  ]
+}

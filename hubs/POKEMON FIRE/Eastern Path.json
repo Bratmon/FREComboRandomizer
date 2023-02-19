@@ -1,0 +1,61 @@
+{
+  "hubs": [
+    {
+      "requirements": ["poke_flute", "kcut"],
+      "warps": [
+        {
+          "x": 16,
+          "y": 11,
+          "ourMapGroup": 3,
+          "ourMapNum": 33,
+          "ourID": 1,
+          "destID": 2,
+          "destMapString": "MAP_ROUTE15_WEST_ENTRANCE_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 24,
+          "destMapNum": 0,
+          "duplicates": []
+        },        
+        {
+          "x": 65,
+          "y": 10,
+          "ourMapGroup": 3,
+          "ourMapNum": 29,
+          "ourID": 2,
+          "destID": 2,
+          "destMapString": "MAP_ROUTE11_EAST_ENTRANCE_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 22,
+          "destMapNum": 0,
+          "duplicates": []
+        },        
+        {
+          "x": 12,
+          "y": 86,
+          "ourMapGroup": 3,
+          "ourMapNum": 30,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_ROUTE12_FISHING_HOUSE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 23,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 14,
+          "y": 21,
+          "ourMapGroup": 3,
+          "ourMapNum": 30,
+          "ourID": 3,
+          "destID": 2,
+          "destMapString": "MAP_ROUTE12_NORTH_ENTRANCE_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 23,
+          "destMapNum": 0,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

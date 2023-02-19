@@ -1,0 +1,49 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 6,
+          "y": 13,
+          "ourMapGroup": 24,
+          "ourMapNum": 79,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_SKY_PILLAR_OUTSIDE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 78,
+          "duplicates": [
+            {
+              "x": 7,
+              "y": 13,
+              "ourMapGroup": 24,
+              "ourMapNum": 79,
+              "ourID": 1,
+              "destID": 1,
+              "destMapString": "MAP_SKY_PILLAR_OUTSIDE",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 24,
+              "destMapNum": 78,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 10,
+          "y": 1,
+          "ourMapGroup": 24,
+          "ourMapNum": 79,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_SKY_PILLAR_2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 80,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

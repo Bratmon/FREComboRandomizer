@@ -1,0 +1,153 @@
+{
+  "hubs": [
+    {
+      "provides": ["fallarbor"],
+      "requirements": [],
+      "warps": [
+        {
+          "x": 15,
+          "y": 15,
+          "ourMapGroup": 0,
+          "ourMapNum": 13,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_FALLARBOR_TOWN_MART",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 5,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 8,
+          "y": 7,
+          "ourMapGroup": 0,
+          "ourMapNum": 13,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_FALLARBOR_TOWN_BATTLE_TENT_LOBBY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 5,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 14,
+          "y": 7,
+          "ourMapGroup": 0,
+          "ourMapNum": 13,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_FALLARBOR_TOWN_POKEMON_CENTER_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 5,
+          "destMapNum": 4,
+          "duplicates": []
+        },
+        {
+          "x": 6,
+          "y": 17,
+          "ourMapGroup": 0,
+          "ourMapNum": 13,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_FALLARBOR_TOWN_COZMOS_HOUSE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 5,
+          "destMapNum": 6,
+          "duplicates": []
+        },
+        {
+          "x": 1,
+          "y": 6,
+          "ourMapGroup": 0,
+          "ourMapNum": 13,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_FALLARBOR_TOWN_MOVE_RELEARNERS_HOUSE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 5,
+          "destMapNum": 7,
+          "duplicates": []
+        },
+        {
+          "x": 8,
+          "y": 63,
+          "ourMapGroup": 0,
+          "ourMapNum": 29,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_METEOR_FALLS_1F_1R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 29,
+          "y": 5,
+          "ourMapGroup": 0,
+          "ourMapNum": 29,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE114_FOSSIL_MANIACS_HOUSE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 20,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 27,
+          "y": 36,
+          "ourMapGroup": 0,
+          "ourMapNum": 29,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE114_LANETTES_HOUSE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 20,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 33,
+          "y": 5,
+          "ourMapGroup": 0,
+          "ourMapNum": 28,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE113_GLASS_WORKSHOP",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 30,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 26,
+          "y": 18,
+          "ourMapGroup": 0,
+          "ourMapNum": 26,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE111_OLD_LADYS_REST_STOP",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 18,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 22,
+          "y": 10,
+          "ourMapGroup": 0,
+          "ourMapNum": 27,
+          "ourID": 5,
+          "destID": 1,
+          "destMapString": "MAP_FIERY_PATH",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 14,
+          "duplicates": []
+        }                       
+      ]
+    }
+  ]
+}

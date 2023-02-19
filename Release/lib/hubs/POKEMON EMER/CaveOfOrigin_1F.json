@@ -1,0 +1,36 @@
+{
+  "hubs": [
+    {
+      "xy_required": true,
+      "requirements": [],
+      "warps": [
+        {
+          "x": 11,
+          "y": 17,
+          "ourMapGroup": 24,
+          "ourMapNum": 38,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_CAVE_OF_ORIGIN_ENTRANCE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 37,
+          "duplicates": []
+        },
+        {
+          "x": 14,
+          "y": 5,
+          "ourMapGroup": 24,
+          "ourMapNum": 38,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_CAVE_OF_ORIGIN_B1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 42,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

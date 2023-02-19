@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 10,
+          "y": 12,
+          "ourMapGroup": 24,
+          "ourMapNum": 98,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_ROUTE114_FOSSIL_MANIACS_TUNNEL",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 20,
+          "destMapNum": 1,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "hubs": [
+    {
+      "requirements":["h_pokemon_league", "hgym8"],
+      "always_available": true,
+      "warps":[
+        {
+          "x": 9,
+          "y": 1,
+          "ourMapGroup": 16,
+          "ourMapNum": 10,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_EVER_GRANDE_CITY_HALL5",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 16,
+          "destMapNum": 9,
+          "duplicates": [
+            {
+              "x": 10,
+              "y": 1,
+              "ourMapGroup": 16,
+              "ourMapNum": 10,
+              "ourID": 3,
+              "destID": 0,
+              "destMapString": "MAP_EVER_GRANDE_CITY_HALL5",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 16,
+              "destMapNum": 9,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "requirements": [],
+      "provides": ["h_pokemon_league"],
+      "warps": [
+        {
+          "x": 9,
+          "y": 11,
+          "ourMapGroup": 16,
+          "ourMapNum": 10,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_EVER_GRANDE_CITY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 8,
+          "duplicates": [
+            {
+              "x": 10,
+              "y": 11,
+              "ourMapGroup": 16,
+              "ourMapNum": 10,
+              "ourID": 1,
+              "destID": 0,
+              "destMapString": "MAP_EVER_GRANDE_CITY",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 8,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 1,
+          "y": 7,
+          "ourMapGroup": 16,
+          "ourMapNum": 10,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_EVER_GRANDE_CITY_POKEMON_LEAGUE_2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 16,
+          "destMapNum": 14,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

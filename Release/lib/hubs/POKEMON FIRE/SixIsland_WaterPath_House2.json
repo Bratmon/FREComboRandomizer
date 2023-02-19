@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 4,
+          "y": 7,
+          "ourMapGroup": 41,
+          "ourMapNum": 1,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_SIX_ISLAND_WATER_PATH",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 60,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

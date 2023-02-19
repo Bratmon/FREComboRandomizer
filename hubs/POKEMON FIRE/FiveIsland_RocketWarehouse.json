@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 24,
+          "y": 25,
+          "ourMapGroup": 1,
+          "ourMapNum": 114,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_FIVE_ISLAND_MEADOW",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 56,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

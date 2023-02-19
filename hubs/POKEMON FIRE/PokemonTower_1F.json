@@ -1,0 +1,62 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 10,
+          "y": 19,
+          "ourMapGroup": 1,
+          "ourMapNum": 88,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_LAVENDER_TOWN",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 4,
+          "duplicates": [
+            {
+              "x": 11,
+              "y": 18,
+              "ourMapGroup": 1,
+              "ourMapNum": 88,
+              "ourID": 1,
+              "destID": 0,
+              "destMapString": "MAP_LAVENDER_TOWN",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 4,
+              "duplicates": []
+            },
+            {
+              "x": 12,
+              "y": 19,
+              "ourMapGroup": 1,
+              "ourMapNum": 88,
+              "ourID": 2,
+              "destID": 0,
+              "destMapString": "MAP_LAVENDER_TOWN",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 4,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 18,
+          "y": 9,
+          "ourMapGroup": 1,
+          "ourMapNum": 88,
+          "ourID": 3,
+          "destID": 1,
+          "destMapString": "MAP_POKEMON_TOWER_2F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 89,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

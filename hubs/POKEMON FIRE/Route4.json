@@ -1,0 +1,54 @@
+{
+  "hubs": [
+    {
+      "requirements": ["pewter_city", "kgym1"],
+      "always_available": true,
+      "warps": [
+        {
+          "x": 19,
+          "y": 5,
+          "ourMapGroup": 3,
+          "ourMapNum": 22,
+          "ourID": 0,
+          "destID": 3,
+          "destMapString": "MAP_MT_MOON_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 12,
+          "y": 5,
+          "ourMapGroup": 3,
+          "ourMapNum": 22,
+          "ourID": 2,
+          "destID": 1,
+          "destMapString": "MAP_ROUTE4_POKEMON_CENTER_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 16,
+          "destMapNum": 0,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements": [],
+      "warps":[
+        {
+          "x": 32,
+          "y": 5,
+          "ourMapGroup": 3,
+          "ourMapNum": 22,
+          "ourID": 1,
+          "destID": 7,
+          "destMapString": "MAP_MT_MOON_B1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 2,
+          "duplicates": []
+        }        
+      ]
+    }    
+  ]
+}

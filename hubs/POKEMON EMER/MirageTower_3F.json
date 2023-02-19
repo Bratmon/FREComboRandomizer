@@ -1,0 +1,35 @@
+{
+  "hubs": [
+    {
+      "requirements": ["hrocksmash"],
+      "warps": [
+        {
+          "x": 18,
+          "y": 12,
+          "ourMapGroup": 24,
+          "ourMapNum": 96,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_MIRAGE_TOWER_2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 95,
+          "duplicates": []
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "ourMapGroup": 24,
+          "ourMapNum": 96,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_MIRAGE_TOWER_4F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 97,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

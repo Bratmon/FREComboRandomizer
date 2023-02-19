@@ -1,0 +1,50 @@
+{
+  "hubs": [
+    {
+      "requirements": ["kgym6"],
+      "provides": ["kgym7"],
+      "warps": [
+        {
+          "x": 24,
+          "y": 23,
+          "ourMapGroup": 12,
+          "ourMapNum": 0,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_CINNABAR_ISLAND",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 8,
+          "duplicates": [
+            {
+              "x": 25,
+              "y": 23,
+              "ourMapGroup": 12,
+              "ourMapNum": 0,
+              "ourID": 1,
+              "destID": 1,
+              "destMapString": "MAP_CINNABAR_ISLAND",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 8,
+              "duplicates": []
+            },
+            {
+              "x": 26,
+              "y": 23,
+              "ourMapGroup": 12,
+              "ourMapNum": 0,
+              "ourID": 2,
+              "destID": 1,
+              "destMapString": "MAP_CINNABAR_ISLAND",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 8,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

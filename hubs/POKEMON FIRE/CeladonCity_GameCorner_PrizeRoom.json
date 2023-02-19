@@ -1,0 +1,49 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 3,
+          "y": 9,
+          "ourMapGroup": 10,
+          "ourMapNum": 15,
+          "ourID": 0,
+          "destID": 5,
+          "destMapString": "MAP_CELADON_CITY",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 6,
+          "duplicates": [
+            {
+              "x": 4,
+              "y": 8,
+              "ourMapGroup": 10,
+              "ourMapNum": 15,
+              "ourID": 1,
+              "destID": 5,
+              "destMapString": "MAP_CELADON_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 6,
+              "duplicates": []
+            },
+            {
+              "x": 5,
+              "y": 9,
+              "ourMapGroup": 10,
+              "ourMapNum": 15,
+              "ourID": 2,
+              "destID": 5,
+              "destMapString": "MAP_CELADON_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 6,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

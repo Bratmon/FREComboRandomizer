@@ -1,0 +1,62 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides":["five_island"],
+      "warps": [
+        {
+          "x": 12,
+          "y": 14,
+          "ourMapGroup": 3,
+          "ourMapNum": 16,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_FIVE_ISLAND_HARBOR",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 36,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 18,
+          "y": 6,
+          "ourMapGroup": 3,
+          "ourMapNum": 16,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_FIVE_ISLAND_POKEMON_CENTER_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 36,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 12,
+          "y": 6,
+          "ourMapGroup": 3,
+          "ourMapNum": 16,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_FIVE_ISLAND_HOUSE1",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 36,
+          "destMapNum": 3,
+          "duplicates": []
+        },
+        {
+          "x": 22,
+          "y": 9,
+          "ourMapGroup": 3,
+          "ourMapNum": 16,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_FIVE_ISLAND_HOUSE2",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 36,
+          "destMapNum": 4,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

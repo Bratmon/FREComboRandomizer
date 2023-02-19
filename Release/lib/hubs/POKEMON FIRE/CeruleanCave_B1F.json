@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 5,
+          "y": 7,
+          "ourMapGroup": 1,
+          "ourMapNum": 74,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_CERULEAN_CAVE_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 72,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

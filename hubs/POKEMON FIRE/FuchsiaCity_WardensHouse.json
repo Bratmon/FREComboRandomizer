@@ -1,0 +1,50 @@
+{
+  "hubs": [
+    {
+      "requirements": ["gold_teeth"],
+      "provides": ["hm04"],
+      "warps": [
+        {
+          "x": 6,
+          "y": 9,
+          "ourMapGroup": 11,
+          "ourMapNum": 7,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_FUCHSIA_CITY",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 7,
+          "duplicates": [
+            {
+              "x": 5,
+              "y": 10,
+              "ourMapGroup": 11,
+              "ourMapNum": 7,
+              "ourID": 0,
+              "destID": 1,
+              "destMapString": "MAP_FUCHSIA_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 7,
+              "duplicates": []
+            },
+            {
+              "x": 7,
+              "y": 10,
+              "ourMapGroup": 11,
+              "ourMapNum": 7,
+              "ourID": 2,
+              "destID": 1,
+              "destMapString": "MAP_FUCHSIA_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 7,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

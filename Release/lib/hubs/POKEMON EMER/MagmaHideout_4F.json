@@ -1,0 +1,36 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["groudon_awake"],
+      "warps": [
+        {
+          "x": 46,
+          "y": 7,
+          "ourMapGroup": 24,
+          "ourMapNum": 91,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_MAGMA_HIDEOUT_3F_1R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 89,
+          "duplicates": []
+        },
+        {
+          "x": 20,
+          "y": 21,
+          "ourMapGroup": 24,
+          "ourMapNum": 91,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_MAGMA_HIDEOUT_3F_3R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 92,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

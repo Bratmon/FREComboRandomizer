@@ -1,0 +1,70 @@
+{
+  "hubs": [
+    {
+      "requirements": [
+        "kflash"
+      ],
+      "warps": [
+        {
+          "x": 38,
+          "y": 28,
+          "ourMapGroup": 1,
+          "ourMapNum": 82,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_ROCK_TUNNEL_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 81,
+          "duplicates": []
+        },
+        {
+          "x": 33,
+          "y": 3,
+          "ourMapGroup": 1,
+          "ourMapNum": 82,
+          "ourID": 1,
+          "destID": 2,
+          "destMapString": "MAP_ROCK_TUNNEL_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 81,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements": [
+        "kflash"
+      ],
+      "warps": [
+        {
+          "x": 27,
+          "y": 12,
+          "ourMapGroup": 1,
+          "ourMapNum": 82,
+          "ourID": 2,
+          "destID": 3,
+          "destMapString": "MAP_ROCK_TUNNEL_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 81,
+          "duplicates": []
+        },
+        {
+          "x": 2,
+          "y": 3,
+          "ourMapGroup": 1,
+          "ourMapNum": 82,
+          "ourID": 3,
+          "destID": 4,
+          "destMapString": "MAP_ROCK_TUNNEL_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 81,
+          "duplicates": []
+        }
+      ]
+    }    
+  ]
+}

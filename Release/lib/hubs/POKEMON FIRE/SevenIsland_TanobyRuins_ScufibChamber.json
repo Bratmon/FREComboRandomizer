@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 11,
+          "y": 15,
+          "ourMapGroup": 2,
+          "ourMapNum": 31,
+          "ourID": 0,
+          "destID": 4,
+          "destMapString": "MAP_SEVEN_ISLAND_TANOBY_RUINS",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 65,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

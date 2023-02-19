@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "requirements": ["mauville", "go_goggles"],
+      "always_available": true, 
+      "warps": [
+        {
+          "x": 19,
+          "y": 58,
+          "ourMapGroup": 0,
+          "ourMapNum": 26,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_MIRAGE_TOWER_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 94,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

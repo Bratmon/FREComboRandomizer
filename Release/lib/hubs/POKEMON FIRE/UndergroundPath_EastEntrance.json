@@ -1,0 +1,62 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 5,
+          "y": 8,
+          "ourMapGroup": 1,
+          "ourMapNum": 35,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE8",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 26,
+          "duplicates": [
+            {
+              "x": 6,
+              "y": 8,
+              "ourMapGroup": 1,
+              "ourMapNum": 35,
+              "ourID": 1,
+              "destID": 0,
+              "destMapString": "MAP_ROUTE8",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 26,
+              "duplicates": []
+            },
+            {
+              "x": 7,
+              "y": 8,
+              "ourMapGroup": 1,
+              "ourMapNum": 35,
+              "ourID": 2,
+              "destID": 0,
+              "destMapString": "MAP_ROUTE8",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 26,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 7,
+          "y": 4,
+          "ourMapGroup": 1,
+          "ourMapNum": 35,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_UNDERGROUND_PATH_EAST_WEST_TUNNEL",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 34,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

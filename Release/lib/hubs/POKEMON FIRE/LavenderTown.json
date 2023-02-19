@@ -1,0 +1,153 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 18,
+          "y": 6,
+          "ourMapGroup": 3,
+          "ourMapNum": 4,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_POKEMON_TOWER_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 88,
+          "duplicates": []
+        },
+        {
+          "x": 6,
+          "y": 5,
+          "ourMapGroup": 3,
+          "ourMapNum": 4,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_LAVENDER_TOWN_POKEMON_CENTER_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 8,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 10,
+          "y": 11,
+          "ourMapGroup": 3,
+          "ourMapNum": 4,
+          "ourID": 2,
+          "destID": 1,
+          "destMapString": "MAP_LAVENDER_TOWN_VOLUNTEER_POKEMON_HOUSE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 8,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 5,
+          "y": 16,
+          "ourMapGroup": 3,
+          "ourMapNum": 4,
+          "ourID": 3,
+          "destID": 1,
+          "destMapString": "MAP_LAVENDER_TOWN_HOUSE1",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 8,
+          "destMapNum": 3,
+          "duplicates": []
+        },
+        {
+          "x": 10,
+          "y": 16,
+          "ourMapGroup": 3,
+          "ourMapNum": 4,
+          "ourID": 4,
+          "destID": 1,
+          "destMapString": "MAP_LAVENDER_TOWN_HOUSE2",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 8,
+          "destMapNum": 4,
+          "duplicates": []
+        },
+        {
+          "x": 20,
+          "y": 15,
+          "ourMapGroup": 3,
+          "ourMapNum": 4,
+          "ourID": 5,
+          "destID": 1,
+          "destMapString": "MAP_LAVENDER_TOWN_MART",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 8,
+          "destMapNum": 5,
+          "duplicates": []
+        },
+        {
+          "x": 14,
+          "y": 15,
+          "ourMapGroup": 3,
+          "ourMapNum": 30,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE12_NORTH_ENTRANCE_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 23,
+          "destMapNum": 0,
+          "duplicates": [
+            {
+              "x": 15,
+              "y": 15,
+              "ourMapGroup": 3,
+              "ourMapNum": 30,
+              "ourID": 2,
+              "destID": 1,
+              "destMapString": "MAP_ROUTE12_NORTH_ENTRANCE_1F",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 23,
+              "destMapNum": 0,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 13,
+          "y": 4,
+          "ourMapGroup": 3,
+          "ourMapNum": 26,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_UNDERGROUND_PATH_EAST_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 35,
+          "duplicates": []
+        },
+        {
+          "x": 7,
+          "y": 10,
+          "ourMapGroup": 3,
+          "ourMapNum": 26,
+          "ourID": 1,
+          "destID": 2,
+          "destMapString": "MAP_ROUTE8_WEST_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 20,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 8,
+          "y": 57,
+          "ourMapGroup": 3,
+          "ourMapNum": 28,
+          "ourID": 1,
+          "destID": 5,
+          "destMapString": "MAP_ROCK_TUNNEL_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 81,
+          "duplicates": []
+        }                 
+      ]
+    }
+  ]
+}

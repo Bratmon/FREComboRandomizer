@@ -1,0 +1,49 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 3,
+          "y": 7,
+          "ourMapGroup": 11,
+          "ourMapNum": 1,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_FUCHSIA_CITY",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 7,
+          "duplicates": [
+            {
+              "x": 4,
+              "y": 7,
+              "ourMapGroup": 11,
+              "ourMapNum": 1,
+              "ourID": 1,
+              "destID": 2,
+              "destMapString": "MAP_FUCHSIA_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 7,
+              "duplicates": []
+            },
+            {
+              "x": 5,
+              "y": 7,
+              "ourMapGroup": 11,
+              "ourMapNum": 1,
+              "ourID": 2,
+              "destID": 2,
+              "destMapString": "MAP_FUCHSIA_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 7,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

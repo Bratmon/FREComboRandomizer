@@ -1,0 +1,48 @@
+{
+  "hubs": [
+    {
+      "requirements": ["hstrength", "hrocksmash"],
+      "warps": [
+        {
+          "x": 4,
+          "y": 1,
+          "ourMapGroup": 24,
+          "ourMapNum": 32,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_SEAFLOOR_CAVERN_ROOM1",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 28,
+          "duplicates": []
+        },
+        {
+          "x": 15,
+          "y": 12,
+          "ourMapGroup": 24,
+          "ourMapNum": 32,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_SEAFLOOR_CAVERN_ROOM4",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 31,
+          "duplicates": []
+        },
+        {
+          "x": 7,
+          "y": 17,
+          "ourMapGroup": 24,
+          "ourMapNum": 32,
+          "ourID": 2,
+          "destID": 2,
+          "destMapString": "MAP_SEAFLOOR_CAVERN_ROOM4",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 31,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

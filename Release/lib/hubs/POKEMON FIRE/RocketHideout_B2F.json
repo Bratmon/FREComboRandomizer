@@ -1,0 +1,49 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["rocket_elevator"],
+      "warps": [
+        {
+          "x": 21,
+          "y": 2,
+          "ourMapGroup": 1,
+          "ourMapNum": 43,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROCKET_HIDEOUT_B3F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 44,
+          "duplicates": []
+        },
+        {
+          "x": 28,
+          "y": 2,
+          "ourMapGroup": 1,
+          "ourMapNum": 43,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_ROCKET_HIDEOUT_B1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 42,
+          "duplicates": []
+        },
+        {
+          "x": 23,
+          "y": 12,
+          "ourMapGroup": 1,
+          "ourMapNum": 43,
+          "ourID": 2,
+          "destID": 2,
+          "destMapString": "MAP_ROCKET_HIDEOUT_B1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 42,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

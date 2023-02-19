@@ -1,0 +1,37 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "xy_required": true,
+      "provides": ["five_island_rocket_base_password_two_lol"],
+      "warps": [
+        {
+          "x": 11,
+          "y": 7,
+          "ourMapGroup": 1,
+          "ourMapNum": 120,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_SIX_ISLAND_DOTTED_HOLE_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 115,
+          "duplicates": []
+        },
+        {
+          "x": 5,
+          "y": 9,
+          "ourMapGroup": 1,
+          "ourMapNum": 120,
+          "ourID": 1,
+          "destID": 3,
+          "destMapString": "MAP_SIX_ISLAND_DOTTED_HOLE_B4F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 119,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

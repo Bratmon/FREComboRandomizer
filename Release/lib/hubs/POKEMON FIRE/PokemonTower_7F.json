@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["saved_mr_fuji"],
+      "warps": [
+        {
+          "x": 11,
+          "y": 16,
+          "ourMapGroup": 1,
+          "ourMapNum": 94,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_POKEMON_TOWER_6F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 93,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "hubs": [
+    {
+      "requirements":["mauville", "hrocksmash", "meteor_falls_1f"],
+      "always_available": true,
+      "warps":[
+        {
+          "x": 28,
+          "y": 27,
+          "ourMapGroup": 0,
+          "ourMapNum": 27,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE112_CABLE_CAR_STATION",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 19,
+          "destMapNum": 0,
+          "duplicates": [
+            {
+              "x": 29,
+              "y": 27,
+              "ourMapGroup": 0,
+              "ourMapNum": 27,
+              "ourID": 1,
+              "destID": 1,
+              "destMapString": "MAP_ROUTE112_CABLE_CAR_STATION",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 19,
+              "destMapNum": 0,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "requirements":["mauville", "hrocksmash"],
+      "always_available":true,
+      "warps":[
+        {
+          "x": 11,
+          "y": 36,
+          "ourMapGroup": 0,
+          "ourMapNum": 27,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_FIERY_PATH",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 14,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

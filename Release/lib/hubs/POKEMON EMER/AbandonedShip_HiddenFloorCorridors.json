@@ -1,0 +1,106 @@
+{
+  "hubs": [
+    {
+      "warps":[
+        {
+          "x": 3,
+          "y": 8,
+          "ourMapGroup": 24,
+          "ourMapNum": 65,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ABANDONED_SHIP_HIDDEN_FLOOR_ROOMS",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 66,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "warps":[
+        {
+          "x": 6,
+          "y": 8,
+          "ourMapGroup": 24,
+          "ourMapNum": 65,
+          "ourID": 1,
+          "destID": 2,
+          "destMapString": "MAP_ABANDONED_SHIP_HIDDEN_FLOOR_ROOMS",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 66,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "warps":[
+        {
+          "x": 3,
+          "y": 3,
+          "ourMapGroup": 24,
+          "ourMapNum": 65,
+          "ourID": 3,
+          "destID": 6,
+          "destMapString": "MAP_ABANDONED_SHIP_HIDDEN_FLOOR_ROOMS",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 66,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements": [],
+      "provides": ["abandoned_ship_hidden_floor"],
+      "warps": [
+        {
+          "x": 9,
+          "y": 8,
+          "ourMapGroup": 24,
+          "ourMapNum": 65,
+          "ourID": 2,
+          "destID": 4,
+          "destMapString": "MAP_ABANDONED_SHIP_HIDDEN_FLOOR_ROOMS",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 66,
+          "duplicates": []
+        },
+        {
+          "x": 6,
+          "y": 3,
+          "ourMapGroup": 24,
+          "ourMapNum": 65,
+          "ourID": 4,
+          "destID": 7,
+          "destMapString": "MAP_ABANDONED_SHIP_HIDDEN_FLOOR_ROOMS",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 66,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements":["room_6_key", "abandoned_ship_hidden_floor"],
+      "always_available": true,
+      "warps":[
+        {
+          "x": 9,
+          "y": 3,
+          "ourMapGroup": 24,
+          "ourMapNum": 65,
+          "ourID": 5,
+          "destID": 8,
+          "destMapString": "MAP_ABANDONED_SHIP_HIDDEN_FLOOR_ROOMS",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 66,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

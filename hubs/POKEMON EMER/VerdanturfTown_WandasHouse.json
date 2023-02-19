@@ -1,0 +1,36 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 7,
+          "y": 7,
+          "ourMapGroup": 6,
+          "ourMapNum": 6,
+          "ourID": 0,
+          "destID": 3,
+          "destMapString": "MAP_VERDANTURF_TOWN",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 14,
+          "duplicates": [
+            {
+              "x": 8,
+              "y": 7,
+              "ourMapGroup": 6,
+              "ourMapNum": 6,
+              "ourID": 1,
+              "destID": 3,
+              "destMapString": "MAP_VERDANTURF_TOWN",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 14,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 5,
+          "y": 15,
+          "ourMapGroup": 24,
+          "ourMapNum": 3,
+          "ourID": 0,
+          "destID": 3,
+          "destMapString": "MAP_METEOR_FALLS_B1F_1R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 2,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

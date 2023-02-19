@@ -1,0 +1,198 @@
+{
+  "hubs": [
+    {
+      "requirements":["sootopolis_west", "hsurf"],
+      "always_available": true,
+      "warps":[
+        {
+          "x": 43,
+          "y": 31,
+          "ourMapGroup": 0,
+          "ourMapNum": 7,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SOOTOPOLIS_CITY_POKEMON_CENTER_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 15,
+          "destMapNum": 2,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements": ["rayquaza_awake"],
+      "provides": ["sootopolis_west"],
+      "warps": [
+        {
+          "x": 17,
+          "y": 29,
+          "ourMapGroup": 0,
+          "ourMapNum": 7,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_SOOTOPOLIS_CITY_MART",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 15,
+          "destMapNum": 4,
+          "duplicates": []
+        },
+        {
+          "x": 9,
+          "y": 6,
+          "ourMapGroup": 0,
+          "ourMapNum": 7,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_SOOTOPOLIS_CITY_HOUSE1",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 15,
+          "destMapNum": 5,
+          "duplicates": []
+        },
+        {
+          "x": 9,
+          "y": 17,
+          "ourMapGroup": 0,
+          "ourMapNum": 7,
+          "ourID": 6,
+          "destID": 0,
+          "destMapString": "MAP_SOOTOPOLIS_CITY_HOUSE3",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 15,
+          "destMapNum": 7,
+          "duplicates": []
+        },
+        {
+          "x": 9,
+          "y": 26,
+          "ourMapGroup": 0,
+          "ourMapNum": 7,
+          "ourID": 8,
+          "destID": 0,
+          "destMapString": "MAP_SOOTOPOLIS_CITY_HOUSE5",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 15,
+          "destMapNum": 9,
+          "duplicates": []
+        },
+        {
+          "x": 8,
+          "y": 35,
+          "ourMapGroup": 0,
+          "ourMapNum": 7,
+          "ourID": 10,
+          "destID": 0,
+          "destMapString": "MAP_SOOTOPOLIS_CITY_HOUSE7",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 15,
+          "destMapNum": 11,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements": ["rayquaza_awake"],
+      "warps":[
+        {
+          "x": 45,
+          "y": 6,
+          "ourMapGroup": 0,
+          "ourMapNum": 7,
+          "ourID": 5,
+          "destID": 0,
+          "destMapString": "MAP_SOOTOPOLIS_CITY_HOUSE2",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 15,
+          "destMapNum": 6,
+          "duplicates": []
+        },
+        {
+          "x": 44,
+          "y": 17,
+          "ourMapGroup": 0,
+          "ourMapNum": 7,
+          "ourID": 7,
+          "destID": 0,
+          "destMapString": "MAP_SOOTOPOLIS_CITY_HOUSE4",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 15,
+          "destMapNum": 8,
+          "duplicates": []
+        },
+        {
+          "x": 53,
+          "y": 28,
+          "ourMapGroup": 0,
+          "ourMapNum": 7,
+          "ourID": 9,
+          "destID": 0,
+          "destMapString": "MAP_SOOTOPOLIS_CITY_HOUSE6",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 15,
+          "destMapNum": 10,
+          "duplicates": []
+        },
+        {
+          "x": 48,
+          "y": 25,
+          "ourMapGroup": 0,
+          "ourMapNum": 7,
+          "ourID": 11,
+          "destID": 0,
+          "destMapString": "MAP_SOOTOPOLIS_CITY_LOTAD_AND_SEEDOT_HOUSE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 15,
+          "destMapNum": 12,
+          "duplicates": []
+        },
+        {
+          "x": 51,
+          "y": 36,
+          "ourMapGroup": 0,
+          "ourMapNum": 7,
+          "ourID": 12,
+          "destID": 0,
+          "destMapString": "MAP_SOOTOPOLIS_CITY_MYSTERY_EVENTS_HOUSE_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 15,
+          "destMapNum": 13,
+          "duplicates": []
+        }           
+      ]
+    },
+    {
+      "warps":[
+        {
+          "x": 31,
+          "y": 32,
+          "ourMapGroup": 0,
+          "ourMapNum": 7,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_SOOTOPOLIS_CITY_GYM_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 15,
+          "destMapNum": 0,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "warps":[
+        {
+          "x": 31,
+          "y": 16,
+          "ourMapGroup": 0,
+          "ourMapNum": 7,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_CAVE_OF_ORIGIN_ENTRANCE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 37,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

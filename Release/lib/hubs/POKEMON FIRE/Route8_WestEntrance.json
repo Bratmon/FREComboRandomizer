@@ -1,0 +1,63 @@
+{
+  "hubs": [
+    {
+      "requirements": ["tea"],
+      "warps": [
+        {
+          "x": 1,
+          "y": 4,
+          "ourMapGroup": 20,
+          "ourMapNum": 0,
+          "ourID": 0,
+          "destID": 10,
+          "destMapString": "MAP_SAFFRON_CITY",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 10,
+          "duplicates": [
+            {
+              "x": 1,
+              "y": 5,
+              "ourMapGroup": 20,
+              "ourMapNum": 0,
+              "ourID": 1,
+              "destID": 10,
+              "destMapString": "MAP_SAFFRON_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 10,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 11,
+          "y": 5,
+          "ourMapGroup": 20,
+          "ourMapNum": 0,
+          "ourID": 2,
+          "destID": 1,
+          "destMapString": "MAP_ROUTE8",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 26,
+          "duplicates": [
+            {
+              "x": 11,
+              "y": 6,
+              "ourMapGroup": 20,
+              "ourMapNum": 0,
+              "ourID": 3,
+              "destID": 1,
+              "destMapString": "MAP_ROUTE8",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 26,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

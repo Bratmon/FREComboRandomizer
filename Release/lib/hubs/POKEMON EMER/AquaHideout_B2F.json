@@ -1,0 +1,156 @@
+{
+  "hubs": [
+    {
+      "warps":[
+        {
+          "x": 18,
+          "y": 1,
+          "ourMapGroup": 24,
+          "ourMapNum": 25,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_AQUA_HIDEOUT_B1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 24,
+          "duplicates": []
+        },
+        {
+          "x": 31,
+          "y": 8,
+          "ourMapGroup": 24,
+          "ourMapNum": 25,
+          "ourID": 3,
+          "destID": 5,
+          "destMapString": "MAP_AQUA_HIDEOUT_B2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 25,
+          "duplicates": []
+        },
+        {
+          "x": 18,
+          "y": 13,
+          "ourMapGroup": 24,
+          "ourMapNum": 25,
+          "ourID": 6,
+          "destID": 7,
+          "destMapString": "MAP_AQUA_HIDEOUT_B2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 25,
+          "duplicates": []
+        }             
+      ]
+    },
+    {
+      "warps":[
+        {
+          "x": 12,
+          "y": 1,
+          "ourMapGroup": 24,
+          "ourMapNum": 25,
+          "ourID": 1,
+          "destID": 2,
+          "destMapString": "MAP_AQUA_HIDEOUT_B1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 24,
+          "duplicates": []
+        },
+        {
+          "x": 8,
+          "y": 8,
+          "ourMapGroup": 24,
+          "ourMapNum": 25,
+          "ourID": 4,
+          "destID": 8,
+          "destMapString": "MAP_AQUA_HIDEOUT_B2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 25,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "warps":[
+        {
+          "x": 3,
+          "y": 3,
+          "ourMapGroup": 24,
+          "ourMapNum": 25,
+          "ourID": 2,
+          "destID": 3,
+          "destMapString": "MAP_AQUA_HIDEOUT_B1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 24,
+          "duplicates": []
+        },
+        {
+          "x": 5,
+          "y": 8,
+          "ourMapGroup": 24,
+          "ourMapNum": 25,
+          "ourID": 5,
+          "destID": 3,
+          "destMapString": "MAP_AQUA_HIDEOUT_B2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 25,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "warps":[
+        {
+          "x": 12,
+          "y": 13,
+          "ourMapGroup": 24,
+          "ourMapNum": 25,
+          "ourID": 7,
+          "destID": 6,
+          "destMapString": "MAP_AQUA_HIDEOUT_B2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 25,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "xy_required":true,
+      "requirements": [],
+      "warps": [
+        {
+          "x": 31,
+          "y": 17,
+          "ourMapGroup": 24,
+          "ourMapNum": 25,
+          "ourID": 8,
+          "destID": 4,
+          "destMapString": "MAP_AQUA_HIDEOUT_B2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 25,
+          "duplicates": []
+        },
+        {
+          "x": 32,
+          "y": 20,
+          "ourMapGroup": 24,
+          "ourMapNum": 25,
+          "ourID": 9,
+          "destID": 4,
+          "destMapString": "MAP_AQUA_HIDEOUT_B1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 24,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "requirements": ["six_island", "kcut"],
+      "always_available": true,
+      "warps": [
+        {
+          "x": 24,
+          "y": 24,
+          "ourMapGroup": 3,
+          "ourMapNum": 61,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SIX_ISLAND_DOTTED_HOLE_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 115,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

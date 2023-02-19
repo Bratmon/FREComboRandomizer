@@ -1,0 +1,191 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["cerulean"],
+      "warps": [
+        {
+          "x": 10,
+          "y": 11,
+          "ourMapGroup": 3,
+          "ourMapNum": 3,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_CERULEAN_CITY_HOUSE1",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 7,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 15,
+          "y": 17,
+          "ourMapGroup": 3,
+          "ourMapNum": 3,
+          "ourID": 2,
+          "destID": 1,
+          "destMapString": "MAP_CERULEAN_CITY_HOUSE3",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 7,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 22,
+          "y": 19,
+          "ourMapGroup": 3,
+          "ourMapNum": 3,
+          "ourID": 3,
+          "destID": 1,
+          "destMapString": "MAP_CERULEAN_CITY_POKEMON_CENTER_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 7,
+          "destMapNum": 3,
+          "duplicates": []
+        },
+        {
+          "x": 31,
+          "y": 21,
+          "ourMapGroup": 3,
+          "ourMapNum": 3,
+          "ourID": 4,
+          "destID": 1,
+          "destMapString": "MAP_CERULEAN_CITY_GYM",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 7,
+          "destMapNum": 5,
+          "duplicates": []
+        },
+        {
+          "x": 13,
+          "y": 28,
+          "ourMapGroup": 3,
+          "ourMapNum": 3,
+          "ourID": 5,
+          "destID": 1,
+          "destMapString": "MAP_CERULEAN_CITY_BIKE_SHOP",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 7,
+          "destMapNum": 6,
+          "duplicates": [
+            {
+              "x": 14,
+              "y": 28,
+              "ourMapGroup": 3,
+              "ourMapNum": 3,
+              "ourID": 11,
+              "destID": 1,
+              "destMapString": "MAP_CERULEAN_CITY_BIKE_SHOP",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 7,
+              "destMapNum": 6,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 29,
+          "y": 28,
+          "ourMapGroup": 3,
+          "ourMapNum": 3,
+          "ourID": 6,
+          "destID": 1,
+          "destMapString": "MAP_CERULEAN_CITY_MART",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 7,
+          "destMapNum": 7,
+          "duplicates": []
+        },
+        {
+          "x": 1,
+          "y": 12,
+          "ourMapGroup": 3,
+          "ourMapNum": 3,
+          "ourID": 7,
+          "destID": 0,
+          "destMapString": "MAP_CERULEAN_CAVE_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 72,
+          "duplicates": []
+        },
+        {
+          "x": 23,
+          "y": 28,
+          "ourMapGroup": 3,
+          "ourMapNum": 3,
+          "ourID": 12,
+          "destID": 0,
+          "destMapString": "MAP_CERULEAN_CITY_HOUSE4",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 7,
+          "destMapNum": 8,
+          "duplicates": []
+        },
+        {
+          "x": 17,
+          "y": 11,
+          "ourMapGroup": 3,
+          "ourMapNum": 3,
+          "ourID": 13,
+          "destID": 0,
+          "destMapString": "MAP_CERULEAN_CITY_HOUSE5",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 7,
+          "destMapNum": 9,
+          "duplicates": []
+        },
+        {
+          "x": 51,
+          "y": 4,
+          "ourMapGroup": 3,
+          "ourMapNum": 44,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_ROUTE25_SEA_COTTAGE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 30,
+          "destMapNum": 0,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "requirements": ["bill", "cerulean"],
+      "always_available": true,
+      "warps":[
+        {
+          "x": 30,
+          "y": 11,
+          "ourMapGroup": 3,
+          "ourMapNum": 3,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_CERULEAN_CITY_HOUSE2",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 7,
+          "destMapNum": 1,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 10,
+          "y": 8,
+          "ourMapGroup": 3,
+          "ourMapNum": 3,
+          "ourID": 8,
+          "destID": 3,
+          "destMapString": "MAP_CERULEAN_CITY_HOUSE1",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 7,
+          "destMapNum": 0,
+          "duplicates": []
+        }     
+      ]
+    }
+  ]
+}

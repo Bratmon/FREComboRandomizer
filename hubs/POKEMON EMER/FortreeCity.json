@@ -1,0 +1,152 @@
+{
+  "hubs": [
+    {
+      "requirements":["fortree"],
+      "always_available": true,
+      "warps":[
+        {
+          "x": 22,
+          "y": 11,
+          "ourMapGroup": 0,
+          "ourMapNum": 4,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_FORTREE_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 12,
+          "destMapNum": 1,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "requirements": [],
+      "provides": ["hm02", "fortree"],
+      "warps": [
+        {
+          "x": 5,
+          "y": 6,
+          "ourMapGroup": 0,
+          "ourMapNum": 4,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_FORTREE_CITY_POKEMON_CENTER_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 12,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 10,
+          "y": 3,
+          "ourMapGroup": 0,
+          "ourMapNum": 4,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_FORTREE_CITY_HOUSE1",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 12,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 4,
+          "y": 14,
+          "ourMapGroup": 0,
+          "ourMapNum": 4,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_FORTREE_CITY_MART",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 12,
+          "destMapNum": 4,
+          "duplicates": []
+        },
+        {
+          "x": 17,
+          "y": 3,
+          "ourMapGroup": 0,
+          "ourMapNum": 4,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_FORTREE_CITY_HOUSE2",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 12,
+          "destMapNum": 5,
+          "duplicates": []
+        },
+        {
+          "x": 25,
+          "y": 3,
+          "ourMapGroup": 0,
+          "ourMapNum": 4,
+          "ourID": 5,
+          "destID": 0,
+          "destMapString": "MAP_FORTREE_CITY_HOUSE3",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 12,
+          "destMapNum": 6,
+          "duplicates": []
+        },
+        {
+          "x": 32,
+          "y": 2,
+          "ourMapGroup": 0,
+          "ourMapNum": 4,
+          "ourID": 6,
+          "destID": 0,
+          "destMapString": "MAP_FORTREE_CITY_HOUSE4",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 12,
+          "destMapNum": 7,
+          "duplicates": []
+        },
+        {
+          "x": 12,
+          "y": 13,
+          "ourMapGroup": 0,
+          "ourMapNum": 4,
+          "ourID": 7,
+          "destID": 0,
+          "destMapString": "MAP_FORTREE_CITY_HOUSE5",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 12,
+          "destMapNum": 8,
+          "duplicates": []
+        },
+        {
+          "x": 37,
+          "y": 13,
+          "ourMapGroup": 0,
+          "ourMapNum": 4,
+          "ourID": 8,
+          "destID": 0,
+          "destMapString": "MAP_FORTREE_CITY_DECORATION_SHOP",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 12,
+          "destMapNum": 9,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements": ["fortree", "hsurf"],
+      "always_available": true,
+      "warps": [
+        {
+          "x": 19,
+          "y": 23,
+          "ourMapGroup": 0,
+          "ourMapNum": 35,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_SCORCHED_SLAB",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 73,
+          "duplicates": []
+        }
+      ]
+    }    
+  ]
+}

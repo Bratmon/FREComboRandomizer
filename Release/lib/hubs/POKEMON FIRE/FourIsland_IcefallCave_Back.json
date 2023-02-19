@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["lorelei_best_waifu"],
+      "warps": [
+        {
+          "x": 12,
+          "y": 23,
+          "ourMapGroup": 1,
+          "ourMapNum": 113,
+          "ourID": 0,
+          "destID": 5,
+          "destMapString": "MAP_FOUR_ISLAND_ICEFALL_CAVE_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 111,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

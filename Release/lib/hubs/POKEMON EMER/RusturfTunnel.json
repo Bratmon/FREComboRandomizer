@@ -1,0 +1,49 @@
+{
+  "hubs": [
+    {
+      "requirements": ["hrocksmash"],
+      "provides": ["saved_peeko", "hm04"],
+      "warps": [
+        {
+          "x": 4,
+          "y": 10,
+          "ourMapGroup": 24,
+          "ourMapNum": 4,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE116",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 31,
+          "duplicates": []
+        },
+        {
+          "x": 29,
+          "y": 16,
+          "ourMapGroup": 24,
+          "ourMapNum": 4,
+          "ourID": 1,
+          "destID": 4,
+          "destMapString": "MAP_VERDANTURF_TOWN",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 14,
+          "duplicates": []
+        },
+        {
+          "x": 18,
+          "y": 20,
+          "ourMapGroup": 24,
+          "ourMapNum": 4,
+          "ourID": 2,
+          "destID": 2,
+          "destMapString": "MAP_ROUTE116",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 31,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

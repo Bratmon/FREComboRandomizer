@@ -1,0 +1,41 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 65,
+          "y": 10,
+          "ourMapGroup": 0,
+          "ourMapNum": 31,
+          "ourID": 2,
+          "destID": 2,
+          "destMapString": "MAP_RUSTURF_TUNNEL",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 4,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements":["rustboro", "saved_peeko"],
+      "always_available": true,
+      "warps":[
+        {
+          "x": 38,
+          "y": 8,
+          "ourMapGroup": 0,
+          "ourMapNum": 31,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE116_TUNNELERS_REST_HOUSE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 21,
+          "destMapNum": 0,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

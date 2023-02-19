@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 1,
+          "y": 4,
+          "ourMapGroup": 24,
+          "ourMapNum": 97,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_MIRAGE_TOWER_3F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 96,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

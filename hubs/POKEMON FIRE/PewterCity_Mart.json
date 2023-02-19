@@ -1,0 +1,49 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 3,
+          "y": 7,
+          "ourMapGroup": 6,
+          "ourMapNum": 3,
+          "ourID": 0,
+          "destID": 3,
+          "destMapString": "MAP_PEWTER_CITY",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 2,
+          "duplicates": [
+            {
+              "x": 4,
+              "y": 7,
+              "ourMapGroup": 6,
+              "ourMapNum": 3,
+              "ourID": 1,
+              "destID": 3,
+              "destMapString": "MAP_PEWTER_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 2,
+              "duplicates": []
+            },
+            {
+              "x": 5,
+              "y": 7,
+              "ourMapGroup": 6,
+              "ourMapNum": 3,
+              "ourID": 2,
+              "destID": 3,
+              "destMapString": "MAP_PEWTER_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 2,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

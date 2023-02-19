@@ -1,0 +1,50 @@
+{
+  "hubs": [
+    {
+      "requirements": ["saved_mr_fuji"],
+      "provides": ["poke_flute"],
+      "warps": [
+        {
+          "x": 3,
+          "y": 7,
+          "ourMapGroup": 8,
+          "ourMapNum": 2,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_LAVENDER_TOWN",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 4,
+          "duplicates": [
+            {
+              "x": 4,
+              "y": 7,
+              "ourMapGroup": 8,
+              "ourMapNum": 2,
+              "ourID": 1,
+              "destID": 2,
+              "destMapString": "MAP_LAVENDER_TOWN",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 4,
+              "duplicates": []
+            },
+            {
+              "x": 5,
+              "y": 7,
+              "ourMapGroup": 8,
+              "ourMapNum": 2,
+              "ourID": 2,
+              "destID": 2,
+              "destMapString": "MAP_LAVENDER_TOWN",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 4,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

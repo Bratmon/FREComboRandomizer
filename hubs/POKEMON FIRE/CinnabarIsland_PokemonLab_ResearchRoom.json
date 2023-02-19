@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 7,
+          "y": 9,
+          "ourMapGroup": 12,
+          "ourMapNum": 3,
+          "ourID": 0,
+          "destID": 4,
+          "destMapString": "MAP_CINNABAR_ISLAND_POKEMON_LAB_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 12,
+          "destMapNum": 1,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

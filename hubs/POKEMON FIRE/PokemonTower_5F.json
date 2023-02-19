@@ -1,0 +1,35 @@
+{
+  "hubs": [
+    {
+      "requirements": ["silph_scope"],
+      "warps": [
+        {
+          "x": 4,
+          "y": 10,
+          "ourMapGroup": 1,
+          "ourMapNum": 92,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_POKEMON_TOWER_4F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 91,
+          "duplicates": []
+        },
+        {
+          "x": 18,
+          "y": 10,
+          "ourMapGroup": 1,
+          "ourMapNum": 92,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_POKEMON_TOWER_6F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 93,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

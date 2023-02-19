@@ -1,0 +1,191 @@
+{
+  "hubs": [
+    {
+      "requirements": ["ksurf"],
+      "warps": [
+        {
+          "x": 11,
+          "y": 9,
+          "ourMapGroup": 3,
+          "ourMapNum": 17,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SEVEN_ISLAND_HOUSE_ROOM1",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 31,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 5,
+          "y": 9,
+          "ourMapGroup": 3,
+          "ourMapNum": 17,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_SEVEN_ISLAND_MART",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 31,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 12,
+          "y": 3,
+          "ourMapGroup": 3,
+          "ourMapNum": 17,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_SEVEN_ISLAND_POKEMON_CENTER_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 31,
+          "destMapNum": 3,
+          "duplicates": []
+        },
+        {
+          "x": 16,
+          "y": 13,
+          "ourMapGroup": 3,
+          "ourMapNum": 17,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_SEVEN_ISLAND_HARBOR",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 31,
+          "destMapNum": 6,
+          "duplicates": []
+        },
+        {
+          "x": 7,
+          "y": 17,
+          "ourMapGroup": 3,
+          "ourMapNum": 64,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SEVEN_ISLAND_SEVAULT_CANYON_TANOBY_KEY",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 35,
+          "duplicates": []
+        },
+        {
+          "x": 14,
+          "y": 61,
+          "ourMapGroup": 3,
+          "ourMapNum": 64,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_SEVEN_ISLAND_SEVAULT_CANYON_HOUSE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 42,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 120,
+          "y": 10,
+          "ourMapGroup": 3,
+          "ourMapNum": 65,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SEVEN_ISLAND_TANOBY_RUINS_MONEAN_CHAMBER",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 27,
+          "duplicates": []
+        },
+        {
+          "x": 103,
+          "y": 10,
+          "ourMapGroup": 3,
+          "ourMapNum": 65,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_SEVEN_ISLAND_TANOBY_RUINS_LIPTOO_CHAMBER",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 28,
+          "duplicates": []
+        },
+        {
+          "x": 88,
+          "y": 8,
+          "ourMapGroup": 3,
+          "ourMapNum": 65,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_SEVEN_ISLAND_TANOBY_RUINS_WEEPTH_CHAMBER",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 29,
+          "duplicates": []
+        },
+        {
+          "x": 44,
+          "y": 11,
+          "ourMapGroup": 3,
+          "ourMapNum": 65,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_SEVEN_ISLAND_TANOBY_RUINS_DILFORD_CHAMBER",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 30,
+          "duplicates": []
+        },
+        {
+          "x": 32,
+          "y": 9,
+          "ourMapGroup": 3,
+          "ourMapNum": 65,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_SEVEN_ISLAND_TANOBY_RUINS_SCUFIB_CHAMBER",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 31,
+          "duplicates": []
+        },
+        {
+          "x": 12,
+          "y": 15,
+          "ourMapGroup": 3,
+          "ourMapNum": 65,
+          "ourID": 5,
+          "destID": 0,
+          "destMapString": "MAP_SEVEN_ISLAND_TANOBY_RUINS_RIXY_CHAMBER",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 32,
+          "duplicates": []
+        },
+        {
+          "x": 11,
+          "y": 6,
+          "ourMapGroup": 3,
+          "ourMapNum": 65,
+          "ourID": 6,
+          "destID": 0,
+          "destMapString": "MAP_SEVEN_ISLAND_TANOBY_RUINS_VIAPOIS_CHAMBER",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 33,
+          "duplicates": []
+        },
+        {
+          "x": 58,
+          "y": 7,
+          "ourMapGroup": 3,
+          "ourMapNum": 62,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_TRAINER_TOWER_LOBBY",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 10,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

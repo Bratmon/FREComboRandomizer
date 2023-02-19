@@ -1,0 +1,21 @@
+{
+  "hubs": [
+    {
+      "warps":[
+        {
+          "x": 38,
+          "y": 5,
+          "ourMapGroup": 3,
+          "ourMapNum": 49,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_THREE_ISLAND_DUNSPARCE_TUNNEL",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 34,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

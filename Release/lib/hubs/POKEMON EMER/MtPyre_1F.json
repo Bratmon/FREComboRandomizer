@@ -1,0 +1,76 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 17,
+          "y": 18,
+          "ourMapGroup": 24,
+          "ourMapNum": 15,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE122",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 37,
+          "duplicates": [
+            {
+              "x": 18,
+              "y": 18,
+              "ourMapGroup": 24,
+              "ourMapNum": 15,
+              "ourID": 2,
+              "destID": 0,
+              "destMapString": "MAP_ROUTE122",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 37,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 3,
+          "y": 6,
+          "ourMapGroup": 24,
+          "ourMapNum": 15,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_MT_PYRE_EXTERIOR",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 21,
+          "duplicates": [
+            {
+              "x": 4,
+              "y": 6,
+              "ourMapGroup": 24,
+              "ourMapNum": 15,
+              "ourID": 3,
+              "destID": 0,
+              "destMapString": "MAP_MT_PYRE_EXTERIOR",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 24,
+              "destMapNum": 21,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 11,
+          "y": 1,
+          "ourMapGroup": 24,
+          "ourMapNum": 15,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_MT_PYRE_2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 16,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

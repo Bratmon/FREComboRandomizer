@@ -1,0 +1,37 @@
+{
+  "hubs": [
+    {
+      "requirements": ["fought_side_by_side"],
+      "provides":["hm08"],
+      "warps": [
+        {
+          "x": 3,
+          "y": 7,
+          "ourMapGroup": 14,
+          "ourMapNum": 7,
+          "ourID": 0,
+          "destID": 6,
+          "destMapString": "MAP_MOSSDEEP_CITY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 6,
+          "duplicates": [
+            {
+              "x": 4,
+              "y": 7,
+              "ourMapGroup": 14,
+              "ourMapNum": 7,
+              "ourID": 1,
+              "destID": 6,
+              "destMapString": "MAP_MOSSDEEP_CITY",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 6,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

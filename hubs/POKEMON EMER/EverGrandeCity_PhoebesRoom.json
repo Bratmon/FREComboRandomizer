@@ -1,0 +1,41 @@
+{
+  "hubs": [
+    {
+      "requirements": ["he41"],
+      "provides": ["he42"],
+      "warps": [
+        {
+          "x": 6,
+          "y": 13,
+          "ourMapGroup": 16,
+          "ourMapNum": 1,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_EVER_GRANDE_CITY_HALL1",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 16,
+          "destMapNum": 5,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "one_way": true,
+      "warps":[
+        {
+          "x": 6,
+          "y": 2,
+          "ourMapGroup": 16,
+          "ourMapNum": 1,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_EVER_GRANDE_CITY_HALL2",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 16,
+          "destMapNum": 6,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

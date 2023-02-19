@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 3,
+          "y": 1,
+          "ourMapGroup": 24,
+          "ourMapNum": 64,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ABANDONED_SHIP_UNDERWATER1",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 60,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

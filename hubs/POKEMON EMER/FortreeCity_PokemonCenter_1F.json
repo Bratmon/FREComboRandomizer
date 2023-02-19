@@ -1,0 +1,49 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 7,
+          "y": 8,
+          "ourMapGroup": 12,
+          "ourMapNum": 2,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_FORTREE_CITY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 4,
+          "duplicates": [
+            {
+              "x": 6,
+              "y": 8,
+              "ourMapGroup": 12,
+              "ourMapNum": 2,
+              "ourID": 1,
+              "destID": 0,
+              "destMapString": "MAP_FORTREE_CITY",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 4,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 1,
+          "y": 6,
+          "ourMapGroup": 12,
+          "ourMapNum": 2,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_FORTREE_CITY_POKEMON_CENTER_2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 12,
+          "destMapNum": 3,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

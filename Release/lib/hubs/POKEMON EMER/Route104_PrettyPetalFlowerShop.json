@@ -1,0 +1,37 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["wailmer_pail"],
+      "warps": [
+        {
+          "x": 2,
+          "y": 8,
+          "ourMapGroup": 17,
+          "ourMapNum": 1,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_ROUTE104",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 19,
+          "duplicates": [
+            {
+              "x": 3,
+              "y": 8,
+              "ourMapGroup": 17,
+              "ourMapNum": 1,
+              "ourID": 1,
+              "destID": 1,
+              "destMapString": "MAP_ROUTE104",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 19,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

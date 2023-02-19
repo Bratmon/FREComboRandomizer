@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 12,
+          "y": 15,
+          "ourMapGroup": 24,
+          "ourMapNum": 90,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_MAGMA_HIDEOUT_3F_1R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 89,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

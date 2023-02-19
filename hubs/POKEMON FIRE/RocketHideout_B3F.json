@@ -1,0 +1,35 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 18,
+          "y": 2,
+          "ourMapGroup": 1,
+          "ourMapNum": 44,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROCKET_HIDEOUT_B2F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 43,
+          "duplicates": []
+        },
+        {
+          "x": 15,
+          "y": 18,
+          "ourMapGroup": 1,
+          "ourMapNum": 44,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_ROCKET_HIDEOUT_B4F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 45,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

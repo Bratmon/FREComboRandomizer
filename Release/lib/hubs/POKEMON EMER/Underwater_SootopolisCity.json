@@ -1,0 +1,37 @@
+{
+  "hubs": [
+    {
+      "requirements": ["sootopolis_west", "hdive", "hsurf"],
+      "always_available": true,
+      "warps": [
+        {
+          "x": 9,
+          "y": 8,
+          "ourMapGroup": 24,
+          "ourMapNum": 5,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_UNDERWATER_ROUTE126",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 51,
+          "duplicates": [
+            {
+              "x": 10,
+              "y": 8,
+              "ourMapGroup": 24,
+              "ourMapNum": 5,
+              "ourID": 1,
+              "destID": 0,
+              "destMapString": "MAP_UNDERWATER_ROUTE126",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 51,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "always_available": true,
+      "requirements": ["five_island", "five_island_rocket_base_password_one_lol", "five_island_rocket_base_password_two_lol"],
+      "warps": [
+        {
+          "x": 12,
+          "y": 21,
+          "ourMapGroup": 3,
+          "ourMapNum": 56,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_FIVE_ISLAND_ROCKET_WAREHOUSE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 114,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

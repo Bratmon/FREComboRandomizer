@@ -1,0 +1,133 @@
+{
+  "hubs": [
+    {
+      "always_available": true,
+      "requirements": [],
+      "warps": [
+        {
+          "x": 15,
+          "y": 7,
+          "ourMapGroup": 3,
+          "ourMapNum": 0,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_PALLET_TOWN_RIVALS_HOUSE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 4,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 26,
+          "y": 26,
+          "ourMapGroup": 3,
+          "ourMapNum": 1,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_VIRIDIAN_CITY_POKEMON_CENTER_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 5,
+          "destMapNum": 4,
+          "duplicates": []
+        },
+        {
+          "x": 25,
+          "y": 11,
+          "ourMapGroup": 3,
+          "ourMapNum": 1,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_VIRIDIAN_CITY_HOUSE"  ,
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 5,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 25,
+          "y": 18,
+          "ourMapGroup": 3,
+          "ourMapNum": 1,
+          "ourID": 3,
+          "destID": 1,
+          "destMapString": "MAP_VIRIDIAN_CITY_SCHOOL",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 5,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 8,
+          "y": 5,
+          "ourMapGroup": 3,
+          "ourMapNum": 41,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_ROUTE22_NORTH_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 28,
+          "destMapNum": 0,
+          "duplicates": [
+            {
+              "x": 9,
+              "y": 5,
+              "ourMapGroup": 3,
+              "ourMapNum": 41,
+              "ourID": 1,
+              "destID": 2,
+              "destMapString": "MAP_ROUTE22_NORTH_ENTRANCE",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 28,
+              "destMapNum": 0,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 5,
+          "y": 51,
+          "ourMapGroup": 3,
+          "ourMapNum": 20,
+          "ourID": 2,
+          "destID": 1,
+          "destMapString": "MAP_ROUTE2_VIRIDIAN_FOREST_SOUTH_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 15,
+          "destMapNum": 0,
+          "duplicates": [
+            {
+              "x": 6,
+              "y": 51,
+              "ourMapGroup": 3,
+              "ourMapNum": 20,
+              "ourID": 9,
+              "destID": 1,
+              "destMapString": "MAP_ROUTE2_VIRIDIAN_FOREST_SOUTH_ENTRANCE",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 15,
+              "destMapNum": 0,
+              "duplicates": []
+            }
+          ]
+        }        
+      ]
+    },
+    {
+      "always_available": true,
+      "requirements":["kgym7"],
+      "warps":[{
+        "x": 36,
+        "y": 10,
+        "ourMapGroup": 3,
+        "ourMapNum": 1,
+        "ourID": 2,
+        "destID": 1,
+        "destMapString": "MAP_VIRIDIAN_CITY_GYM",
+        "gameName": "POKEMON FIRE",
+        "destMapGroup": 5,
+        "destMapNum": 1,
+        "duplicates": []
+      }]
+    }
+  ]
+}

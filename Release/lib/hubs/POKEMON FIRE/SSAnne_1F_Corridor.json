@@ -1,0 +1,180 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 3,
+          "y": 8,
+          "ourMapGroup": 1,
+          "ourMapNum": 5,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SSANNE_2F_CORRIDOR",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 6,
+          "duplicates": []
+        },
+        {
+          "x": 2,
+          "y": 18,
+          "ourMapGroup": 1,
+          "ourMapNum": 5,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_SSANNE_KITCHEN",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 10,
+          "duplicates": [
+            {
+              "x": 3,
+              "y": 20,
+              "ourMapGroup": 1,
+              "ourMapNum": 5,
+              "ourID": 4,
+              "destID": 0,
+              "destMapString": "MAP_SSANNE_KITCHEN",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 1,
+              "destMapNum": 10,
+              "duplicates": []
+            }            
+          ]
+        },
+        {
+          "x": 19,
+          "y": 1,
+          "ourMapGroup": 1,
+          "ourMapNum": 5,
+          "ourID": 2,
+          "destID": 2,
+          "destMapString": "MAP_SSANNE_EXTERIOR",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 4,
+          "duplicates": [
+            {
+              "x": 20,
+              "y": 0,
+              "ourMapGroup": 1,
+              "ourMapNum": 5,
+              "ourID": 3,
+              "destID": 3,
+              "destMapString": "MAP_SSANNE_EXTERIOR",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 1,
+              "destMapNum": 4,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 28,
+          "y": 17,
+          "ourMapGroup": 1,
+          "ourMapNum": 5,
+          "ourID": 5,
+          "destID": 0,
+          "destMapString": "MAP_SSANNE_B1F_CORRIDOR",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 8,
+          "duplicates": []
+        },
+        {
+          "x": 5,
+          "y": 10,
+          "ourMapGroup": 1,
+          "ourMapNum": 5,
+          "ourID": 6,
+          "destID": 0,
+          "destMapString": "MAP_SSANNE_1F_ROOM1",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 12,
+          "duplicates": []
+        },
+        {
+          "x": 8,
+          "y": 10,
+          "ourMapGroup": 1,
+          "ourMapNum": 5,
+          "ourID": 7,
+          "destID": 0,
+          "destMapString": "MAP_SSANNE_1F_ROOM2",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 13,
+          "duplicates": []
+        },
+        {
+          "x": 11,
+          "y": 10,
+          "ourMapGroup": 1,
+          "ourMapNum": 5,
+          "ourID": 8,
+          "destID": 0,
+          "destMapString": "MAP_SSANNE_1F_ROOM3",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 14,
+          "duplicates": []
+        },
+        {
+          "x": 14,
+          "y": 10,
+          "ourMapGroup": 1,
+          "ourMapNum": 5,
+          "ourID": 9,
+          "destID": 0,
+          "destMapString": "MAP_SSANNE_1F_ROOM4",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 15,
+          "duplicates": []
+        },
+        {
+          "x": 17,
+          "y": 10,
+          "ourMapGroup": 1,
+          "ourMapNum": 5,
+          "ourID": 10,
+          "destID": 0,
+          "destMapString": "MAP_SSANNE_1F_ROOM5",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 16,
+          "duplicates": []
+        },
+        {
+          "x": 23,
+          "y": 10,
+          "ourMapGroup": 1,
+          "ourMapNum": 5,
+          "ourID": 11,
+          "destID": 0,
+          "destMapString": "MAP_SSANNE_1F_ROOM7",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 17,
+          "duplicates": []
+        },
+        {
+          "x": 20,
+          "y": 10,
+          "ourMapGroup": 1,
+          "ourMapNum": 5,
+          "ourID": 12,
+          "destID": 0,
+          "destMapString": "MAP_SSANNE_1F_ROOM6",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 29,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

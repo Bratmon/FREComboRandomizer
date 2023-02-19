@@ -1,0 +1,212 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["celadon_city"],
+      "warps": [
+        {
+          "x": 34,
+          "y": 21,
+          "ourMapGroup": 3,
+          "ourMapNum": 6,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_CELADON_CITY_GAME_CORNER",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 10,
+          "destMapNum": 14,
+          "duplicates": []
+        },
+        {
+          "x": 11,
+          "y": 14,
+          "ourMapGroup": 3,
+          "ourMapNum": 6,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_CELADON_CITY_DEPARTMENT_STORE_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 10,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 15,
+          "y": 14,
+          "ourMapGroup": 3,
+          "ourMapNum": 6,
+          "ourID": 2,
+          "destID": 4,
+          "destMapString": "MAP_CELADON_CITY_DEPARTMENT_STORE_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 10,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 30,
+          "y": 11,
+          "ourMapGroup": 3,
+          "ourMapNum": 6,
+          "ourID": 3,
+          "destID": 1,
+          "destMapString": "MAP_CELADON_CITY_CONDOMINIUMS_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 10,
+          "destMapNum": 7,
+          "duplicates": []
+        },
+        {
+          "x": 48,
+          "y": 11,
+          "ourMapGroup": 3,
+          "ourMapNum": 6,
+          "ourID": 4,
+          "destID": 1,
+          "destMapString": "MAP_CELADON_CITY_POKEMON_CENTER_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 10,
+          "destMapNum": 12,
+          "duplicates": []
+        },
+        {
+          "x": 39,
+          "y": 20,
+          "ourMapGroup": 3,
+          "ourMapNum": 6,
+          "ourID": 5,
+          "destID": 1,
+          "destMapString": "MAP_CELADON_CITY_GAME_CORNER_PRIZE_ROOM",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 10,
+          "destMapNum": 15,
+          "duplicates": []
+        },
+        {
+          "x": 37,
+          "y": 29,
+          "ourMapGroup": 3,
+          "ourMapNum": 6,
+          "ourID": 7,
+          "destID": 1,
+          "destMapString": "MAP_CELADON_CITY_RESTAURANT",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 10,
+          "destMapNum": 17,
+          "duplicates": []
+        },
+        {
+          "x": 41,
+          "y": 29,
+          "ourMapGroup": 3,
+          "ourMapNum": 6,
+          "ourID": 8,
+          "destID": 1,
+          "destMapString": "MAP_CELADON_CITY_HOUSE1",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 10,
+          "destMapNum": 18,
+          "duplicates": []
+        },
+        {
+          "x": 49,
+          "y": 29,
+          "ourMapGroup": 3,
+          "ourMapNum": 6,
+          "ourID": 9,
+          "destID": 1,
+          "destMapString": "MAP_CELADON_CITY_HOTEL",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 10,
+          "destMapNum": 19,
+          "duplicates": []
+        },
+        {
+          "x": 29,
+          "y": 5,
+          "ourMapGroup": 3,
+          "ourMapNum": 6,
+          "ourID": 10,
+          "destID": 5,
+          "destMapString": "MAP_CELADON_CITY_CONDOMINIUMS_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 10,
+          "destMapNum": 7,
+          "duplicates": [
+            {
+              "x": 30,
+              "y": 4,
+              "ourMapGroup": 3,
+              "ourMapNum": 6,
+              "ourID": 11,
+              "destID": 5,
+              "destMapString": "MAP_CELADON_CITY_CONDOMINIUMS_1F",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 10,
+              "destMapNum": 7,
+              "duplicates": []
+            },
+            {
+              "x": 31,
+              "y": 5,
+              "ourMapGroup": 3,
+              "ourMapNum": 6,
+              "ourID": 12,
+              "destID": 5,
+              "destMapString": "MAP_CELADON_CITY_CONDOMINIUMS_1F",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 10,
+              "destMapNum": 7,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 7,
+          "y": 14,
+          "ourMapGroup": 3,
+          "ourMapNum": 25,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_UNDERGROUND_PATH_WEST_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 33,
+          "duplicates": []
+        },
+        {
+          "x": 15,
+          "y": 10,
+          "ourMapGroup": 3,
+          "ourMapNum": 25,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE7_EAST_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 19,
+          "destMapNum": 0,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "always_available": true,
+      "requirements": ["celadon_city", "kcut"],
+      "warps": [
+        {
+          "x": 11,
+          "y": 30,
+          "ourMapGroup": 3,
+          "ourMapNum": 6,
+          "ourID": 6,
+          "destID": 1,
+          "destMapString": "MAP_CELADON_CITY_GYM",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 10,
+          "destMapNum": 16,
+          "duplicates": []
+        }      
+      ]
+    }
+  ]
+}

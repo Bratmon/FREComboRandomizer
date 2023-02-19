@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["hm06"],
+      "warps": [
+        {
+          "x": 13,
+          "y": 36,
+          "ourMapGroup": 2,
+          "ourMapNum": 57,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_ONE_ISLAND_KINDLE_ROAD",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 45,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": [],
+      "warps": [
+        {
+          "x": 15,
+          "y": 6,
+          "ourMapGroup": 10,
+          "ourMapNum": 5,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_CELADON_CITY_DEPARTMENT_STORE_5F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 10,
+          "destMapNum": 4,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

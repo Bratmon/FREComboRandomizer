@@ -1,0 +1,34 @@
+{
+  "hubs": [
+    {
+      "warps":[
+        {
+          "x": 5,
+          "y": 8,
+          "ourMapGroup": 1,
+          "ourMapNum": 53,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_SILPH_CO_11F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 57,
+          "duplicates": []
+        },
+        {
+          "x": 5,
+          "y": 4,
+          "ourMapGroup": 1,
+          "ourMapNum": 53,
+          "ourID": 4,
+          "destID": 2,
+          "destMapString": "MAP_SILPH_CO_3F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 49,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

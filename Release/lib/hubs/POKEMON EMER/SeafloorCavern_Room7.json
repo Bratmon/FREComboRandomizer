@@ -1,0 +1,35 @@
+{
+  "hubs": [
+    {
+      "requirements": ["hsurf"],
+      "warps": [
+        {
+          "x": 3,
+          "y": 23,
+          "ourMapGroup": 24,
+          "ourMapNum": 34,
+          "ourID": 0,
+          "destID": 3,
+          "destMapString": "MAP_SEAFLOOR_CAVERN_ROOM2",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 29,
+          "duplicates": []
+        },
+        {
+          "x": 5,
+          "y": 1,
+          "ourMapGroup": 24,
+          "ourMapNum": 34,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_SEAFLOOR_CAVERN_ROOM3",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 30,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "hubs": [
+    {
+      "requirements":["mauville", "hsurf"],
+      "always_available": true,
+      "warps":[
+        {
+          "x": 35,
+          "y": 24,
+          "ourMapGroup": 0,
+          "ourMapNum": 25,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_NEW_MAUVILLE_ENTRANCE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 52,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "warps":[
+        {
+          "x": 18,
+          "y": 16,
+          "ourMapGroup": 0,
+          "ourMapNum": 25,
+          "ourID": 3,
+          "destID": 2,
+          "destMapString": "MAP_ROUTE110_SEASIDE_CYCLING_ROAD_SOUTH_ENTRANCE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 29,
+          "destMapNum": 12,
+          "duplicates": []
+        },
+        {
+          "x": 19,
+          "y": 88,
+          "ourMapGroup": 0,
+          "ourMapNum": 25,
+          "ourID": 5,
+          "destID": 2,
+          "destMapString": "MAP_ROUTE110_SEASIDE_CYCLING_ROAD_NORTH_ENTRANCE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 29,
+          "destMapNum": 11,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

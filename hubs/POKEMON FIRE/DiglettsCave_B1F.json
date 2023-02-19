@@ -1,0 +1,35 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 3,
+          "y": 3,
+          "ourMapGroup": 1,
+          "ourMapNum": 37,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_DIGLETTS_CAVE_NORTH_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 36,
+          "duplicates": []
+        },
+        {
+          "x": 82,
+          "y": 71,
+          "ourMapGroup": 1,
+          "ourMapNum": 37,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_DIGLETTS_CAVE_SOUTH_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 38,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

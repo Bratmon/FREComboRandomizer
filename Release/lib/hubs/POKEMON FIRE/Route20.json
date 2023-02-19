@@ -1,0 +1,42 @@
+{
+  "hubs": [
+    {
+      "requirements": ["fuchsia", "ksurf"],
+      "always_available": true,
+      "warps":[
+        {
+          "x": 60,
+          "y": 8,
+          "ourMapGroup": 3,
+          "ourMapNum": 38,
+          "ourID": 0,
+          "destID": 3,
+          "destMapString": "MAP_SEAFOAM_ISLANDS_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 83,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements": ["cinnabar", "ksurf"],
+      "always_available": true,
+      "warps": [
+        {
+          "x": 72,
+          "y": 14,
+          "ourMapGroup": 3,
+          "ourMapNum": 38,
+          "ourID": 1,
+          "destID": 4,
+          "destMapString": "MAP_SEAFOAM_ISLANDS_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 83,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

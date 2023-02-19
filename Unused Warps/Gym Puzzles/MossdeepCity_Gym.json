@@ -1,0 +1,192 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 6,
+          "y": 35,
+          "ourMapGroup": 14,
+          "ourMapNum": 0,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_MOSSDEEP_CITY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 6,
+          "duplicates": [
+            {
+              "x": 7,
+              "y": 35,
+              "ourMapGroup": 14,
+              "ourMapNum": 0,
+              "ourID": 1,
+              "destID": 1,
+              "destMapString": "MAP_MOSSDEEP_CITY",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 6,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 3,
+          "y": 28,
+          "ourMapGroup": 14,
+          "ourMapNum": 0,
+          "ourID": 2,
+          "destID": 3,
+          "destMapString": "MAP_MOSSDEEP_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 1,
+          "y": 23,
+          "ourMapGroup": 14,
+          "ourMapNum": 0,
+          "ourID": 3,
+          "destID": 2,
+          "destMapString": "MAP_MOSSDEEP_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 7,
+          "y": 18,
+          "ourMapGroup": 14,
+          "ourMapNum": 0,
+          "ourID": 4,
+          "destID": 5,
+          "destMapString": "MAP_MOSSDEEP_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 8,
+          "y": 12,
+          "ourMapGroup": 14,
+          "ourMapNum": 0,
+          "ourID": 5,
+          "destID": 4,
+          "destMapString": "MAP_MOSSDEEP_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 9,
+          "y": 18,
+          "ourMapGroup": 14,
+          "ourMapNum": 0,
+          "ourID": 6,
+          "destID": 7,
+          "destMapString": "MAP_MOSSDEEP_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 23,
+          "y": 20,
+          "ourMapGroup": 14,
+          "ourMapNum": 0,
+          "ourID": 7,
+          "destID": 6,
+          "destMapString": "MAP_MOSSDEEP_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 1,
+          "y": 33,
+          "ourMapGroup": 14,
+          "ourMapNum": 0,
+          "ourID": 8,
+          "destID": 9,
+          "destMapString": "MAP_MOSSDEEP_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 20,
+          "y": 24,
+          "ourMapGroup": 14,
+          "ourMapNum": 0,
+          "ourID": 9,
+          "destID": 8,
+          "destMapString": "MAP_MOSSDEEP_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 11,
+          "y": 3,
+          "ourMapGroup": 14,
+          "ourMapNum": 0,
+          "ourID": 10,
+          "destID": 11,
+          "destMapString": "MAP_MOSSDEEP_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 11,
+          "y": 35,
+          "ourMapGroup": 14,
+          "ourMapNum": 0,
+          "ourID": 11,
+          "destID": 10,
+          "destMapString": "MAP_MOSSDEEP_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 13,
+          "y": 32,
+          "ourMapGroup": 14,
+          "ourMapNum": 0,
+          "ourID": 12,
+          "destID": 13,
+          "destMapString": "MAP_MOSSDEEP_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 21,
+          "y": 10,
+          "ourMapGroup": 14,
+          "ourMapNum": 0,
+          "ourID": 13,
+          "destID": 12,
+          "destMapString": "MAP_MOSSDEEP_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 0,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

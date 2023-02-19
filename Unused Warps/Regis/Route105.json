@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 9,
+          "y": 20,
+          "ourMapGroup": 0,
+          "ourMapNum": 20,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ISLAND_CAVE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 67,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 4,
+          "y": 16,
+          "ourMapGroup": 25,
+          "ourMapNum": 43,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SS_TIDAL_CORRIDOR",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 41,
+          "duplicates": [
+            {
+              "x": 5,
+              "y": 16,
+              "ourMapGroup": 25,
+              "ourMapNum": 43,
+              "ourID": 1,
+              "destID": 0,
+              "destMapString": "MAP_SS_TIDAL_CORRIDOR",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 25,
+              "destMapNum": 41,
+              "duplicates": []
+            }
+          ]
+        }]},
+      {
+        "warps":[
+        {
+          "x": 13,
+          "y": 16,
+          "ourMapGroup": 25,
+          "ourMapNum": 43,
+          "ourID": 2,
+          "destID": 1,
+          "destMapString": "MAP_SS_TIDAL_CORRIDOR",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 41,
+          "duplicates": [
+            {
+              "x": 14,
+              "y": 16,
+              "ourMapGroup": 25,
+              "ourMapNum": 43,
+              "ourID": 3,
+              "destID": 1,
+              "destMapString": "MAP_SS_TIDAL_CORRIDOR",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 25,
+              "destMapNum": 41,
+              "duplicates": []
+            }
+          ]
+        }]},
+      {
+        "warps":[
+        {
+          "x": 22,
+          "y": 16,
+          "ourMapGroup": 25,
+          "ourMapNum": 43,
+          "ourID": 4,
+          "destID": 2,
+          "destMapString": "MAP_SS_TIDAL_CORRIDOR",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 41,
+          "duplicates": [
+            {
+              "x": 23,
+              "y": 16,
+              "ourMapGroup": 25,
+              "ourMapNum": 43,
+              "ourID": 5,
+              "destID": 2,
+              "destMapString": "MAP_SS_TIDAL_CORRIDOR",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 25,
+              "destMapNum": 41,
+              "duplicates": []
+            }
+          ]
+        }]},
+      {
+        "warps":[
+        {
+          "x": 31,
+          "y": 16,
+          "ourMapGroup": 25,
+          "ourMapNum": 43,
+          "ourID": 6,
+          "destID": 3,
+          "destMapString": "MAP_SS_TIDAL_CORRIDOR",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 41,
+          "duplicates": [
+            {
+              "x": 32,
+              "y": 16,
+              "ourMapGroup": 25,
+              "ourMapNum": 43,
+              "ourID": 7,
+              "destID": 3,
+              "destMapString": "MAP_SS_TIDAL_CORRIDOR",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 25,
+              "destMapNum": 41,
+              "duplicates": []
+            }
+          ]
+        }]},
+      {
+        "warps":[
+        {
+          "x": 4,
+          "y": 1,
+          "ourMapGroup": 25,
+          "ourMapNum": 43,
+          "ourID": 8,
+          "destID": 4,
+          "destMapString": "MAP_SS_TIDAL_CORRIDOR",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 41,
+          "duplicates": []
+        }]},
+      {
+        "warps":[
+        {
+          "x": 13,
+          "y": 1,
+          "ourMapGroup": 25,
+          "ourMapNum": 43,
+          "ourID": 9,
+          "destID": 5,
+          "destMapString": "MAP_SS_TIDAL_CORRIDOR",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 41,
+          "duplicates": []
+      }]},
+      {
+        "warps":[
+        {
+          "x": 22,
+          "y": 1,
+          "ourMapGroup": 25,
+          "ourMapNum": 43,
+          "ourID": 10,
+          "destID": 6,
+          "destMapString": "MAP_SS_TIDAL_CORRIDOR",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 41,
+          "duplicates": []
+      }]},
+      {
+        "warps":[
+        {
+          "x": 31,
+          "y": 1,
+          "ourMapGroup": 25,
+          "ourMapNum": 43,
+          "ourID": 11,
+          "destID": 7,
+          "destMapString": "MAP_SS_TIDAL_CORRIDOR",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 41,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

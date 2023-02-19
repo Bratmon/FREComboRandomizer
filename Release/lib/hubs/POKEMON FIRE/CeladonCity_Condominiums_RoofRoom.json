@@ -1,0 +1,49 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 4,
+          "y": 7,
+          "ourMapGroup": 10,
+          "ourMapNum": 11,
+          "ourID": 1,
+          "destID": 2,
+          "destMapString": "MAP_CELADON_CITY_CONDOMINIUMS_ROOF",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 10,
+          "destMapNum": 10,
+          "duplicates": [
+            {
+              "x": 3,
+              "y": 8,
+              "ourMapGroup": 10,
+              "ourMapNum": 11,
+              "ourID": 0,
+              "destID": 2,
+              "destMapString": "MAP_CELADON_CITY_CONDOMINIUMS_ROOF",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 10,
+              "destMapNum": 10,
+              "duplicates": []
+            },
+            {
+              "x": 5,
+              "y": 8,
+              "ourMapGroup": 10,
+              "ourMapNum": 11,
+              "ourID": 2,
+              "destID": 2,
+              "destMapString": "MAP_CELADON_CITY_CONDOMINIUMS_ROOF",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 10,
+              "destMapNum": 10,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

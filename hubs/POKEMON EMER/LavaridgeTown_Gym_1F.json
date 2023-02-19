@@ -1,0 +1,37 @@
+{
+  "hubs": [
+    {
+      "requirements": ["hgym3"],
+      "provides": ["hgym4"],
+      "warps": [
+        {
+          "x": 13,
+          "y": 18,
+          "ourMapGroup": 4,
+          "ourMapNum": 1,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_LAVARIDGE_TOWN",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 12,
+          "duplicates": [
+            {
+              "x": 14,
+              "y": 18,
+              "ourMapGroup": 4,
+              "ourMapNum": 1,
+              "ourID": 1,
+              "destID": 1,
+              "destMapString": "MAP_LAVARIDGE_TOWN",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 12,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "requirements": ["hsurf"],
+      "always_available": true,
+      "warps": [
+        {
+          "x": 29,
+          "y": 6,
+          "ourMapGroup": 0,
+          "ourMapNum": 23,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ABANDONED_SHIP_DECK",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 54,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

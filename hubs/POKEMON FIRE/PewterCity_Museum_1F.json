@@ -1,0 +1,94 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 13,
+          "y": 9,
+          "ourMapGroup": 6,
+          "ourMapNum": 0,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_PEWTER_CITY",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 2,
+          "duplicates": [
+            {
+              "x": 14,
+              "y": 9,
+              "ourMapGroup": 6,
+              "ourMapNum": 0,
+              "ourID": 1,
+              "destID": 0,
+              "destMapString": "MAP_PEWTER_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 2,
+              "duplicates": []
+            },
+            {
+              "x": 15,
+              "y": 9,
+              "ourMapGroup": 6,
+              "ourMapNum": 0,
+              "ourID": 2,
+              "destID": 0,
+              "destMapString": "MAP_PEWTER_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 2,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 8,
+          "y": 8,
+          "ourMapGroup": 6,
+          "ourMapNum": 0,
+          "ourID": 5,
+          "destID": 0,
+          "destMapString": "MAP_PEWTER_CITY_MUSEUM_2F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 6,
+          "destMapNum": 1,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements":[],
+      "warps":[
+        {
+          "x": 21,
+          "y": 9,
+          "ourMapGroup": 6,
+          "ourMapNum": 0,
+          "ourID": 3,
+          "destID": 1,
+          "destMapString": "MAP_PEWTER_CITY",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 2,
+          "duplicates": [
+            {
+              "x": 22,
+              "y": 9,
+              "ourMapGroup": 6,
+              "ourMapNum": 0,
+              "ourID": 4,
+              "destID": 1,
+              "destMapString": "MAP_PEWTER_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 2,
+              "duplicates": []
+            }
+          ]
+        }        
+      ]
+    }
+  ]
+}

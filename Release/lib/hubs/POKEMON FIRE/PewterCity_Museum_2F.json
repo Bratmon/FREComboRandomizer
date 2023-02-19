@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 11,
+          "y": 8,
+          "ourMapGroup": 6,
+          "ourMapNum": 1,
+          "ourID": 0,
+          "destID": 5,
+          "destMapString": "MAP_PEWTER_CITY_MUSEUM_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 6,
+          "destMapNum": 0,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

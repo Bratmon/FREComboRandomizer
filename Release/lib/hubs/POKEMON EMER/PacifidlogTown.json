@@ -1,0 +1,88 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["eastern_sea"],
+      "warps": [
+        {
+          "x": 8,
+          "y": 15,
+          "ourMapGroup": 0,
+          "ourMapNum": 15,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_PACIFIDLOG_TOWN_POKEMON_CENTER_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 7,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 16,
+          "y": 13,
+          "ourMapGroup": 0,
+          "ourMapNum": 15,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_PACIFIDLOG_TOWN_HOUSE1",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 7,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 3,
+          "y": 22,
+          "ourMapGroup": 0,
+          "ourMapNum": 15,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_PACIFIDLOG_TOWN_HOUSE2",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 7,
+          "destMapNum": 3,
+          "duplicates": []
+        },
+        {
+          "x": 12,
+          "y": 24,
+          "ourMapGroup": 0,
+          "ourMapNum": 15,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_PACIFIDLOG_TOWN_HOUSE3",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 7,
+          "destMapNum": 4,
+          "duplicates": []
+        },
+        {
+          "x": 2,
+          "y": 12,
+          "ourMapGroup": 0,
+          "ourMapNum": 15,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_PACIFIDLOG_TOWN_HOUSE4",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 7,
+          "destMapNum": 5,
+          "duplicates": []
+        },
+        {
+          "x": 17,
+          "y": 21,
+          "ourMapGroup": 0,
+          "ourMapNum": 15,
+          "ourID": 5,
+          "destID": 0,
+          "destMapString": "MAP_PACIFIDLOG_TOWN_HOUSE5",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 7,
+          "destMapNum": 6,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

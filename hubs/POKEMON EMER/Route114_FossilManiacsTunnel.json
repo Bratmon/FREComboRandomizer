@@ -1,0 +1,36 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 6,
+          "y": 25,
+          "ourMapGroup": 20,
+          "ourMapNum": 1,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_ROUTE114_FOSSIL_MANIACS_HOUSE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 20,
+          "destMapNum": 0,
+          "duplicates": [
+            {
+              "x": 7,
+              "y": 25,
+              "ourMapGroup": 20,
+              "ourMapNum": 1,
+              "ourID": 1,
+              "destID": 2,
+              "destMapString": "MAP_ROUTE114_FOSSIL_MANIACS_HOUSE",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 20,
+              "destMapNum": 0,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["rocket_lift_key"],
+      "warps": [
+        {
+          "x": 11,
+          "y": 15,
+          "ourMapGroup": 1,
+          "ourMapNum": 45,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_ROCKET_HIDEOUT_B3F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 44,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements": ["rocket_lift_key", "rocket_elevator"],
+      "provides": ["silph_scope"],
+      "always_available": true,
+      "warps": []
+    }
+  ]
+}

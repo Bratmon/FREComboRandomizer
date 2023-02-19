@@ -1,0 +1,50 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["bike_voucher"],
+      "warps": [
+        {
+          "x": 4,
+          "y": 10,
+          "ourMapGroup": 9,
+          "ourMapNum": 3,
+          "ourID": 0,
+          "destID": 5,
+          "destMapString": "MAP_VERMILION_CITY",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 5,
+          "duplicates": [
+            {
+              "x": 5,
+              "y": 10,
+              "ourMapGroup": 9,
+              "ourMapNum": 3,
+              "ourID": 1,
+              "destID": 5,
+              "destMapString": "MAP_VERMILION_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 5,
+              "duplicates": []
+            },
+            {
+              "x": 6,
+              "y": 10,
+              "ourMapGroup": 9,
+              "ourMapNum": 3,
+              "ourID": 2,
+              "destID": 5,
+              "destMapString": "MAP_VERMILION_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 5,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

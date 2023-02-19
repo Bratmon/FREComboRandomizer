@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["rayquaza_awake"],
+      "warps": [
+        {
+          "x": 16,
+          "y": 14,
+          "ourMapGroup": 24,
+          "ourMapNum": 85,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_SKY_PILLAR_5F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 84,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

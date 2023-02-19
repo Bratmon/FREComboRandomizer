@@ -1,0 +1,212 @@
+{
+  "hubs": [
+    {
+      "requirements":["lilycove", "hsurf"],
+      "always_available": true,
+      "warps":[
+        {
+          "x": 70,
+          "y": 5,
+          "ourMapGroup": 0,
+          "ourMapNum": 5,
+          "ourID": 6,
+          "destID": 0,
+          "destMapString": "MAP_AQUA_HIDEOUT_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 23,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "requirements": [],
+      "provides":["lilycove"],
+      "warps": [
+        {
+          "x": 27,
+          "y": 6,
+          "ourMapGroup": 0,
+          "ourMapNum": 5,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY_DEPARTMENT_STORE_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 16,
+          "duplicates": []
+        },
+        {
+          "x": 37,
+          "y": 24,
+          "ourMapGroup": 0,
+          "ourMapNum": 5,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY_COVE_LILY_MOTEL_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 24,
+          "y": 14,
+          "ourMapGroup": 0,
+          "ourMapNum": 5,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY_POKEMON_CENTER_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 6,
+          "duplicates": []
+        },
+        {
+          "x": 11,
+          "y": 5,
+          "ourMapGroup": 0,
+          "ourMapNum": 5,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY_LILYCOVE_MUSEUM_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 2,
+          "duplicates": [
+            {
+              "x": 12,
+              "y": 5,
+              "ourMapGroup": 0,
+              "ourMapNum": 5,
+              "ourID": 13,
+              "destID": 1,
+              "destMapString": "MAP_LILYCOVE_CITY_LILYCOVE_MUSEUM_1F",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 13,
+              "destMapNum": 2,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 23,
+          "y": 24,
+          "ourMapGroup": 0,
+          "ourMapNum": 5,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY_CONTEST_LOBBY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 4,
+          "duplicates": []
+        },
+        {
+          "x": 39,
+          "y": 14,
+          "ourMapGroup": 0,
+          "ourMapNum": 5,
+          "ourID": 5,
+          "destID": 1,
+          "destMapString": "MAP_LILYCOVE_CITY_POKEMON_TRAINER_FAN_CLUB",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 9,
+          "duplicates": []
+        },
+        {
+          "x": 36,
+          "y": 6,
+          "ourMapGroup": 0,
+          "ourMapNum": 5,
+          "ourID": 7,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY_MOVE_DELETERS_HOUSE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 11,
+          "duplicates": []
+        },
+        {
+          "x": 42,
+          "y": 6,
+          "ourMapGroup": 0,
+          "ourMapNum": 5,
+          "ourID": 8,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY_HOUSE1",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 12,
+          "duplicates": []
+        },
+        {
+          "x": 55,
+          "y": 15,
+          "ourMapGroup": 0,
+          "ourMapNum": 5,
+          "ourID": 9,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY_HOUSE2",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 13,
+          "duplicates": []
+        },
+        {
+          "x": 11,
+          "y": 22,
+          "ourMapGroup": 0,
+          "ourMapNum": 5,
+          "ourID": 10,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY_HOUSE3",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 14,
+          "duplicates": []
+        },
+        {
+          "x": 12,
+          "y": 14,
+          "ourMapGroup": 0,
+          "ourMapNum": 5,
+          "ourID": 11,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY_HOUSE4",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 15,
+          "duplicates": []
+        },
+        {
+          "x": 12,
+          "y": 32,
+          "ourMapGroup": 0,
+          "ourMapNum": 5,
+          "ourID": 12,
+          "destID": 0,
+          "destMapString": "MAP_LILYCOVE_CITY_HARBOR",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 13,
+          "destMapNum": 10,
+          "duplicates": []
+        },
+        {
+          "x": 37,
+          "y": 5,
+          "ourMapGroup": 0,
+          "ourMapNum": 36,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_ROUTE121_SAFARI_ZONE_ENTRANCE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 23,
+          "destMapNum": 0,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

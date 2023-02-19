@@ -1,0 +1,37 @@
+{
+  "hubs": [
+    {
+      "requirements": ["abandoned_ship_hidden_floor", "hdive", "hsurf"],
+      "always_available": true,
+      "warps": [
+        {
+          "x": 3,
+          "y": 7,
+          "ourMapGroup": 24,
+          "ourMapNum": 60,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ABANDONED_SHIP_UNDERWATER2",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 64,
+          "duplicates": [
+            {
+              "x": 4,
+              "y": 7,
+              "ourMapGroup": 24,
+              "ourMapNum": 60,
+              "ourID": 1,
+              "destID": 0,
+              "destMapString": "MAP_ABANDONED_SHIP_UNDERWATER2",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 24,
+              "destMapNum": 64,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

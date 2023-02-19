@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 7,
+          "y": 13,
+          "ourMapGroup": 2,
+          "ourMapNum": 35,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SEVEN_ISLAND_SEVAULT_CANYON",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 64,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

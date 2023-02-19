@@ -1,0 +1,37 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["abandoned_ship_storage_key"],
+      "warps": [
+        {
+          "x": 7,
+          "y": 6,
+          "ourMapGroup": 24,
+          "ourMapNum": 63,
+          "ourID": 0,
+          "destID": 4,
+          "destMapString": "MAP_ABANDONED_SHIP_DECK",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 54,
+          "duplicates": [
+            {
+              "x": 8,
+              "y": 6,
+              "ourMapGroup": 24,
+              "ourMapNum": 63,
+              "ourID": 1,
+              "destID": 4,
+              "destMapString": "MAP_ABANDONED_SHIP_DECK",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 24,
+              "destMapNum": 54,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

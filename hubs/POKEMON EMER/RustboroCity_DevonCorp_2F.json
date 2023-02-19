@@ -1,0 +1,35 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 14,
+          "y": 1,
+          "ourMapGroup": 11,
+          "ourMapNum": 1,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_RUSTBORO_CITY_DEVON_CORP_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 11,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 2,
+          "y": 1,
+          "ourMapGroup": 11,
+          "ourMapNum": 1,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_RUSTBORO_CITY_DEVON_CORP_3F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 11,
+          "destMapNum": 2,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

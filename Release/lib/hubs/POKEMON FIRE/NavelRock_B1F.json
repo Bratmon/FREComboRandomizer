@@ -1,0 +1,35 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 4,
+          "y": 2,
+          "ourMapGroup": 2,
+          "ourMapNum": 54,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_NAVEL_ROCK_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 36,
+          "duplicates": []
+        },
+        {
+          "x": 11,
+          "y": 5,
+          "ourMapGroup": 2,
+          "ourMapNum": 54,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_NAVEL_ROCK_FORK",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 55,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

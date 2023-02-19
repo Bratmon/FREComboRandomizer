@@ -1,0 +1,49 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 1,
+          "y": 4,
+          "ourMapGroup": 1,
+          "ourMapNum": 7,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SSANNE_DECK",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 9,
+          "duplicates": [
+            {
+              "x": 0,
+              "y": 5,
+              "ourMapGroup": 1,
+              "ourMapNum": 7,
+              "ourID": 2,
+              "destID": 0,
+              "destMapString": "MAP_SSANNE_DECK",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 1,
+              "destMapNum": 9,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 18,
+          "y": 2,
+          "ourMapGroup": 1,
+          "ourMapNum": 7,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_SSANNE_2F_CORRIDOR",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 6,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

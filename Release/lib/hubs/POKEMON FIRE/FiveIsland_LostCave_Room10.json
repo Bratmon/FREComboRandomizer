@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "xy_required": true,
+      "warps": [
+        {
+          "x": 5,
+          "y": 8,
+          "ourMapGroup": 2,
+          "ourMapNum": 22,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM1",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 13,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

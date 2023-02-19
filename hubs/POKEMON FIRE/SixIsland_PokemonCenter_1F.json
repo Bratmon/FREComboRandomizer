@@ -1,0 +1,35 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 7,
+          "y": 8,
+          "ourMapGroup": 37,
+          "ourMapNum": 0,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_SIX_ISLAND",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 18,
+          "duplicates": []
+        },
+        {
+          "x": 1,
+          "y": 6,
+          "ourMapGroup": 37,
+          "ourMapNum": 0,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_SIX_ISLAND_POKEMON_CENTER_2F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 37,
+          "destMapNum": 1,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

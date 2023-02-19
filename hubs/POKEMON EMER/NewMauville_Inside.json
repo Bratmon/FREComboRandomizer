@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 32,
+          "y": 33,
+          "ourMapGroup": 24,
+          "ourMapNum": 53,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_NEW_MAUVILLE_ENTRANCE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 52,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

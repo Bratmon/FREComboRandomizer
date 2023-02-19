@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "requirements": ["kcard_key"],
+      "provides": ["saffron_freedom"],
+      "warps":[
+        {
+          "x": 2,
+          "y": 5,
+          "ourMapGroup": 1,
+          "ourMapNum": 57,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_SILPH_CO_7F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 53,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

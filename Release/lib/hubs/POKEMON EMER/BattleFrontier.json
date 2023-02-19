@@ -1,0 +1,336 @@
+{
+  "hubs": [
+    {
+      "warps":[
+        {
+          "x": 26,
+          "y": 65,
+          "ourMapGroup": 26,
+          "ourMapNum": 4,
+          "ourID": 8,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_RECEPTION_GATE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 50,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "provides": ["battle_frontier"],
+      "requirements": [],
+      "warps": [
+        {
+          "x": 16,
+          "y": 14,
+          "ourMapGroup": 26,
+          "ourMapNum": 14,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_BATTLE_TOWER_LOBBY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 5,
+          "duplicates": []
+        },
+        {
+          "x": 39,
+          "y": 29,
+          "ourMapGroup": 26,
+          "ourMapNum": 14,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_BATTLE_ARENA_LOBBY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 28,
+          "duplicates": []
+        },
+        {
+          "x": 45,
+          "y": 56,
+          "ourMapGroup": 26,
+          "ourMapNum": 14,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_BATTLE_PALACE_LOBBY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 22,
+          "duplicates": []
+        },
+        {
+          "x": 58,
+          "y": 14,
+          "ourMapGroup": 26,
+          "ourMapNum": 14,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_BATTLE_PYRAMID_LOBBY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 25,
+          "duplicates": []
+        },
+        {
+          "x": 35,
+          "y": 12,
+          "ourMapGroup": 26,
+          "ourMapNum": 14,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_RANKING_HALL",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 40,
+          "duplicates": []
+        },
+        {
+          "x": 4,
+          "y": 44,
+          "ourMapGroup": 26,
+          "ourMapNum": 14,
+          "ourID": 5,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_LOUNGE1",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 41,
+          "duplicates": []
+        },
+        {
+          "x": 10,
+          "y": 28,
+          "ourMapGroup": 26,
+          "ourMapNum": 14,
+          "ourID": 6,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_EXCHANGE_SERVICE_CORNER",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 42,
+          "duplicates": []
+        },
+        {
+          "x": 22,
+          "y": 51,
+          "ourMapGroup": 26,
+          "ourMapNum": 14,
+          "ourID": 7,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_LOUNGE5",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 47,
+          "duplicates": []
+        },
+        {
+          "x": 5,
+          "y": 8,
+          "ourMapGroup": 26,
+          "ourMapNum": 14,
+          "ourID": 8,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_LOUNGE6",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 48,
+          "duplicates": []
+        },
+        {
+          "x": 65,
+          "y": 31,
+          "ourMapGroup": 26,
+          "ourMapNum": 14,
+          "ourID": 9,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_LOUNGE3",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 44,
+          "duplicates": []
+        },
+        {
+          "x": 14,
+          "y": 51,
+          "ourMapGroup": 26,
+          "ourMapNum": 14,
+          "ourID": 10,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_LOUNGE8",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 51,
+          "duplicates": []
+        },
+        {
+          "x": 3,
+          "y": 51,
+          "ourMapGroup": 26,
+          "ourMapNum": 14,
+          "ourID": 12,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_POKEMON_CENTER_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 53,
+          "duplicates": []
+        },
+        {
+          "x": 42,
+          "y": 27,
+          "ourMapGroup": 26,
+          "ourMapNum": 4,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_BATTLE_PIKE_LOBBY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 34,
+          "duplicates": []
+        },
+        {
+          "x": 19,
+          "y": 17,
+          "ourMapGroup": 26,
+          "ourMapNum": 4,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_BATTLE_DOME_LOBBY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 18,
+          "duplicates": []
+        },
+        {
+          "x": 11,
+          "y": 38,
+          "ourMapGroup": 26,
+          "ourMapNum": 4,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_BATTLE_FACTORY_LOBBY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 31,
+          "duplicates": []
+        },
+        {
+          "x": 45,
+          "y": 44,
+          "ourMapGroup": 26,
+          "ourMapNum": 4,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_LOUNGE2",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 43,
+          "duplicates": []
+        },
+        {
+          "x": 51,
+          "y": 51,
+          "ourMapGroup": 26,
+          "ourMapNum": 4,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_MART",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 55,
+          "duplicates": []
+        },
+        {
+          "x": 44,
+          "y": 5,
+          "ourMapGroup": 26,
+          "ourMapNum": 4,
+          "ourID": 5,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_SCOTTS_HOUSE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 46,
+          "duplicates": []
+        },
+        {
+          "x": 53,
+          "y": 44,
+          "ourMapGroup": 26,
+          "ourMapNum": 4,
+          "ourID": 6,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_LOUNGE4",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 45,
+          "duplicates": []
+        },
+        {
+          "x": 5,
+          "y": 20,
+          "ourMapGroup": 26,
+          "ourMapNum": 4,
+          "ourID": 7,
+          "destID": 0,
+          "destMapString": "MAP_BATTLE_FRONTIER_LOUNGE7",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 49,
+          "duplicates": []
+        },
+        {
+          "x": 26,
+          "y": 61,
+          "ourMapGroup": 26,
+          "ourMapNum": 4,
+          "ourID": 9,
+          "destID": 1,
+          "destMapString": "MAP_BATTLE_FRONTIER_RECEPTION_GATE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 50,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "warps":[
+        {
+          "x": 28,
+          "y": 7,
+          "ourMapGroup": 26,
+          "ourMapNum": 14,
+          "ourID": 13,
+          "destID": 0,
+          "destMapString": "MAP_ARTISAN_CAVE_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 100,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements":["battle_frontier", "hsurf", "hwaterfall", "wailmer_pail"],
+      "always_available": true,
+      "warps":[
+        {
+          "x": 39,
+          "y": 55,
+          "ourMapGroup": 26,
+          "ourMapNum": 4,
+          "ourID": 10,
+          "destID": 0,
+          "destMapString": "MAP_ARTISAN_CAVE_B1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 99,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

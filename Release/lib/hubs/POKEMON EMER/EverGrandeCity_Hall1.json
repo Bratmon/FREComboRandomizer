@@ -1,0 +1,65 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 5,
+          "y": 12,
+          "ourMapGroup": 16,
+          "ourMapNum": 5,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_EVER_GRANDE_CITY_SIDNEYS_ROOM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 16,
+          "destMapNum": 0,
+          "duplicates": [
+            {
+              "x": 4,
+              "y": 12,
+              "ourMapGroup": 16,
+              "ourMapNum": 5,
+              "ourID": 2,
+              "destID": 1,
+              "destMapString": "MAP_EVER_GRANDE_CITY_SIDNEYS_ROOM",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 16,
+              "destMapNum": 0,
+              "duplicates": []
+            },
+            {
+              "x": 6,
+              "y": 12,
+              "ourMapGroup": 16,
+              "ourMapNum": 5,
+              "ourID": 3,
+              "destID": 1,
+              "destMapString": "MAP_EVER_GRANDE_CITY_SIDNEYS_ROOM",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 16,
+              "destMapNum": 0,
+              "duplicates": []
+            }
+          ]
+        }]
+      },
+      {
+        "warps":[
+        {
+          "x": 5,
+          "y": 2,
+          "ourMapGroup": 16,
+          "ourMapNum": 5,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_EVER_GRANDE_CITY_PHOEBES_ROOM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 16,
+          "destMapNum": 1,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

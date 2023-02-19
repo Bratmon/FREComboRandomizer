@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["kcard_key"],
+      "warps":[
+        {
+          "x": 10,
+          "y": 20,
+          "ourMapGroup": 1,
+          "ourMapNum": 51,
+          "ourID": 3,
+          "destID": 1,
+          "destMapString": "MAP_SILPH_CO_9F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 55,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

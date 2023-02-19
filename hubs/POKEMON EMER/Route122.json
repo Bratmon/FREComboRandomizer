@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "requirements": ["hsurf", "fortree"],
+      "always_available": true,
+      "warps": [
+        {
+          "x": 22,
+          "y": 29,
+          "ourMapGroup": 0,
+          "ourMapNum": 37,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_MT_PYRE_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 15,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

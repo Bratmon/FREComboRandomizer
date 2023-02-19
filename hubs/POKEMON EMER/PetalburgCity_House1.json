@@ -1,0 +1,37 @@
+{
+  "hubs": [
+    {
+      "xy_required": true,
+      "requirements": [],
+      "warps": [
+        {
+          "x": 3,
+          "y": 8,
+          "ourMapGroup": 8,
+          "ourMapNum": 2,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_PETALBURG_CITY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 0,
+          "duplicates": [
+            {
+              "x": 4,
+              "y": 8,
+              "ourMapGroup": 8,
+              "ourMapNum": 2,
+              "ourID": 1,
+              "destID": 0,
+              "destMapString": "MAP_PETALBURG_CITY",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 0,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "hubs": [
+    {
+      "requirements": ["kgym8", "hgym8"],
+      "provides": ["ke41"],
+      "warps": [
+        {
+          "x": 6,
+          "y": 12,
+          "ourMapGroup": 1,
+          "ourMapNum": 75,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_INDIGO_PLATEAU_POKEMON_CENTER_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 13,
+          "destMapNum": 0,
+          "duplicates": []
+        }
+        ] 
+      },
+    {
+      "one_way": true,
+      "requirements": [],  
+      "warps": [      
+        {
+          "x": 6,
+          "y": 2,
+          "ourMapGroup": 1,
+          "ourMapNum": 75,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_POKEMON_LEAGUE_BRUNOS_ROOM",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 76,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

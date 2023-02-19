@@ -1,0 +1,214 @@
+{
+  "hubs": [
+    {
+      "always_available": true,
+      "requirements": ["saffron_freedom", "saffron"],
+      "warps":[
+        {
+          "x": 22,
+          "y": 14,
+          "ourMapGroup": 3,
+          "ourMapNum": 10,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_SAFFRON_CITY_COPYCATS_HOUSE_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 14,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 46,
+          "y": 12,
+          "ourMapGroup": 3,
+          "ourMapNum": 10,
+          "ourID": 3,
+          "destID": 1,
+          "destMapString": "MAP_SAFFRON_CITY_GYM",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 14,
+          "destMapNum": 3,
+          "duplicates": []
+        },
+        {
+          "x": 27,
+          "y": 21,
+          "ourMapGroup": 3,
+          "ourMapNum": 10,
+          "ourID": 4,
+          "destID": 1,
+          "destMapString": "MAP_SAFFRON_CITY_HOUSE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 14,
+          "destMapNum": 4,
+          "duplicates": []
+        }       
+      ]
+    },
+    {
+      "requirements": [],
+      "provides": ["saffron"],
+      "warps": [
+        {
+          "x": 33,
+          "y": 30,
+          "ourMapGroup": 3,
+          "ourMapNum": 10,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_SILPH_CO_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 47,
+          "duplicates": []
+        },
+        {
+          "x": 40,
+          "y": 12,
+          "ourMapGroup": 3,
+          "ourMapNum": 10,
+          "ourID": 2,
+          "destID": 1,
+          "destMapString": "MAP_SAFFRON_CITY_DOJO",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 14,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+
+        {
+          "x": 40,
+          "y": 21,
+          "ourMapGroup": 3,
+          "ourMapNum": 10,
+          "ourID": 5,
+          "destID": 1,
+          "destMapString": "MAP_SAFFRON_CITY_MART",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 14,
+          "destMapNum": 5,
+          "duplicates": []
+        },
+        {
+          "x": 24,
+          "y": 38,
+          "ourMapGroup": 3,
+          "ourMapNum": 10,
+          "ourID": 6,
+          "destID": 1,
+          "destMapString": "MAP_SAFFRON_CITY_POKEMON_CENTER_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 14,
+          "destMapNum": 6,
+          "duplicates": []
+        },
+        {
+          "x": 43,
+          "y": 38,
+          "ourMapGroup": 3,
+          "ourMapNum": 10,
+          "ourID": 7,
+          "destID": 1,
+          "destMapString": "MAP_SAFFRON_CITY_MR_PSYCHICS_HOUSE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 14,
+          "destMapNum": 8,
+          "duplicates": []
+        },
+        {
+          "x": 8,
+          "y": 27,
+          "ourMapGroup": 3,
+          "ourMapNum": 10,
+          "ourID": 8,
+          "destID": 2,
+          "destMapString": "MAP_ROUTE7_EAST_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 19,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 34,
+          "y": 5,
+          "ourMapGroup": 3,
+          "ourMapNum": 10,
+          "ourID": 9,
+          "destID": 2,
+          "destMapString": "MAP_ROUTE5_SOUTH_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 17,
+          "destMapNum": 1,
+          "duplicates": [
+            {
+              "x": 35,
+              "y": 5,
+              "ourMapGroup": 3,
+              "ourMapNum": 10,
+              "ourID": 13,
+              "destID": 2,
+              "destMapString": "MAP_ROUTE5_SOUTH_ENTRANCE",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 17,
+              "destMapNum": 1,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 58,
+          "y": 27,
+          "ourMapGroup": 3,
+          "ourMapNum": 10,
+          "ourID": 10,
+          "destID": 1,
+          "destMapString": "MAP_ROUTE8_WEST_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 20,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 34,
+          "y": 46,
+          "ourMapGroup": 3,
+          "ourMapNum": 10,
+          "ourID": 11,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE6_NORTH_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 18,
+          "destMapNum": 0,
+          "duplicates": [
+            {
+              "x": 35,
+              "y": 46,
+              "ourMapGroup": 3,
+              "ourMapNum": 10,
+              "ourID": 12,
+              "destID": 0,
+              "destMapString": "MAP_ROUTE6_NORTH_ENTRANCE",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 18,
+              "destMapNum": 0,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 47,
+          "y": 21,
+          "ourMapGroup": 3,
+          "ourMapNum": 10,
+          "ourID": 14,
+          "destID": 0,
+          "destMapString": "MAP_SAFFRON_CITY_POKEMON_TRAINER_FAN_CLUB",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 14,
+          "destMapNum": 9,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

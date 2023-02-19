@@ -1,0 +1,35 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 11,
+          "y": 6,
+          "ourMapGroup": 3,
+          "ourMapNum": 9,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_INDIGO_PLATEAU_POKEMON_CENTER_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 13,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 18,
+          "y": 28,
+          "ourMapGroup": 3,
+          "ourMapNum": 42,
+          "ourID": 1,
+          "destID": 6,
+          "destMapString": "MAP_VICTORY_ROAD_2F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 40,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

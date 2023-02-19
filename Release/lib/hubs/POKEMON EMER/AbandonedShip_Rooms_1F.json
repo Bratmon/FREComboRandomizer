@@ -1,0 +1,93 @@
+{
+  "hubs": [
+    {
+      "warps":[
+        {
+          "x": 4,
+          "y": 1,
+          "ourMapGroup": 24,
+          "ourMapNum": 56,
+          "ourID": 2,
+          "destID": 6,
+          "destMapString": "MAP_ABANDONED_SHIP_CORRIDORS_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 55,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 4,
+          "y": 16,
+          "ourMapGroup": 24,
+          "ourMapNum": 56,
+          "ourID": 0,
+          "destID": 4,
+          "destMapString": "MAP_ABANDONED_SHIP_CORRIDORS_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 55,
+          "duplicates": [
+            {
+              "x": 5,
+              "y": 16,
+              "ourMapGroup": 24,
+              "ourMapNum": 56,
+              "ourID": 1,
+              "destID": 4,
+              "destMapString": "MAP_ABANDONED_SHIP_CORRIDORS_1F",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 24,
+              "destMapNum": 55,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 13,
+          "y": 16,
+          "ourMapGroup": 24,
+          "ourMapNum": 56,
+          "ourID": 3,
+          "destID": 5,
+          "destMapString": "MAP_ABANDONED_SHIP_CORRIDORS_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 55,
+          "duplicates": [
+            {
+              "x": 14,
+              "y": 16,
+              "ourMapGroup": 24,
+              "ourMapNum": 56,
+              "ourID": 5,
+              "destID": 5,
+              "destMapString": "MAP_ABANDONED_SHIP_CORRIDORS_1F",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 24,
+              "destMapNum": 55,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 13,
+          "y": 1,
+          "ourMapGroup": 24,
+          "ourMapNum": 56,
+          "ourID": 4,
+          "destID": 7,
+          "destMapString": "MAP_ABANDONED_SHIP_CORRIDORS_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 55,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

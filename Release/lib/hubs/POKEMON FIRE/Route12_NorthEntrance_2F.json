@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 10,
+          "y": 9,
+          "ourMapGroup": 23,
+          "ourMapNum": 1,
+          "ourID": 0,
+          "destID": 4,
+          "destMapString": "MAP_ROUTE12_NORTH_ENTRANCE_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 23,
+          "destMapNum": 0,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

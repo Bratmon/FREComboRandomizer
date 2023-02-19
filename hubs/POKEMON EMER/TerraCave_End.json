@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 5,
+          "y": 4,
+          "ourMapGroup": 24,
+          "ourMapNum": 105,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_TERRA_CAVE_ENTRANCE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 104,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

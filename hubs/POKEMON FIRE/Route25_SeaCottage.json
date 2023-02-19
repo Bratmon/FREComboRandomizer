@@ -1,0 +1,50 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["bill"],
+      "warps": [
+        {
+          "x": 6,
+          "y": 9,
+          "ourMapGroup": 30,
+          "ourMapNum": 0,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE25",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 44,
+          "duplicates": [
+            {
+              "x": 7,
+              "y": 9,
+              "ourMapGroup": 30,
+              "ourMapNum": 0,
+              "ourID": 1,
+              "destID": 0,
+              "destMapString": "MAP_ROUTE25",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 44,
+              "duplicates": []
+            },
+            {
+              "x": 8,
+              "y": 9,
+              "ourMapGroup": 30,
+              "ourMapNum": 0,
+              "ourID": 2,
+              "destID": 0,
+              "destMapString": "MAP_ROUTE25",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 44,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "hubs": [
+    {
+      "warps":[
+        {
+          "x": 4,
+          "y": 14,
+          "ourMapGroup": 24,
+          "ourMapNum": 1,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_METEOR_FALLS_B1F_1R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 2,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "warps":[
+        {
+          "x": 7,
+          "y": 20,
+          "ourMapGroup": 24,
+          "ourMapNum": 1,
+          "ourID": 2,
+          "destID": 1,
+          "destMapString": "MAP_METEOR_FALLS_B1F_1R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 2,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 10,
+          "y": 29,
+          "ourMapGroup": 24,
+          "ourMapNum": 1,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_METEOR_FALLS_1F_1R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 21,
+          "y": 23,
+          "ourMapGroup": 24,
+          "ourMapNum": 1,
+          "ourID": 3,
+          "destID": 2,
+          "destMapString": "MAP_METEOR_FALLS_B1F_1R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 2,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "hubs": [
+    {
+      "one_way": true,
+      "warps": [
+        {
+          "x": 6,
+          "y": 5,
+          "ourMapGroup": 1,
+          "ourMapNum": 78,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_POKEMON_LEAGUE_CHAMPIONS_ROOM",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 79,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements": ["ke43"],
+      "provides": ["ke44"],      
+      "warps": [
+        {
+          "x": 23,
+          "y": 13,
+          "ourMapGroup": 1,
+          "ourMapNum": 78,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_POKEMON_LEAGUE_AGATHAS_ROOM",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 77,
+          "duplicates": []
+        }
+      ]
+    }    
+  ]
+}

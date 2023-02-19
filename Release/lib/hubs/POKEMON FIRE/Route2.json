@@ -1,0 +1,95 @@
+{
+  "hubs": [
+    {
+      "requirements":["kcut"],
+      "warps":[
+        {
+          "x": 17,
+          "y": 11,
+          "ourMapGroup": 3,
+          "ourMapNum": 20,
+          "ourID": 3,
+          "destID": 1,
+          "destMapString": "MAP_DIGLETTS_CAVE_NORTH_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 36,
+          "duplicates": []
+        },
+        {
+          "x": 17,
+          "y": 22,
+          "ourMapGroup": 3,
+          "ourMapNum": 20,
+          "ourID": 4,
+          "destID": 1,
+          "destMapString": "MAP_ROUTE2_HOUSE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 15,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 18,
+          "y": 41,
+          "ourMapGroup": 3,
+          "ourMapNum": 20,
+          "ourID": 6,
+          "destID": 3,
+          "destMapString": "MAP_ROUTE2_EAST_BUILDING",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 15,
+          "destMapNum": 2,
+          "duplicates": [
+            {
+              "x": 19,
+              "y": 41,
+              "ourMapGroup": 3,
+              "ourMapNum": 20,
+              "ourID": 7,
+              "destID": 3,
+              "destMapString": "MAP_ROUTE2_EAST_BUILDING",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 15,
+              "destMapNum": 2,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "requirements": ["kcut"],
+      "always_available": true,
+      "warps":[
+        {
+          "x": 18,
+          "y": 46,
+          "ourMapGroup": 3,
+          "ourMapNum": 20,
+          "ourID": 5,
+          "destID": 1,
+          "destMapString": "MAP_ROUTE2_EAST_BUILDING",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 15,
+          "destMapNum": 2,
+          "duplicates": [
+            {
+              "x": 19,
+              "y": 46,
+              "ourMapGroup": 3,
+              "ourMapNum": 20,
+              "ourID": 8,
+              "destID": 1,
+              "destMapString": "MAP_ROUTE2_EAST_BUILDING",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 15,
+              "destMapNum": 2,
+              "duplicates": []
+            }
+          ]
+        }        
+      ]
+    }
+  ]
+}

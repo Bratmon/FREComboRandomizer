@@ -1,0 +1,92 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 5,
+          "y": 6,
+          "ourMapGroup": 24,
+          "ourMapNum": 2,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_METEOR_FALLS_1F_2R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 18,
+          "y": 15,
+          "ourMapGroup": 24,
+          "ourMapNum": 2,
+          "ourID": 2,
+          "destID": 3,
+          "destMapString": "MAP_METEOR_FALLS_1F_2R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 3,
+          "y": 23,
+          "ourMapGroup": 24,
+          "ourMapNum": 2,
+          "ourID": 4,
+          "destID": 3,
+          "destMapString": "MAP_METEOR_FALLS_1F_1R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 0,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements":["hsurf"],
+      "warps":[
+        {
+          "x": 7,
+          "y": 11,
+          "ourMapGroup": 24,
+          "ourMapNum": 2,
+          "ourID": 1,
+          "destID": 2,
+          "destMapString": "MAP_METEOR_FALLS_1F_2R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 1,
+          "duplicates": []
+        },  
+        {
+          "x": 17,
+          "y": 3,
+          "ourMapGroup": 24,
+          "ourMapNum": 2,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_METEOR_FALLS_B1F_2R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 3,
+          "duplicates": []
+        },
+        {
+          "x": 20,
+          "y": 36,
+          "ourMapGroup": 24,
+          "ourMapNum": 2,
+          "ourID": 5,
+          "destID": 4,
+          "destMapString": "MAP_METEOR_FALLS_1F_1R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 0,
+          "duplicates": []
+        }                  
+      ]
+    }
+  ]
+}

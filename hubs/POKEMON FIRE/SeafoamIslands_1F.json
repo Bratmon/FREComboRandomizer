@@ -1,0 +1,105 @@
+{
+  "hubs": [
+    {
+      "warps":[
+        {
+          "x": 28,
+          "y": 19,
+          "ourMapGroup": 1,
+          "ourMapNum": 83,
+          "ourID": 2,
+          "destID": 2,
+          "destMapString": "MAP_SEAFOAM_ISLANDS_B1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 84,
+          "duplicates": []
+        },
+        {
+          "x": 32,
+          "y": 21,
+          "ourMapGroup": 1,
+          "ourMapNum": 83,
+          "ourID": 4,
+          "destID": 1,
+          "destMapString": "MAP_ROUTE20",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 38,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 10,
+          "y": 6,
+          "ourMapGroup": 1,
+          "ourMapNum": 83,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SEAFOAM_ISLANDS_B1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 84,
+          "duplicates": []
+        },
+        {
+          "x": 31,
+          "y": 4,
+          "ourMapGroup": 1,
+          "ourMapNum": 83,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_SEAFOAM_ISLANDS_B1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 84,
+          "duplicates": []
+        },
+
+        {
+          "x": 6,
+          "y": 21,
+          "ourMapGroup": 1,
+          "ourMapNum": 83,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE20",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 38,
+          "duplicates": []
+        },
+        {
+          "x": 21,
+          "y": 8,
+          "ourMapGroup": 1,
+          "ourMapNum": 83,
+          "ourID": 5,
+          "destID": 9,
+          "destMapString": "MAP_SEAFOAM_ISLANDS_B1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 84,
+          "duplicates": []
+        },
+        {
+          "x": 30,
+          "y": 8,
+          "ourMapGroup": 1,
+          "ourMapNum": 83,
+          "ourID": 6,
+          "destID": 10,
+          "destMapString": "MAP_SEAFOAM_ISLANDS_B1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 84,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

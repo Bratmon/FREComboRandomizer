@@ -1,0 +1,48 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 11,
+          "y": 23,
+          "ourMapGroup": 24,
+          "ourMapNum": 87,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_MAGMA_HIDEOUT_2F_2R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 88,
+          "duplicates": []
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "ourMapGroup": 24,
+          "ourMapNum": 87,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_MAGMA_HIDEOUT_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 86,
+          "duplicates": []
+        },
+        {
+          "x": 17,
+          "y": 33,
+          "ourMapGroup": 24,
+          "ourMapNum": 87,
+          "ourID": 2,
+          "destID": 2,
+          "destMapString": "MAP_MAGMA_HIDEOUT_3F_1R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 89,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

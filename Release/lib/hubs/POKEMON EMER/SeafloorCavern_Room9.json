@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["kyogre_awake"],
+      "warps": [
+        {
+          "x": 5,
+          "y": 4,
+          "ourMapGroup": 24,
+          "ourMapNum": 36,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SEAFLOOR_CAVERN_ROOM8",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 35,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 15,
+          "y": 2,
+          "ourMapGroup": 25,
+          "ourMapNum": 42,
+          "ourID": 0,
+          "destID": 8,
+          "destMapString": "MAP_SS_TIDAL_CORRIDOR",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 41,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

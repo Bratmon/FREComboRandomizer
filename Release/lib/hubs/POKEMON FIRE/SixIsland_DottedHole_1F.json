@@ -1,0 +1,52 @@
+{
+  "hubs": [
+    {
+      "warps":[
+        {
+          "x": 13,
+          "y": 5,
+          "ourMapGroup": 1,
+          "ourMapNum": 115,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_SIX_ISLAND_DOTTED_HOLE_SAPPHIRE_ROOM",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 120,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 6,
+          "y": 9,
+          "ourMapGroup": 1,
+          "ourMapNum": 115,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SIX_ISLAND_RUIN_VALLEY",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 61,
+          "duplicates": []
+        },
+        {
+          "x": 6,
+          "y": 5,
+          "ourMapGroup": 1,
+          "ourMapNum": 115,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_SIX_ISLAND_DOTTED_HOLE_B1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 116,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

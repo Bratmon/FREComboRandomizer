@@ -1,0 +1,126 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 4,
+          "y": 9,
+          "ourMapGroup": 25,
+          "ourMapNum": 41,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SS_TIDAL_ROOMS",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 43,
+          "duplicates": []
+        },
+        {
+          "x": 7,
+          "y": 9,
+          "ourMapGroup": 25,
+          "ourMapNum": 41,
+          "ourID": 1,
+          "destID": 2,
+          "destMapString": "MAP_SS_TIDAL_ROOMS",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 43,
+          "duplicates": []
+        },
+        {
+          "x": 10,
+          "y": 9,
+          "ourMapGroup": 25,
+          "ourMapNum": 41,
+          "ourID": 2,
+          "destID": 4,
+          "destMapString": "MAP_SS_TIDAL_ROOMS",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 43,
+          "duplicates": []
+        },
+        {
+          "x": 13,
+          "y": 9,
+          "ourMapGroup": 25,
+          "ourMapNum": 41,
+          "ourID": 3,
+          "destID": 6,
+          "destMapString": "MAP_SS_TIDAL_ROOMS",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 43,
+          "duplicates": []
+        },
+        {
+          "x": 4,
+          "y": 3,
+          "ourMapGroup": 25,
+          "ourMapNum": 41,
+          "ourID": 4,
+          "destID": 8,
+          "destMapString": "MAP_SS_TIDAL_ROOMS",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 43,
+          "duplicates": []
+        },
+        {
+          "x": 7,
+          "y": 3,
+          "ourMapGroup": 25,
+          "ourMapNum": 41,
+          "ourID": 5,
+          "destID": 9,
+          "destMapString": "MAP_SS_TIDAL_ROOMS",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 43,
+          "duplicates": []
+        },
+        {
+          "x": 10,
+          "y": 3,
+          "ourMapGroup": 25,
+          "ourMapNum": 41,
+          "ourID": 6,
+          "destID": 10,
+          "destMapString": "MAP_SS_TIDAL_ROOMS",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 43,
+          "duplicates": []
+        },
+        {
+          "x": 13,
+          "y": 3,
+          "ourMapGroup": 25,
+          "ourMapNum": 41,
+          "ourID": 7,
+          "destID": 11,
+          "destMapString": "MAP_SS_TIDAL_ROOMS",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 43,
+          "duplicates": []
+        },
+        {
+          "x": 16,
+          "y": 2,
+          "ourMapGroup": 25,
+          "ourMapNum": 41,
+          "ourID": 8,
+          "destID": 0,
+          "destMapString": "MAP_SS_TIDAL_LOWER_DECK",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 25,
+          "destMapNum": 42,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "hubs": [
+    {
+      "warps":[
+        {
+          "x": 4,
+          "y": 1,
+          "ourMapGroup": 24,
+          "ourMapNum": 31,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_SEAFLOOR_CAVERN_ROOM5",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 32,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 13,
+          "y": 1,
+          "ourMapGroup": 24,
+          "ourMapNum": 31,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_SEAFLOOR_CAVERN_ROOM2",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 29,
+          "duplicates": []
+        },
+        {
+          "x": 9,
+          "y": 10,
+          "ourMapGroup": 24,
+          "ourMapNum": 31,
+          "ourID": 2,
+          "destID": 2,
+          "destMapString": "MAP_SEAFLOOR_CAVERN_ROOM5",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 32,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "xy_required": true,
+      "warps":[
+        {
+          "x": 10,
+          "y": 15,
+          "ourMapGroup": 24,
+          "ourMapNum": 31,
+          "ourID": 3,
+          "destID": 1,
+          "destMapString": "MAP_SEAFLOOR_CAVERN_ENTRANCE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 27,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

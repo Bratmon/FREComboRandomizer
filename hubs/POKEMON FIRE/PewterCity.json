@@ -1,0 +1,135 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["pewter_city"],
+      "warps": [
+        {
+          "x": 17,
+          "y": 6,
+          "ourMapGroup": 3,
+          "ourMapNum": 2,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_PEWTER_CITY_MUSEUM_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 6,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 15,
+          "y": 16,
+          "ourMapGroup": 3,
+          "ourMapNum": 2,
+          "ourID": 2,
+          "destID": 1,
+          "destMapString": "MAP_PEWTER_CITY_GYM",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 6,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 28,
+          "y": 18,
+          "ourMapGroup": 3,
+          "ourMapNum": 2,
+          "ourID": 3,
+          "destID": 1,
+          "destMapString": "MAP_PEWTER_CITY_MART",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 6,
+          "destMapNum": 3,
+          "duplicates": []
+        },
+        {
+          "x": 33,
+          "y": 11,
+          "ourMapGroup": 3,
+          "ourMapNum": 2,
+          "ourID": 4,
+          "destID": 1,
+          "destMapString": "MAP_PEWTER_CITY_HOUSE1",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 6,
+          "destMapNum": 4,
+          "duplicates": []
+        },
+        {
+          "x": 17,
+          "y": 25,
+          "ourMapGroup": 3,
+          "ourMapNum": 2,
+          "ourID": 5,
+          "destID": 1,
+          "destMapString": "MAP_PEWTER_CITY_POKEMON_CENTER_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 6,
+          "destMapNum": 5,
+          "duplicates": []
+        },
+        {
+          "x": 9,
+          "y": 30,
+          "ourMapGroup": 3,
+          "ourMapNum": 2,
+          "ourID": 6,
+          "destID": 1,
+          "destMapString": "MAP_PEWTER_CITY_HOUSE2",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 6,
+          "destMapNum": 7,
+          "duplicates": []
+        },
+        {
+          "x": 5,
+          "y": 13,
+          "ourMapGroup": 3,
+          "ourMapNum": 20,
+          "ourID": 0,
+          "destID": 3,
+          "destMapString": "MAP_ROUTE2_VIRIDIAN_FOREST_NORTH_ENTRANCE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 15,
+          "destMapNum": 3,
+          "duplicates": [
+            {
+              "x": 6,
+              "y": 13,
+              "ourMapGroup": 3,
+              "ourMapNum": 20,
+              "ourID": 1,
+              "destID": 3,
+              "destMapString": "MAP_ROUTE2_VIRIDIAN_FOREST_NORTH_ENTRANCE",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 15,
+              "destMapNum": 3,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "requirements": ["kcut", "pewter_city"],
+      "always_available": true,
+      "warps":[
+        {
+          "x": 25,
+          "y": 4,
+          "ourMapGroup": 3,
+          "ourMapNum": 2,
+          "ourID": 1,
+          "destID": 3,
+          "destMapString": "MAP_PEWTER_CITY_MUSEUM_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 6,
+          "destMapNum": 0,
+          "duplicates": []
+        }        
+      ]
+
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "hubs": [
+    {
+      "requirements":["meteor_falls_1f", "hsurf", "hwaterfall"],
+      "always_available":true,
+      "warps":[
+        {
+          "x": 10,
+          "y": 3,
+          "ourMapGroup": 24,
+          "ourMapNum": 0,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_METEOR_FALLS_1F_2R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 1,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements": [],
+      "provides": ["meteor_falls_1f"],
+      "warps": [
+        {
+          "x": 27,
+          "y": 18,
+          "ourMapGroup": 24,
+          "ourMapNum": 0,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE114",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 29,
+          "duplicates": []
+        },
+        {
+          "x": 6,
+          "y": 39,
+          "ourMapGroup": 24,
+          "ourMapNum": 0,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE115",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 30,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "warps":[
+        {
+          "x": 5,
+          "y": 4,
+          "ourMapGroup": 24,
+          "ourMapNum": 0,
+          "ourID": 3,
+          "destID": 4,
+          "destMapString": "MAP_METEOR_FALLS_B1F_1R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 2,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "warps":[
+        {
+          "x": 26,
+          "y": 28,
+          "ourMapGroup": 24,
+          "ourMapNum": 0,
+          "ourID": 4,
+          "destID": 5,
+          "destMapString": "MAP_METEOR_FALLS_B1F_1R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 2,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

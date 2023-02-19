@@ -1,0 +1,49 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 9,
+          "y": 8,
+          "ourMapGroup": 9,
+          "ourMapNum": 7,
+          "ourID": 0,
+          "destID": 5,
+          "destMapString": "MAP_SLATEPORT_CITY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 1,
+          "duplicates": [
+            {
+              "x": 10,
+              "y": 8,
+              "ourMapGroup": 9,
+              "ourMapNum": 7,
+              "ourID": 1,
+              "destID": 7,
+              "destMapString": "MAP_SLATEPORT_CITY",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 1,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 6,
+          "y": 1,
+          "ourMapGroup": 9,
+          "ourMapNum": 7,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_SLATEPORT_CITY_OCEANIC_MUSEUM_2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 9,
+          "destMapNum": 8,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

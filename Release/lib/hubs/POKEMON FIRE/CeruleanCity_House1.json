@@ -1,0 +1,62 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 2,
+          "y": 9,
+          "ourMapGroup": 7,
+          "ourMapNum": 0,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_CERULEAN_CITY",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 3,
+          "duplicates": [
+            {
+              "x": 3,
+              "y": 8,
+              "ourMapGroup": 7,
+              "ourMapNum": 0,
+              "ourID": 1,
+              "destID": 0,
+              "destMapString": "MAP_CERULEAN_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 3,
+              "duplicates": []
+            },
+            {
+              "x": 4,
+              "y": 9,
+              "ourMapGroup": 7,
+              "ourMapNum": 0,
+              "ourID": 2,
+              "destID": 0,
+              "destMapString": "MAP_CERULEAN_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 3,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 3,
+          "y": 1,
+          "ourMapGroup": 7,
+          "ourMapNum": 0,
+          "ourID": 3,
+          "destID": 8,
+          "destMapString": "MAP_CERULEAN_CITY",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 3,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

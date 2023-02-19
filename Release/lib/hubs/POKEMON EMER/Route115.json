@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "requirements": ["hsurf","rustboro"],
+      "always_available": true,
+      "warps": [
+        {
+          "x": 27,
+          "y": 37,
+          "ourMapGroup": 0,
+          "ourMapNum": 30,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_METEOR_FALLS_1F_1R",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 0,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

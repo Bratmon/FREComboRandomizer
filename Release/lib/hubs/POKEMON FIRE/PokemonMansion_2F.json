@@ -1,0 +1,71 @@
+{
+  "hubs": [
+    {
+      "requirements":[],
+      "warps":[
+        {
+          "x": 9,
+          "y": 3,
+          "ourMapGroup": 1,
+          "ourMapNum": 60,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_POKEMON_MANSION_3F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 61,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "requirements":[],
+      "warps":[
+        {
+          "x": 34,
+          "y": 22,
+          "ourMapGroup": 1,
+          "ourMapNum": 60,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_POKEMON_MANSION_3F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 61,
+          "duplicates": []
+        }
+      ]
+    },    
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 6,
+          "y": 14,
+          "ourMapGroup": 1,
+          "ourMapNum": 60,
+          "ourID": 2,
+          "destID": 3,
+          "destMapString": "MAP_POKEMON_MANSION_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 59,
+          "duplicates": []
+        },
+        {
+          "x": 9,
+          "y": 14,
+          "ourMapGroup": 1,
+          "ourMapNum": 60,
+          "ourID": 3,
+          "destID": 2,
+          "destMapString": "MAP_POKEMON_MANSION_3F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 61,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

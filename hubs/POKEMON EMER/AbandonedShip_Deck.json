@@ -1,0 +1,79 @@
+{
+  "hubs": [
+    {
+      "warps":[
+        {
+          "x": 13,
+          "y": 15,
+          "ourMapGroup": 24,
+          "ourMapNum": 54,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE108",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 23,
+          "duplicates": [
+            {
+              "x": 14,
+              "y": 15,
+              "ourMapGroup": 24,
+              "ourMapNum": 54,
+              "ourID": 1,
+              "destID": 0,
+              "destMapString": "MAP_ROUTE108",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 23,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 13,
+          "y": 9,
+          "ourMapGroup": 24,
+          "ourMapNum": 54,
+          "ourID": 2,
+          "destID": 1,
+          "destMapString": "MAP_ABANDONED_SHIP_CORRIDORS_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 55,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 8,
+          "y": 9,
+          "ourMapGroup": 24,
+          "ourMapNum": 54,
+          "ourID": 3,
+          "destID": 2,
+          "destMapString": "MAP_ABANDONED_SHIP_CORRIDORS_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 55,
+          "duplicates": []
+        },
+        {
+          "x": 12,
+          "y": 5,
+          "ourMapGroup": 24,
+          "ourMapNum": 54,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_ABANDONED_SHIP_CAPTAINS_OFFICE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 63,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 7,
+          "y": 8,
+          "ourMapGroup": 3,
+          "ourMapNum": 1,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_DEWFORD_TOWN",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 11,
+          "duplicates": [
+            {
+              "x": 6,
+              "y": 8,
+              "ourMapGroup": 3,
+              "ourMapNum": 1,
+              "ourID": 1,
+              "destID": 1,
+              "destMapString": "MAP_DEWFORD_TOWN",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 11,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 1,
+          "y": 6,
+          "ourMapGroup": 3,
+          "ourMapNum": 1,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_DEWFORD_TOWN_POKEMON_CENTER_2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 3,
+          "destMapNum": 2,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

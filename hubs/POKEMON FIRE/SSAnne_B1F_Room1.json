@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 4,
+          "y": 7,
+          "ourMapGroup": 1,
+          "ourMapNum": 24,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_SSANNE_B1F_CORRIDOR",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 8,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

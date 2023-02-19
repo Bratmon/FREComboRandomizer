@@ -1,0 +1,37 @@
+{
+  "hubs": [
+    {
+      "requirements": ["hgym7"],
+      "provides": ["hgym8"],
+      "warps": [
+        {
+          "x": 8,
+          "y": 25,
+          "ourMapGroup": 15,
+          "ourMapNum": 0,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_SOOTOPOLIS_CITY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 7,
+          "duplicates": [
+            {
+              "x": 9,
+              "y": 25,
+              "ourMapGroup": 15,
+              "ourMapNum": 0,
+              "ourID": 1,
+              "destID": 2,
+              "destMapString": "MAP_SOOTOPOLIS_CITY",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 7,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "hubs": [
+    {
+      "requirements": ["kbike"],
+      "warps": [
+        {
+          "x": 1,
+          "y": 6,
+          "ourMapGroup": 26,
+          "ourMapNum": 0,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE18",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 36,
+          "duplicates": []
+        },
+        {
+          "x": 11,
+          "y": 6,
+          "ourMapGroup": 26,
+          "ourMapNum": 0,
+          "ourID": 1,
+          "destID": 1,
+          "destMapString": "MAP_ROUTE18",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 36,
+          "duplicates": []
+        },
+        {
+          "x": 9,
+          "y": 10,
+          "ourMapGroup": 26,
+          "ourMapNum": 0,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE18_EAST_ENTRANCE_2F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 26,
+          "destMapNum": 1,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["mt_pyre_summit", "magma_emblem"],
+      "warps": [
+        {
+          "x": 22,
+          "y": 31,
+          "ourMapGroup": 24,
+          "ourMapNum": 22,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_MT_PYRE_EXTERIOR",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 21,
+          "duplicates": [
+            {
+              "x": 23,
+              "y": 31,
+              "ourMapGroup": 24,
+              "ourMapNum": 22,
+              "ourID": 1,
+              "destID": 1,
+              "destMapString": "MAP_MT_PYRE_EXTERIOR",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 24,
+              "destMapNum": 21,
+              "duplicates": []
+            },
+            {
+              "x": 24,
+              "y": 31,
+              "ourMapGroup": 24,
+              "ourMapNum": 22,
+              "ourID": 2,
+              "destID": 1,
+              "destMapString": "MAP_MT_PYRE_EXTERIOR",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 24,
+              "destMapNum": 21,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

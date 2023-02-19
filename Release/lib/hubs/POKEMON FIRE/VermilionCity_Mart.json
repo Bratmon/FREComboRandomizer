@@ -1,0 +1,49 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 3,
+          "y": 7,
+          "ourMapGroup": 9,
+          "ourMapNum": 5,
+          "ourID": 0,
+          "destID": 7,
+          "destMapString": "MAP_VERMILION_CITY",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 5,
+          "duplicates": [
+            {
+              "x": 4,
+              "y": 7,
+              "ourMapGroup": 9,
+              "ourMapNum": 5,
+              "ourID": 1,
+              "destID": 7,
+              "destMapString": "MAP_VERMILION_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 5,
+              "duplicates": []
+            },
+            {
+              "x": 5,
+              "y": 7,
+              "ourMapGroup": 9,
+              "ourMapNum": 5,
+              "ourID": 2,
+              "destID": 7,
+              "destMapString": "MAP_VERMILION_CITY",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 5,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

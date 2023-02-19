@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 4,
+          "y": 13,
+          "ourMapGroup": 26,
+          "ourMapNum": 50,
+          "ourID": 0,
+          "destID": 8,
+          "destMapString": "MAP_BATTLE_FRONTIER_OUTSIDE_WEST",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 26,
+          "destMapNum": 4,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

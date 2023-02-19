@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 17,
+          "y": 10,
+          "ourMapGroup": 24,
+          "ourMapNum": 83,
+          "ourID": 0,
+          "destID": 3,
+          "destMapString": "MAP_SHOAL_CAVE_LOW_TIDE_LOWER_ROOM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 49,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

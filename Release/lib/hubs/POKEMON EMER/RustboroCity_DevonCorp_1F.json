@@ -1,0 +1,49 @@
+{
+  "hubs": [
+    {
+      "requirements": ["rustboro", "saved_peeko"],
+      "warps": [
+        {
+          "x": 5,
+          "y": 8,
+          "ourMapGroup": 11,
+          "ourMapNum": 0,
+          "ourID": 0,
+          "destID": 5,
+          "destMapString": "MAP_RUSTBORO_CITY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 3,
+          "duplicates": [
+            {
+              "x": 6,
+              "y": 8,
+              "ourMapGroup": 11,
+              "ourMapNum": 0,
+              "ourID": 1,
+              "destID": 6,
+              "destMapString": "MAP_RUSTBORO_CITY",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 3,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 14,
+          "y": 1,
+          "ourMapGroup": 11,
+          "ourMapNum": 0,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_RUSTBORO_CITY_DEVON_CORP_2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 11,
+          "destMapNum": 1,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

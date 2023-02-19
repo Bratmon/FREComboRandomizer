@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "requirements": ["ke44"],
+      "provides": ["kchampion"],
+      "warps": [
+        {
+          "x": 6,
+          "y": 19,
+          "ourMapGroup": 1,
+          "ourMapNum": 79,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_POKEMON_LEAGUE_LANCES_ROOM",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 78,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

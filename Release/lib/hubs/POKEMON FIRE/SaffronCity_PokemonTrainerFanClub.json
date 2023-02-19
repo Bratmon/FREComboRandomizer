@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 5,
+          "y": 15,
+          "ourMapGroup": 14,
+          "ourMapNum": 9,
+          "ourID": 0,
+          "destID": 14,
+          "destMapString": "MAP_SAFFRON_CITY",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 10,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

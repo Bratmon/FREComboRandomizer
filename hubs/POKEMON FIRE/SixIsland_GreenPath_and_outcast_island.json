@@ -1,0 +1,49 @@
+{
+  "hubs": [
+    {
+      "requirements": ["ksurf"],
+      "warps": [
+        {
+          "x": 7,
+          "y": 21,
+          "ourMapGroup": 3,
+          "ourMapNum": 58,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SIX_ISLAND_ALTERING_CAVE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 122,
+          "duplicates": []
+        },
+        {
+          "x": 45,
+          "y": 10,
+          "ourMapGroup": 3,
+          "ourMapNum": 59,
+          "ourID": 2,
+          "destID": 4,
+          "destMapString": "MAP_SIX_ISLAND_PATTERN_BUSH",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 121,
+          "duplicates": [
+            {
+              "x": 46,
+              "y": 10,
+              "ourMapGroup": 3,
+              "ourMapNum": 59,
+              "ourID": 3,
+              "destID": 4,
+              "destMapString": "MAP_SIX_ISLAND_PATTERN_BUSH",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 1,
+              "destMapNum": 121,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

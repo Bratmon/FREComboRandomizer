@@ -1,0 +1,515 @@
+{
+  "hubs": [
+    {
+      "warps": [
+        {
+          "x": 4,
+          "y": 111,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_PETALBURG_CITY",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 0,
+          "duplicates": [
+            {
+              "x": 5,
+              "y": 111,
+              "ourMapGroup": 8,
+              "ourMapNum": 1,
+              "ourID": 1,
+              "destID": 2,
+              "destMapString": "MAP_PETALBURG_CITY",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 0,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 1,
+          "y": 105,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 2,
+          "destID": 3,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 7,
+          "y": 85,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 3,
+          "destID": 2,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": [
+            {
+              "x": 6,
+              "y": 85,
+              "ourMapGroup": 8,
+              "ourMapNum": 1,
+              "ourID": 4,
+              "destID": 2,
+              "destMapString": "MAP_PETALBURG_CITY_GYM",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 8,
+              "destMapNum": 1,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 7,
+          "y": 105,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 5,
+          "destID": 6,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 1,
+          "y": 98,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 6,
+          "destID": 5,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": [
+            {
+              "x": 2,
+              "y": 98,
+              "ourMapGroup": 8,
+              "ourMapNum": 1,
+              "ourID": 7,
+              "destID": 5,
+              "destMapString": "MAP_PETALBURG_CITY_GYM",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 8,
+              "destMapNum": 1,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 1,
+          "y": 79,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 8,
+          "destID": 10,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 7,
+          "y": 79,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 9,
+          "destID": 12,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 7,
+          "y": 46,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 10,
+          "destID": 8,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": [
+            {
+              "x": 6,
+              "y": 46,
+              "ourMapGroup": 8,
+              "ourMapNum": 1,
+              "ourID": 11,
+              "destID": 8,
+              "destMapString": "MAP_PETALBURG_CITY_GYM",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 8,
+              "destMapNum": 1,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 1,
+          "y": 59,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 12,
+          "destID": 9,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": [
+            {
+              "x": 2,
+              "y": 59,
+              "ourMapGroup": 8,
+              "ourMapNum": 1,
+              "ourID": 13,
+              "destID": 9,
+              "destMapString": "MAP_PETALBURG_CITY_GYM",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 8,
+              "destMapNum": 1,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 1,
+          "y": 92,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 14,
+          "destID": 16,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 7,
+          "y": 92,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 15,
+          "destID": 18,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 7,
+          "y": 59,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 16,
+          "destID": 14,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": [
+            {
+              "x": 6,
+              "y": 59,
+              "ourMapGroup": 8,
+              "ourMapNum": 1,
+              "ourID": 17,
+              "destID": 14,
+              "destMapString": "MAP_PETALBURG_CITY_GYM",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 8,
+              "destMapNum": 1,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 1,
+          "y": 72,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 18,
+          "destID": 15,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": [
+            {
+              "x": 2,
+              "y": 72,
+              "ourMapGroup": 8,
+              "ourMapNum": 1,
+              "ourID": 19,
+              "destID": 15,
+              "destMapString": "MAP_PETALBURG_CITY_GYM",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 8,
+              "destMapNum": 1,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 7,
+          "y": 40,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 20,
+          "destID": 24,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 1,
+          "y": 53,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 21,
+          "destID": 26,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 7,
+          "y": 53,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 22,
+          "destID": 28,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 1,
+          "y": 66,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 23,
+          "destID": 30,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 1,
+          "y": 20,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 24,
+          "destID": 20,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": [
+            {
+              "x": 2,
+              "y": 20,
+              "ourMapGroup": 8,
+              "ourMapNum": 1,
+              "ourID": 25,
+              "destID": 20,
+              "destMapString": "MAP_PETALBURG_CITY_GYM",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 8,
+              "destMapNum": 1,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 7,
+          "y": 20,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 26,
+          "destID": 21,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": [
+            {
+              "x": 6,
+              "y": 20,
+              "ourMapGroup": 8,
+              "ourMapNum": 1,
+              "ourID": 27,
+              "destID": 21,
+              "destMapString": "MAP_PETALBURG_CITY_GYM",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 8,
+              "destMapNum": 1,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 1,
+          "y": 33,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 28,
+          "destID": 22,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": [
+            {
+              "x": 2,
+              "y": 33,
+              "ourMapGroup": 8,
+              "ourMapNum": 1,
+              "ourID": 29,
+              "destID": 22,
+              "destMapString": "MAP_PETALBURG_CITY_GYM",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 8,
+              "destMapNum": 1,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 7,
+          "y": 33,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 30,
+          "destID": 23,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": [
+            {
+              "x": 6,
+              "y": 33,
+              "ourMapGroup": 8,
+              "ourMapNum": 1,
+              "ourID": 31,
+              "destID": 23,
+              "destMapString": "MAP_PETALBURG_CITY_GYM",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 8,
+              "destMapNum": 1,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 7,
+          "y": 14,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 32,
+          "destID": 34,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 1,
+          "y": 27,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 33,
+          "destID": 36,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 1,
+          "y": 7,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 34,
+          "destID": 32,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": [
+            {
+              "x": 2,
+              "y": 7,
+              "ourMapGroup": 8,
+              "ourMapNum": 1,
+              "ourID": 35,
+              "destID": 32,
+              "destMapString": "MAP_PETALBURG_CITY_GYM",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 8,
+              "destMapNum": 1,
+              "duplicates": []
+            }
+          ]
+        },
+        {
+          "x": 7,
+          "y": 7,
+          "ourMapGroup": 8,
+          "ourMapNum": 1,
+          "ourID": 36,
+          "destID": 33,
+          "destMapString": "MAP_PETALBURG_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 8,
+          "destMapNum": 1,
+          "duplicates": [
+            {
+              "x": 6,
+              "y": 7,
+              "ourMapGroup": 8,
+              "ourMapNum": 1,
+              "ourID": 37,
+              "destID": 33,
+              "destMapString": "MAP_PETALBURG_CITY_GYM",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 8,
+              "destMapNum": 1,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["mt_chimney"],
+      "warps": [
+        {
+          "x": 17,
+          "y": 36,
+          "ourMapGroup": 24,
+          "ourMapNum": 12,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_MT_CHIMNEY_CABLE_CAR_STATION",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 19,
+          "destMapNum": 1,
+          "duplicates": [
+            {
+              "x": 18,
+              "y": 36,
+              "ourMapGroup": 24,
+              "ourMapNum": 12,
+              "ourID": 1,
+              "destID": 1,
+              "destMapString": "MAP_MT_CHIMNEY_CABLE_CAR_STATION",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 19,
+              "destMapNum": 1,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "requirements": ["mt_chimney"],
+      "always_available": true,
+      "warps":[
+        {
+          "x": 20,
+          "y": 41,
+          "ourMapGroup": 24,
+          "ourMapNum": 12,
+          "ourID": 2,
+          "destID": 2,
+          "destMapString": "MAP_JAGGED_PASS",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 13,
+          "duplicates": [
+            {
+              "x": 21,
+              "y": 41,
+              "ourMapGroup": 24,
+              "ourMapNum": 12,
+              "ourID": 3,
+              "destID": 3,
+              "destMapString": "MAP_JAGGED_PASS",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 24,
+              "destMapNum": 13,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

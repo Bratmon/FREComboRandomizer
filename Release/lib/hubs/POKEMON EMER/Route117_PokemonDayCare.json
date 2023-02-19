@@ -1,0 +1,36 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 2,
+          "y": 8,
+          "ourMapGroup": 22,
+          "ourMapNum": 0,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE117",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 0,
+          "destMapNum": 32,
+          "duplicates": [
+            {
+              "x": 3,
+              "y": 8,
+              "ourMapGroup": 22,
+              "ourMapNum": 0,
+              "ourID": 1,
+              "destID": 0,
+              "destMapString": "MAP_ROUTE117",
+              "gameName": "POKEMON EMER",
+              "destMapGroup": 0,
+              "destMapNum": 32,
+              "duplicates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 3,
+          "y": 3,
+          "ourMapGroup": 0,
+          "ourMapNum": 11,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_DEWFORD_TOWN_HALL",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 3,
+          "destMapNum": 4,
+          "duplicates": []
+        },
+        {
+          "x": 2,
+          "y": 10,
+          "ourMapGroup": 0,
+          "ourMapNum": 11,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_DEWFORD_TOWN_POKEMON_CENTER_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 3,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 8,
+          "y": 17,
+          "ourMapGroup": 0,
+          "ourMapNum": 11,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_DEWFORD_TOWN_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 3,
+          "destMapNum": 3,
+          "duplicates": []
+        },
+        {
+          "x": 17,
+          "y": 14,
+          "ourMapGroup": 0,
+          "ourMapNum": 11,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_DEWFORD_TOWN_HOUSE1",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 3,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 8,
+          "y": 8,
+          "ourMapGroup": 0,
+          "ourMapNum": 11,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_DEWFORD_TOWN_HOUSE2",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 3,
+          "destMapNum": 5,
+          "duplicates": []
+        },
+        {
+          "x": 48,
+          "y": 16,
+          "ourMapGroup": 0,
+          "ourMapNum": 21,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_GRANITE_CAVE_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 7,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

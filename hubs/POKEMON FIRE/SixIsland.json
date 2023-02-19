@@ -1,0 +1,115 @@
+{
+  "hubs": [
+    {
+      "requirements": ["ksurf"],
+      "provides": ["six_island"],
+      "warps": [
+        {
+          "x": 5,
+          "y": 13,
+          "ourMapGroup": 3,
+          "ourMapNum": 60,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SIX_ISLAND_WATER_PATH_HOUSE1",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 41,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 11,
+          "y": 19,
+          "ourMapGroup": 3,
+          "ourMapNum": 60,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_SIX_ISLAND_WATER_PATH_HOUSE2",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 41,
+          "destMapNum": 1,
+          "duplicates": []
+        },        
+        {
+          "x": 63,
+          "y": 10,
+          "ourMapGroup": 3,
+          "ourMapNum": 59,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_SIX_ISLAND_PATTERN_BUSH",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 121,
+          "duplicates": [
+            {
+              "x": 64,
+              "y": 10,
+              "ourMapGroup": 3,
+              "ourMapNum": 59,
+              "ourID": 1,
+              "destID": 1,
+              "destMapString": "MAP_SIX_ISLAND_PATTERN_BUSH",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 1,
+              "destMapNum": 121,
+              "duplicates": []
+            }
+          ]
+        },        
+        {
+          "x": 11,
+          "y": 23,
+          "ourMapGroup": 3,
+          "ourMapNum": 18,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_SIX_ISLAND_HARBOR",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 37,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 11,
+          "y": 11,
+          "ourMapGroup": 3,
+          "ourMapNum": 18,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_SIX_ISLAND_POKEMON_CENTER_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 37,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 16,
+          "y": 17,
+          "ourMapGroup": 3,
+          "ourMapNum": 18,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_SIX_ISLAND_HOUSE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 37,
+          "destMapNum": 3,
+          "duplicates": []
+        },
+        {
+          "x": 20,
+          "y": 11,
+          "ourMapGroup": 3,
+          "ourMapNum": 18,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_SIX_ISLAND_MART",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 37,
+          "destMapNum": 4,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

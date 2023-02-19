@@ -1,0 +1,48 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 8,
+          "y": 2,
+          "ourMapGroup": 32,
+          "ourMapNum": 4,
+          "ourID": 0,
+          "destID": 3,
+          "destMapString": "MAP_ONE_ISLAND",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 12,
+          "duplicates": []
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "ourMapGroup": 33,
+          "ourMapNum": 4,
+          "ourID": 0,
+          "destID": 3,
+          "destMapString": "MAP_TWO_ISLAND",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 13,
+          "duplicates": []
+        },        
+        {
+          "x": 8,
+          "y": 2,
+          "ourMapGroup": 38,
+          "ourMapNum": 0,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_THREE_ISLAND_PORT",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 49,
+          "duplicates": []
+        }
+      ]
+    }  
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 6,
+          "y": 1,
+          "ourMapGroup": 9,
+          "ourMapNum": 8,
+          "ourID": 0,
+          "destID": 2,
+          "destMapString": "MAP_SLATEPORT_CITY_OCEANIC_MUSEUM_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 9,
+          "destMapNum": 7,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

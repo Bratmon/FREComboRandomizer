@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 10,
+          "y": 18,
+          "ourMapGroup": 2,
+          "ourMapNum": 37,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_NAVEL_ROCK_SUMMIT_PATH_5F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 42,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

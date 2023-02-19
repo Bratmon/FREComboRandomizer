@@ -1,0 +1,62 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "xy_required": true,
+      "warps": [
+        {
+          "x": 5,
+          "y": 1,
+          "ourMapGroup": 2,
+          "ourMapNum": 15,
+          "ourID": 0,
+          "destID": 3,
+          "destMapString": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM1",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 13,
+          "duplicates": []
+        },
+        {
+          "x": 8,
+          "y": 5,
+          "ourMapGroup": 2,
+          "ourMapNum": 15,
+          "ourID": 1,
+          "destID": 4,
+          "destMapString": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM1",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 13,
+          "duplicates": []
+        },
+        {
+          "x": 5,
+          "y": 8,
+          "ourMapGroup": 2,
+          "ourMapNum": 15,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM4",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 16,
+          "duplicates": []
+        },
+        {
+          "x": 2,
+          "y": 5,
+          "ourMapGroup": 2,
+          "ourMapNum": 15,
+          "ourID": 3,
+          "destID": 2,
+          "destMapString": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM1",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 2,
+          "destMapNum": 13,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

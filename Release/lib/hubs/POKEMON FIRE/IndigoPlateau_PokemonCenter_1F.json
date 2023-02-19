@@ -1,0 +1,48 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 11,
+          "y": 16,
+          "ourMapGroup": 13,
+          "ourMapNum": 0,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_INDIGO_PLATEAU_EXTERIOR",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 9,
+          "duplicates": []
+        },
+        {
+          "x": 4,
+          "y": 1,
+          "ourMapGroup": 13,
+          "ourMapNum": 0,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_POKEMON_LEAGUE_LORELEIS_ROOM",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 75,
+          "duplicates": []
+        },
+        {
+          "x": 1,
+          "y": 14,
+          "ourMapGroup": 13,
+          "ourMapNum": 0,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_INDIGO_PLATEAU_POKEMON_CENTER_2F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 13,
+          "destMapNum": 1,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

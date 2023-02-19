@@ -1,0 +1,22 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 1,
+          "y": 1,
+          "ourMapGroup": 11,
+          "ourMapNum": 15,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_RUSTBORO_CITY_FLAT2_2F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 11,
+          "destMapNum": 14,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["cinnabar_gym_key"],
+      "warps": [
+        {
+          "x": 34,
+          "y": 29,
+          "ourMapGroup": 1,
+          "ourMapNum": 62,
+          "ourID": 0,
+          "destID": 4,
+          "destMapString": "MAP_POKEMON_MANSION_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 59,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

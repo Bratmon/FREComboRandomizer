@@ -1,0 +1,50 @@
+{
+  "hubs": [
+    {
+      "requirements": ["mauville", "hsurf"],
+      "provides": ["hm02"],
+      "always_available": true,
+      "warps": [
+        {
+          "x": 6,
+          "y": 32,
+          "ourMapGroup": 0,
+          "ourMapNum": 34,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE119_WEATHER_INSTITUTE_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 32,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 33,
+          "y": 109,
+          "ourMapGroup": 0,
+          "ourMapNum": 34,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE119_HOUSE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 32,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 22,
+          "y": 6,
+          "ourMapGroup": 0,
+          "ourMapNum": 38,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ROUTE123_BERRY_MASTERS_HOUSE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 31,
+          "destMapNum": 0,
+          "duplicates": []
+        }        
+      ]
+    }
+  ]
+}

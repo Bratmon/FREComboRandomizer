@@ -1,0 +1,100 @@
+{
+  "hubs": [
+    {
+      "requirements": ["kstrength", "krocksmash"],
+      "provides": ["five_island_rocket_base_password_one_lol"],
+      "warps":[
+        {
+          "x": 14,
+          "y": 24,
+          "ourMapGroup": 1,
+          "ourMapNum": 97,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_MT_EMBER_SUMMIT_PATH_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 98,
+          "duplicates": []
+        },
+        {
+          "x": 28,
+          "y": 48,
+          "ourMapGroup": 1,
+          "ourMapNum": 97,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_ONE_ISLAND_KINDLE_ROAD",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 3,
+          "destMapNum": 45,
+          "duplicates": [
+            {
+              "x": 29,
+              "y": 48,
+              "ourMapGroup": 1,
+              "ourMapNum": 97,
+              "ourID": 1,
+              "destID": 1,
+              "destMapString": "MAP_ONE_ISLAND_KINDLE_ROAD",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 45,
+              "duplicates": []
+            }
+          ]
+        }        
+      ]
+    },
+    {
+      "requirements":[],
+      "warps":[
+        {
+          "x": 39,
+          "y": 19,
+          "ourMapGroup": 1,
+          "ourMapNum": 97,
+          "ourID": 3,
+          "destID": 1,
+          "destMapString": "MAP_MT_EMBER_SUMMIT_PATH_3F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 100,
+          "duplicates": []
+        },
+        {
+          "x": 29,
+          "y": 7,
+          "ourMapGroup": 1,
+          "ourMapNum": 97,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_MT_EMBER_SUMMIT",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 101,
+          "duplicates": []
+        }     
+      ]
+    },
+    {
+      "provides": ["five_island_rocket_base_password_one_lol"],
+      "requirements": ["kstrength"],
+      "warps": [
+        {
+          "x": 42,
+          "y": 39,
+          "ourMapGroup": 1,
+          "ourMapNum": 97,
+          "ourID": 5,
+          "destID": 0,
+          "destMapString": "MAP_MT_EMBER_RUBY_PATH_1F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 103,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

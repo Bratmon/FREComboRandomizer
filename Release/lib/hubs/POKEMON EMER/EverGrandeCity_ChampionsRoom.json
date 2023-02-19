@@ -1,0 +1,23 @@
+{
+  "hubs": [
+    {
+      "requirements": ["he44"],
+      "provides": ["hchampion"],
+      "warps": [
+        {
+          "x": 6,
+          "y": 12,
+          "ourMapGroup": 16,
+          "ourMapNum": 4,
+          "ourID": 0,
+          "destID": 1,
+          "destMapString": "MAP_EVER_GRANDE_CITY_HALL4",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 16,
+          "destMapNum": 8,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

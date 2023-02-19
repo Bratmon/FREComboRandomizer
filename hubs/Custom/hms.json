@@ -1,0 +1,94 @@
+{
+    "hubs": [
+        {
+            "requirements": ["hm01", "kgym2"],
+            "provides": ["kcut"],
+            "always_available": true,
+            "warps": []
+        },
+        {
+            "requirements": ["hm02", "kgym3"],
+            "provides": ["kfly"],
+            "always_available": true,
+            "warps": []
+        },
+        {
+            "requirements": ["hm03", "kgym5"],
+            "provides": ["ksurf"],
+            "always_available": true,
+            "warps": []
+        },
+        {
+            "requirements": ["hm04", "kgym4"],
+            "provides": ["kstrength"],
+            "always_available": true,
+            "warps": []
+        },
+        {
+            "requirements": ["hm05", "kgym1"],
+            "provides": ["kflash"],
+            "always_available": true,
+            "warps": []
+        },
+        {
+            "requirements": ["hm06", "kgym6"],
+            "provides": ["krocksmash"],
+            "always_available": true,
+            "warps": []
+        },
+        {
+            "requirements": ["hm07", "kgym7"],
+            "provides": ["kwaterfall"],
+            "always_available": true,
+            "warps": []
+        },
+        {
+            "requirements": ["hm01", "hgym1"],
+            "provides": ["hcut"],
+            "always_available": true,
+            "warps": []
+        },
+        {
+            "requirements": ["hm02", "hgym6"],
+            "provides": ["hfly"],
+            "always_available": true,
+            "warps": []
+        },
+        {
+            "requirements": ["hm03", "hgym5"],
+            "provides": ["hsurf"],
+            "always_available": true,
+            "warps": []
+        },
+        {
+            "requirements": ["hm04", "hgym4"],
+            "provides": ["hstrength"],
+            "always_available": true,
+            "warps": []
+        },
+        {
+            "requirements": ["hm05", "hgym2"],
+            "provides": ["hflash"],
+            "always_available": true,
+            "warps": []
+        },
+        {
+            "requirements": ["hm06", "hgym3"],
+            "provides": ["hrocksmash"],
+            "always_available": true,
+            "warps": []
+        },
+        {
+            "requirements": ["hm07", "hgym8"],
+            "provides": ["hwaterfall"],
+            "always_available": true,
+            "warps": []
+        },
+        {
+            "requirements": ["hm08", "hgym7", "hsurf"],
+            "provides": ["hdive"],
+            "always_available": true,
+            "warps": []
+        }        
+    ]
+}

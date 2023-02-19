@@ -1,0 +1,61 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "warps": [
+        {
+          "x": 7,
+          "y": 2,
+          "ourMapGroup": 24,
+          "ourMapNum": 49,
+          "ourID": 0,
+          "destID": 3,
+          "destMapString": "MAP_SHOAL_CAVE_LOW_TIDE_INNER_ROOM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 47,
+          "duplicates": []
+        },
+        {
+          "x": 2,
+          "y": 6,
+          "ourMapGroup": 24,
+          "ourMapNum": 49,
+          "ourID": 1,
+          "destID": 4,
+          "destMapString": "MAP_SHOAL_CAVE_LOW_TIDE_INNER_ROOM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 47,
+          "duplicates": []
+        },
+        {
+          "x": 19,
+          "y": 11,
+          "ourMapGroup": 24,
+          "ourMapNum": 49,
+          "ourID": 2,
+          "destID": 5,
+          "destMapString": "MAP_SHOAL_CAVE_LOW_TIDE_INNER_ROOM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 47,
+          "duplicates": []
+        },
+        {
+          "x": 28,
+          "y": 11,
+          "ourMapGroup": 24,
+          "ourMapNum": 49,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_SHOAL_CAVE_LOW_TIDE_ICE_ROOM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 83,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

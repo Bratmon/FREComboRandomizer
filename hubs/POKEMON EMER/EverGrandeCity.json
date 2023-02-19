@@ -1,0 +1,66 @@
+{
+  "hubs": [
+    {
+      "warps":[
+        {
+          "x": 18,
+          "y": 5,
+          "ourMapGroup": 0,
+          "ourMapNum": 8,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_EVER_GRANDE_CITY_POKEMON_LEAGUE_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 16,
+          "destMapNum": 10,
+          "duplicates": []
+        },
+        {
+          "x": 18,
+          "y": 27,
+          "ourMapGroup": 0,
+          "ourMapNum": 8,
+          "ourID": 3,
+          "destID": 1,
+          "destMapString": "MAP_VICTORY_ROAD_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 43,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "requirements": ["hwaterfall", "hsurf", "eastern_sea"],
+      "always_available": true,
+      "warps": [
+        {
+          "x": 27,
+          "y": 48,
+          "ourMapGroup": 0,
+          "ourMapNum": 8,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_EVER_GRANDE_CITY_POKEMON_CENTER_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 16,
+          "destMapNum": 12,
+          "duplicates": []
+        },
+        {
+          "x": 18,
+          "y": 41,
+          "ourMapGroup": 0,
+          "ourMapNum": 8,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_VICTORY_ROAD_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 24,
+          "destMapNum": 43,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "hubs": [
+    {
+      "requirements": [],
+      "provides": ["eastern_sea"],
+      "warps": [
+        {
+          "x": 28,
+          "y": 9,
+          "ourMapGroup": 0,
+          "ourMapNum": 6,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_MOSSDEEP_CITY_HOUSE1",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 1,
+          "duplicates": []
+        },
+        {
+          "x": 38,
+          "y": 9,
+          "ourMapGroup": 0,
+          "ourMapNum": 6,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_MOSSDEEP_CITY_GYM",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 0,
+          "duplicates": []
+        },
+        {
+          "x": 28,
+          "y": 16,
+          "ourMapGroup": 0,
+          "ourMapNum": 6,
+          "ourID": 2,
+          "destID": 0,
+          "destMapString": "MAP_MOSSDEEP_CITY_POKEMON_CENTER_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 3,
+          "duplicates": []
+        },
+        {
+          "x": 67,
+          "y": 25,
+          "ourMapGroup": 0,
+          "ourMapNum": 6,
+          "ourID": 3,
+          "destID": 0,
+          "destMapString": "MAP_MOSSDEEP_CITY_HOUSE2",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 2,
+          "duplicates": []
+        },
+        {
+          "x": 37,
+          "y": 18,
+          "ourMapGroup": 0,
+          "ourMapNum": 6,
+          "ourID": 4,
+          "destID": 0,
+          "destMapString": "MAP_MOSSDEEP_CITY_MART",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 5,
+          "duplicates": []
+        },
+        {
+          "x": 49,
+          "y": 6,
+          "ourMapGroup": 0,
+          "ourMapNum": 6,
+          "ourID": 5,
+          "destID": 0,
+          "destMapString": "MAP_MOSSDEEP_CITY_HOUSE3",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 6,
+          "duplicates": []
+        },
+        {
+          "x": 19,
+          "y": 10,
+          "ourMapGroup": 0,
+          "ourMapNum": 6,
+          "ourID": 6,
+          "destID": 0,
+          "destMapString": "MAP_MOSSDEEP_CITY_STEVENS_HOUSE",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 7,
+          "duplicates": []
+        },
+        {
+          "x": 18,
+          "y": 16,
+          "ourMapGroup": 0,
+          "ourMapNum": 6,
+          "ourID": 7,
+          "destID": 1,
+          "destMapString": "MAP_MOSSDEEP_CITY_HOUSE4",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 8,
+          "duplicates": []
+        },
+        {
+          "x": 64,
+          "y": 15,
+          "ourMapGroup": 0,
+          "ourMapNum": 6,
+          "ourID": 8,
+          "destID": 0,
+          "destMapString": "MAP_MOSSDEEP_CITY_SPACE_CENTER_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 9,
+          "duplicates": []
+        },
+        {
+          "x": 36,
+          "y": 24,
+          "ourMapGroup": 0,
+          "ourMapNum": 6,
+          "ourID": 9,
+          "destID": 0,
+          "destMapString": "MAP_MOSSDEEP_CITY_GAME_CORNER_1F",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 14,
+          "destMapNum": 11,
+          "duplicates": []
+        }
+      ]
+    }
+  ]
+}
