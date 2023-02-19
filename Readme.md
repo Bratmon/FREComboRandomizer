@@ -29,7 +29,7 @@ To run this script, you need:
 
 3. Open mGBA
 4. Open the "Scripting" panel in mGBA
-<img src="https://user-images.githubusercontent.com/7422646/219937387-13905a5f-e61e-4bf7-bb9f-cd2a8545cecb.png" height="300">
+<img src="https://user-images.githubusercontent.com/7422646/219937387-13905a5f-e61e-4bf7-bb9f-cd2a8545cecb.png" height="450">
 
 5. Click "Load Script" and load the Combo Randomizer script.  The script will automatically perform some initial setup.
 <img src="https://user-images.githubusercontent.com/7422646/219937401-e352e852-c2cc-415c-ad66-aeb3e0810071.png" height="275">
@@ -42,9 +42,9 @@ To run this script, you need:
 
 7. Load the newly created "Pokemon - Fire Red Version (U) (V1.1).gba.patched.gba" ROM from the "Patched ROMs" folder.
 
-<img src="https://user-images.githubusercontent.com/7422646/219937445-f081b6b2-ed88-4b09-9f91-ff6af6b015d1.png" height="250">
+<img src="https://user-images.githubusercontent.com/7422646/219937445-f081b6b2-ed88-4b09-9f91-ff6af6b015d1.png" height="400">
 
-<img src="https://user-images.githubusercontent.com/7422646/219937451-8c8a2a1b-d89f-4b01-b42e-f45975383647.png" height="250">
+<img src="https://user-images.githubusercontent.com/7422646/219937896-0163e027-4280-4d9b-a9f9-f86d2125c806.png" height="250">
 
 8. Begin your confusing Pokemon journey.
 
@@ -56,7 +56,7 @@ The first time you go to Hoenn, you and your Pokemon will find yourselves in a f
 
 It is recommended to finish the tutorials of both games (up to the point where you get Pokeballs) before exploring at random.  If you don't want to do that, you should at least wait until you have a Pokemon.  After all, a little girl warned you about that.
 
-![image](https://user-images.githubusercontent.com/7422646/219937478-1f9bd558-66d2-4b96-ad23-973839f82c6d.png)
+<img src="https://user-images.githubusercontent.com/7422646/219937478-1f9bd558-66d2-4b96-ad23-973839f82c6d.png" height="350">
 
 Once you're on your way, the goal is to beat all the Gyms of both games and both Elite Fours in order.  We don't really have any special tracking for that, so you have to keep track yourself.
 
