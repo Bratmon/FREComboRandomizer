@@ -6,6 +6,7 @@ if BasePath == "" then
     console:log("BasePath: " .. BasePath)
 end
 LIB_PATH = BasePath .. "lib\\"
+-- EXEC_SUFFEX = " & pause"
 EXEC_SUFFEX = ""
 LastSeenWarp = nil
 DisableWarping = false
@@ -193,13 +194,14 @@ function NewGame(seed)
         seedArg = "--seed=" .. seed
     end
     -- Call shuffle.
-    local command = string.format('"%sshuffle.exe" %s --output="%sfinal.lua" --hubsroot="%shubs %s"', LIB_PATH, seedArg, LIB_PATH, LIB_PATH, EXEC_SUFFEX)
+    local command = string.format('""%sshuffle.exe" %s --output="%sfinal.lua" --hubsroot="%shubs" %s"', LIB_PATH, seedArg, LIB_PATH, LIB_PATH, EXEC_SUFFEX)
     console:log("Running command: " .. command)
     local result = io.popen(command)
     for l in result:lines() do
         console:log(l)
     end
     result:close()
+    dofile(LIB_PATH .. "final.lua")
     console:log("Randomization Complete!")
     console:log("To begin your Pokemon journey, load the Fire Red 1.1 ROM, located in the 'Patched ROMs' folder!")
 end
