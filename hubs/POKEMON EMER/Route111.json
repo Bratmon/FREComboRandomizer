@@ -2,7 +2,6 @@
   "hubs": [
     {
       "requirements": ["mauville", "go_goggles"],
-      "always_available": true, 
       "warps": [
         {
           "x": 19,
