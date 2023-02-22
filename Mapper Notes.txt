@@ -4,7 +4,8 @@ Bugs:
 - One Island Pokemon Center is not randomized.  If you want to go into that quagmire, that's your own problem.
 
 To Fix:
+-Fix walking into Elite 4 rooms in Fire Red; sometimes it works and shouldn't sometimes it doesn't work and should.
 -Teleport from anywhere works but fly doesn't (See Task_Flymap) (Only in FR)
--Weight the RNG by open warps so that we don't end up with all the warps in the biggest hubs facing each other.
+-Weight the RNG by open warps so that we don't end up with all the warps in the biggest hubs facing each other. (Maybe don't fix?)
 
 -We're done!
