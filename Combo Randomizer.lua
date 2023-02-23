@@ -207,6 +207,16 @@ function NewGame(seed)
 end
 function ng(seed) NewGame(seed) end
 
+function LogFirstPartyMember()
+    local offsets = CurrentGameRom.offsets
+    local party = ReadBulk(offsets.Party, 600)
+    local string = ""
+    for i = 0, 99, 1 do
+        string = string .. string.format("%02x ", party[i])
+    end
+    console:log(string)
+end
+
 function swap(panic)
     console:log(string.format("Starting swap with CurrentGame: '%s'", emu:getGameTitle()))
     local title = emu:getGameTitle()

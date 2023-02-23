@@ -129,7 +129,7 @@ def main():
     print("Welcome to the shuffler!")
     seed = args.seed
     if not seed:
-        seed = random.randint(0, 1000000)
+        seed = str(random.randint(0, 1000000))
         print("No seed was given, so we'll randomly use", seed)
     random.seed(seed)
     print("Loading hub json files...")
