@@ -300,6 +300,10 @@ function WhereGo(destLocation, currentLocation, currentPos)
     if Forcewarp ~= nil then
         return Forcewarp
     end
+    if (WarpMap == nil) then
+        console:log("ERROR: WarpMap not found.  Please run NewGame() again (or try running it with a different seed)")
+        return nil
+    end
     for fromGame, mapping in pairs(WarpMap) do
         if fromGame == currentLocation.game then
             for _, obj in pairs(mapping) do
