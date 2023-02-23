@@ -70,6 +70,10 @@ There is currently a bug in mGBA that prevents savestates and hard saves from wo
 
 This script also makes frequent autosaves.  You can find them in the "Savestates" folder.
 
+### Resuming
+
+When restarting mGBA, you need to load the "Combo Randomizer.lua" script to continue playing.  You do not need to run "NewGame" again.
+
 ### If you get stuck
 
 Although all seeds are beatable, it is possible to softlock yourself.  If you do get stuck, here are some ways to free yourself.

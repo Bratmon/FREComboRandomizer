@@ -184,8 +184,11 @@ function SetupIfNeeded()
         end
     end
     DidSetupChecks = true
-    console:log("\n\nAutomatic Patching completed successfully.  Please type 'NewGame()' in the prompt to randomize the warps.")
-    console:log("(Add a number between the brackets to set a fixed seed.)")
+    console:log("\n\nAutomatic Patching completed successfully.")
+    if (WarpMap == nil) then
+        console:log("Please type 'NewGame()' in the prompt to randomize the warps.")
+        console:log("(Add a number between the brackets to set a fixed seed.)")    
+    end
 end
 
 function NewGame(seed)
