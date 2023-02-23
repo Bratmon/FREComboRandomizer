@@ -1,5 +1,10 @@
+Disable Escalator Animation:
 - Change 0806DA6E from D107 to E007 in fire red.
-- Change 08056218 from d005 to E005 in fire red.
-
 - Change 0809CCE6 from d107  to E007 in Emerald.
+
+Teleport/Fly Anywhere:
+- Change 08056218 from d005 to E005 in fire red.
 - Change 08085BFC from d005 to E005 in Emerald.
+
+- Change 080c514e from D001 to E00B in Fire Red
+- Change 080c5152 from D109 to E009 in Fire Red
