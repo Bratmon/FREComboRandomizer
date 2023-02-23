@@ -1,7 +1,25 @@
 {
   "hubs": [
     {
-      "requirements": ["ksurf"],
+      "warps":[
+        {
+          "x": 39,
+          "y": 8,
+          "ourMapGroup": 3,
+          "ourMapNum": 54,
+          "ourID": 1,
+          "destID": 0,
+          "destMapString": "MAP_FIVE_ISLAND_RESORT_GORGEOUS_HOUSE",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 39,
+          "destMapNum": 0,
+          "duplicates": []
+        }        
+      ]
+    },
+    {
+      "requirements": ["ksurf", "five_island"],
+      "always_available": true,
       "warps": [
         {
           "x": 64,
@@ -14,19 +32,6 @@
           "gameName": "POKEMON FIRE",
           "destMapGroup": 2,
           "destMapNum": 12,
-          "duplicates": []
-        },
-        {
-          "x": 39,
-          "y": 8,
-          "ourMapGroup": 3,
-          "ourMapNum": 54,
-          "ourID": 1,
-          "destID": 0,
-          "destMapString": "MAP_FIVE_ISLAND_RESORT_GORGEOUS_HOUSE",
-          "gameName": "POKEMON FIRE",
-          "destMapGroup": 39,
-          "destMapNum": 0,
           "duplicates": []
         }
       ]
