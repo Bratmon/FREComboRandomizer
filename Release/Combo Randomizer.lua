@@ -209,11 +209,12 @@ function ng(seed) NewGame(seed) end
 
 function LogFirstPartyMember()
     local offsets = CurrentGameRom.offsets
-    console:log(offsets.Party)
     local party = ReadBulk(offsets.Party, 600)
+    local string = ""
     for i = 0, 99, 1 do
-        console:log(string.format("%02x ", party[i]))
+        string = string .. string.format("%02x ", party[i])
     end
+    console:log(string)
 end
 
 function swap(panic)
