@@ -1,7 +1,7 @@
 {
   "hubs": [
     {
-      "requirements": [],
+      "requirements": ["sky_pillar_open"],
       "warps": [
         {
           "x": 17,

@@ -2,6 +2,7 @@
   "hubs": [
     {
       "xy_required": true,
+      "provides": ["sky_pillar_open"],
       "requirements": [],
       "warps": [
         {
