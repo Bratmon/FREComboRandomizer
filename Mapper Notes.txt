@@ -4,8 +4,6 @@ Bugs:
 - One Island Pokemon Center is not randomized.  If you want to go into that quagmire, that's your own problem.
 
 To Fix:
--Fix walking into Elite 4 rooms in Fire Red; sometimes it works and shouldn't sometimes it doesn't work and should.
--- Just disable PokemonLeague_EventScript_CloseEntry?
 -Beating Giovonni causes all the rockets to disappear; they may still be required for the lift key
 -Make the Emerald hallways all one-way.
 -Create a category of "Rooms we can get dragged into" and make sure they don't end up behind requirement doors.
