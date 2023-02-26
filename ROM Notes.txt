@@ -1,5 +1,5 @@
 Disable Escalator Animation:
-- Change 0806DA6E from D107 to E007 in fire red.
+- Change 0806DA6F from D107 to E007 in fire red.
 - Change 0809CCE6 from d107  to E007 in Emerald.
 
 Teleport/Fly Anywhere:
@@ -8,3 +8,6 @@ Teleport/Fly Anywhere:
 
 - Change 080c514e from D001 to E00B in Fire Red
 - Change 080c5152 from D109 to E009 in Fire Red
+
+Stop beating Giovanni from making all the rockets disappear:
+- Change 169F89, 169F8A, and 169F8B to 00 in Fire Red.
