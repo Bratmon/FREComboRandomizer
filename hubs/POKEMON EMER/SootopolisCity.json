@@ -81,7 +81,12 @@
           "destMapGroup": 15,
           "destMapNum": 11,
           "duplicates": []
-        },
+        }
+      ]
+    },
+    {
+      "requirements": ["rayquaza_awake", "sootopolis_west"],
+      "warps":[
         {
           "x": 45,
           "y": 6,
