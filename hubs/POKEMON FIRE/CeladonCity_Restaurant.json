@@ -4,11 +4,11 @@
       "requirements": [],
       "warps": [
         {
-          "x": 5,
+          "x": 6,
           "y": 9,
           "ourMapGroup": 10,
           "ourMapNum": 17,
-          "ourID": 0,
+          "ourID": 1,
           "destID": 7,
           "destMapString": "MAP_CELADON_CITY",
           "gameName": "POKEMON FIRE",
@@ -16,11 +16,11 @@
           "destMapNum": 6,
           "duplicates": [
             {
-              "x": 6,
+              "x": 7,
               "y": 9,
               "ourMapGroup": 10,
               "ourMapNum": 17,
-              "ourID": 1,
+              "ourID": 2,
               "destID": 7,
               "destMapString": "MAP_CELADON_CITY",
               "gameName": "POKEMON FIRE",
@@ -29,11 +29,11 @@
               "duplicates": []
             },
             {
-              "x": 7,
+              "x": 5,
               "y": 9,
               "ourMapGroup": 10,
               "ourMapNum": 17,
-              "ourID": 2,
+              "ourID": 0,
               "destID": 7,
               "destMapString": "MAP_CELADON_CITY",
               "gameName": "POKEMON FIRE",

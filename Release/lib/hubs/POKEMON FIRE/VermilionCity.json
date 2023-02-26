@@ -1,32 +1,19 @@
 {
   "hubs": [
     {
-      "warps":[
+      "warps": [
         {
-          "x": 22,
+          "x": 23,
           "y": 34,
           "ourMapGroup": 3,
           "ourMapNum": 5,
-          "ourID": 0,
+          "ourID": 1,
           "destID": 1,
           "destMapString": "MAP_SSANNE_EXTERIOR",
           "gameName": "POKEMON FIRE",
           "destMapGroup": 1,
           "destMapNum": 4,
           "duplicates": [
-            {
-              "x": 23,
-              "y": 34,
-              "ourMapGroup": 3,
-              "ourMapNum": 5,
-              "ourID": 1,
-              "destID": 1,
-              "destMapString": "MAP_SSANNE_EXTERIOR",
-              "gameName": "POKEMON FIRE",
-              "destMapGroup": 1,
-              "destMapNum": 4,
-              "duplicates": []
-            },
             {
               "x": 24,
               "y": 34,
@@ -39,15 +26,31 @@
               "destMapGroup": 1,
               "destMapNum": 4,
               "duplicates": []
+            },
+            {
+              "x": 22,
+              "y": 34,
+              "ourMapGroup": 3,
+              "ourMapNum": 5,
+              "ourID": 0,
+              "destID": 1,
+              "destMapString": "MAP_SSANNE_EXTERIOR",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 1,
+              "destMapNum": 4,
+              "duplicates": []
             }
           ]
-        }        
+        }
       ]
     },
     {
-      "requirements":["vermilion", "kcut"],
+      "requirements": [
+        "vermilion",
+        "kcut"
+      ],
       "always_available": true,
-      "warps":[
+      "warps": [
         {
           "x": 14,
           "y": 25,
@@ -65,7 +68,9 @@
     },
     {
       "requirements": [],
-      "provides": ["vermilion"],
+      "provides": [
+        "vermilion"
+      ],
       "warps": [
         {
           "x": 9,
@@ -210,7 +215,7 @@
           "destMapGroup": 22,
           "destMapNum": 0,
           "duplicates": []
-        }        
+        }
       ]
     }
   ]

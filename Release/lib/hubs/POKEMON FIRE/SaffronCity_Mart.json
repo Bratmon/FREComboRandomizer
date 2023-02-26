@@ -4,11 +4,11 @@
       "requirements": [],
       "warps": [
         {
-          "x": 3,
+          "x": 4,
           "y": 7,
           "ourMapGroup": 14,
           "ourMapNum": 5,
-          "ourID": 0,
+          "ourID": 1,
           "destID": 5,
           "destMapString": "MAP_SAFFRON_CITY",
           "gameName": "POKEMON FIRE",
@@ -16,11 +16,11 @@
           "destMapNum": 10,
           "duplicates": [
             {
-              "x": 4,
+              "x": 5,
               "y": 7,
               "ourMapGroup": 14,
               "ourMapNum": 5,
-              "ourID": 1,
+              "ourID": 2,
               "destID": 5,
               "destMapString": "MAP_SAFFRON_CITY",
               "gameName": "POKEMON FIRE",
@@ -29,11 +29,11 @@
               "duplicates": []
             },
             {
-              "x": 5,
+              "x": 3,
               "y": 7,
               "ourMapGroup": 14,
               "ourMapNum": 5,
-              "ourID": 2,
+              "ourID": 0,
               "destID": 5,
               "destMapString": "MAP_SAFFRON_CITY",
               "gameName": "POKEMON FIRE",

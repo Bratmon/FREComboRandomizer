@@ -2,14 +2,16 @@
   "hubs": [
     {
       "requirements": [],
-      "provides": ["kgym1"],
+      "provides": [
+        "kgym1"
+      ],
       "warps": [
         {
-          "x": 5,
+          "x": 6,
           "y": 14,
           "ourMapGroup": 6,
           "ourMapNum": 2,
-          "ourID": 0,
+          "ourID": 1,
           "destID": 2,
           "destMapString": "MAP_PEWTER_CITY",
           "gameName": "POKEMON FIRE",
@@ -17,11 +19,11 @@
           "destMapNum": 2,
           "duplicates": [
             {
-              "x": 6,
+              "x": 7,
               "y": 14,
               "ourMapGroup": 6,
               "ourMapNum": 2,
-              "ourID": 1,
+              "ourID": 2,
               "destID": 2,
               "destMapString": "MAP_PEWTER_CITY",
               "gameName": "POKEMON FIRE",
@@ -30,11 +32,11 @@
               "duplicates": []
             },
             {
-              "x": 7,
+              "x": 5,
               "y": 14,
               "ourMapGroup": 6,
               "ourMapNum": 2,
-              "ourID": 2,
+              "ourID": 0,
               "destID": 2,
               "destMapString": "MAP_PEWTER_CITY",
               "gameName": "POKEMON FIRE",

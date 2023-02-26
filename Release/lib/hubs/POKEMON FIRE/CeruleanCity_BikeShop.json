@@ -1,15 +1,19 @@
 {
   "hubs": [
     {
-      "requirements": ["bike_voucher"],
-      "provides": ["kbike"],
+      "requirements": [
+        "bike_voucher"
+      ],
+      "provides": [
+        "kbike"
+      ],
       "warps": [
         {
-          "x": 4,
-          "y": 9,
+          "x": 5,
+          "y": 8,
           "ourMapGroup": 7,
           "ourMapNum": 6,
-          "ourID": 0,
+          "ourID": 1,
           "destID": 5,
           "destMapString": "MAP_CERULEAN_CITY",
           "gameName": "POKEMON FIRE",
@@ -17,11 +21,11 @@
           "destMapNum": 3,
           "duplicates": [
             {
-              "x": 5,
-              "y": 8,
+              "x": 6,
+              "y": 9,
               "ourMapGroup": 7,
               "ourMapNum": 6,
-              "ourID": 1,
+              "ourID": 2,
               "destID": 5,
               "destMapString": "MAP_CERULEAN_CITY",
               "gameName": "POKEMON FIRE",
@@ -30,11 +34,11 @@
               "duplicates": []
             },
             {
-              "x": 6,
+              "x": 4,
               "y": 9,
               "ourMapGroup": 7,
               "ourMapNum": 6,
-              "ourID": 2,
+              "ourID": 0,
               "destID": 5,
               "destMapString": "MAP_CERULEAN_CITY",
               "gameName": "POKEMON FIRE",

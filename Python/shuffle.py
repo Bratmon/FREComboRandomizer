@@ -83,12 +83,11 @@ def createFinalMapping(finalMappings, a, b, include_xy):
 def validateAllWarps(allHubs):
     allWarps = []   
     for h in allHubs:
-        if "xy_required" in h:
-            continue
         for w in h["warps"]:
-            for aw in allWarps:
-                if w["destID"] == aw["destID"] and w["destMapGroup"] == aw["destMapGroup"] and w["destMapNum"] == aw["destMapNum"] and w["gameName"] == aw["gameName"]:
-                    print("WARNING!  Warp", w, "and warp", aw, "from hub", h["name"],"have the same destination but are not marked as duplicates or xy_required!  The lua script will break!")
+            if not "xy_required" in h:
+                for aw in allWarps:
+                    if w["destID"] == aw["destID"] and w["destMapGroup"] == aw["destMapGroup"] and w["destMapNum"] == aw["destMapNum"] and w["gameName"] == aw["gameName"]:
+                        print("WARNING!  Warp", w, "and warp", aw, "from hub", h["name"],"have the same destination but are not marked as duplicates or xy_required!  The lua script will break!")
             allWarps.append(w)
 
 def countDeadEnds():

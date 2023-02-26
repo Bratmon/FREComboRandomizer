@@ -4,30 +4,17 @@
       "requirements": [],
       "warps": [
         {
-          "x": 54,
+          "x": 55,
           "y": 26,
           "ourMapGroup": 1,
           "ourMapNum": 121,
-          "ourID": 0,
+          "ourID": 1,
           "destID": 0,
           "destMapString": "MAP_SIX_ISLAND_GREEN_PATH",
           "gameName": "POKEMON FIRE",
           "destMapGroup": 3,
           "destMapNum": 59,
           "duplicates": [
-            {
-              "x": 55,
-              "y": 26,
-              "ourMapGroup": 1,
-              "ourMapNum": 121,
-              "ourID": 1,
-              "destID": 0,
-              "destMapString": "MAP_SIX_ISLAND_GREEN_PATH",
-              "gameName": "POKEMON FIRE",
-              "destMapGroup": 3,
-              "destMapNum": 59,
-              "duplicates": []
-            },
             {
               "x": 56,
               "y": 26,
@@ -40,15 +27,28 @@
               "destMapGroup": 3,
               "destMapNum": 59,
               "duplicates": []
+            },
+            {
+              "x": 54,
+              "y": 26,
+              "ourMapGroup": 1,
+              "ourMapNum": 121,
+              "ourID": 0,
+              "destID": 0,
+              "destMapString": "MAP_SIX_ISLAND_GREEN_PATH",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 59,
+              "duplicates": []
             }
           ]
         },
         {
-          "x": 3,
+          "x": 4,
           "y": 26,
           "ourMapGroup": 1,
           "ourMapNum": 121,
-          "ourID": 3,
+          "ourID": 4,
           "destID": 2,
           "destMapString": "MAP_SIX_ISLAND_GREEN_PATH",
           "gameName": "POKEMON FIRE",
@@ -56,12 +56,12 @@
           "destMapNum": 59,
           "duplicates": [
             {
-              "x": 4,
+              "x": 5,
               "y": 26,
               "ourMapGroup": 1,
               "ourMapNum": 121,
-              "ourID": 4,
-              "destID": 2,
+              "ourID": 5,
+              "destID": 3,
               "destMapString": "MAP_SIX_ISLAND_GREEN_PATH",
               "gameName": "POKEMON FIRE",
               "destMapGroup": 3,
@@ -69,12 +69,12 @@
               "duplicates": []
             },
             {
-              "x": 5,
+              "x": 3,
               "y": 26,
               "ourMapGroup": 1,
               "ourMapNum": 121,
-              "ourID": 5,
-              "destID": 3,
+              "ourID": 3,
+              "destID": 2,
               "destMapString": "MAP_SIX_ISLAND_GREEN_PATH",
               "gameName": "POKEMON FIRE",
               "destMapGroup": 3,

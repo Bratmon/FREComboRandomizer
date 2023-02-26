@@ -4,11 +4,11 @@
       "requirements": [],
       "warps": [
         {
-          "x": 2,
-          "y": 9,
+          "x": 3,
+          "y": 8,
           "ourMapGroup": 11,
           "ourMapNum": 8,
-          "ourID": 0,
+          "ourID": 1,
           "destID": 7,
           "destMapString": "MAP_FUCHSIA_CITY",
           "gameName": "POKEMON FIRE",
@@ -16,11 +16,11 @@
           "destMapNum": 7,
           "duplicates": [
             {
-              "x": 3,
-              "y": 8,
+              "x": 4,
+              "y": 9,
               "ourMapGroup": 11,
               "ourMapNum": 8,
-              "ourID": 1,
+              "ourID": 2,
               "destID": 7,
               "destMapString": "MAP_FUCHSIA_CITY",
               "gameName": "POKEMON FIRE",
@@ -29,11 +29,11 @@
               "duplicates": []
             },
             {
-              "x": 4,
+              "x": 2,
               "y": 9,
               "ourMapGroup": 11,
               "ourMapNum": 8,
-              "ourID": 2,
+              "ourID": 0,
               "destID": 7,
               "destMapString": "MAP_FUCHSIA_CITY",
               "gameName": "POKEMON FIRE",

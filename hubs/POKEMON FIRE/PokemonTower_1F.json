@@ -4,11 +4,11 @@
       "requirements": [],
       "warps": [
         {
-          "x": 10,
-          "y": 19,
+          "x": 11,
+          "y": 18,
           "ourMapGroup": 1,
           "ourMapNum": 88,
-          "ourID": 0,
+          "ourID": 1,
           "destID": 0,
           "destMapString": "MAP_LAVENDER_TOWN",
           "gameName": "POKEMON FIRE",
@@ -16,11 +16,11 @@
           "destMapNum": 4,
           "duplicates": [
             {
-              "x": 11,
-              "y": 18,
+              "x": 12,
+              "y": 19,
               "ourMapGroup": 1,
               "ourMapNum": 88,
-              "ourID": 1,
+              "ourID": 2,
               "destID": 0,
               "destMapString": "MAP_LAVENDER_TOWN",
               "gameName": "POKEMON FIRE",
@@ -29,11 +29,11 @@
               "duplicates": []
             },
             {
-              "x": 12,
+              "x": 10,
               "y": 19,
               "ourMapGroup": 1,
               "ourMapNum": 88,
-              "ourID": 2,
+              "ourID": 0,
               "destID": 0,
               "destMapString": "MAP_LAVENDER_TOWN",
               "gameName": "POKEMON FIRE",

@@ -1,7 +1,7 @@
 {
   "hubs": [
     {
-      "warps":[
+      "warps": [
         {
           "x": 1,
           "y": 9,
@@ -14,11 +14,11 @@
           "destMapGroup": 1,
           "destMapNum": 39,
           "duplicates": []
-        }        
+        }
       ]
     },
     {
-      "warps":[
+      "warps": [
         {
           "x": 3,
           "y": 3,
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "warps":[
+      "warps": [
         {
           "x": 34,
           "y": 9,
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "warps":[
+      "warps": [
         {
           "x": 38,
           "y": 9,
@@ -67,30 +67,17 @@
           "duplicates": []
         },
         {
-          "x": 49,
-          "y": 13,
+          "x": 48,
+          "y": 12,
           "ourMapGroup": 1,
           "ourMapNum": 40,
-          "ourID": 5,
+          "ourID": 6,
           "destID": 1,
           "destMapString": "MAP_ROUTE23",
           "gameName": "POKEMON FIRE",
           "destMapGroup": 3,
           "destMapNum": 42,
           "duplicates": [
-            {
-              "x": 48,
-              "y": 12,
-              "ourMapGroup": 1,
-              "ourMapNum": 40,
-              "ourID": 6,
-              "destID": 1,
-              "destMapString": "MAP_ROUTE23",
-              "gameName": "POKEMON FIRE",
-              "destMapGroup": 3,
-              "destMapNum": 42,
-              "duplicates": []
-            },
             {
               "x": 47,
               "y": 13,
@@ -103,13 +90,26 @@
               "destMapGroup": 3,
               "destMapNum": 42,
               "duplicates": []
+            },
+            {
+              "x": 49,
+              "y": 13,
+              "ourMapGroup": 1,
+              "ourMapNum": 40,
+              "ourID": 5,
+              "destID": 1,
+              "destMapString": "MAP_ROUTE23",
+              "gameName": "POKEMON FIRE",
+              "destMapGroup": 3,
+              "destMapNum": 42,
+              "duplicates": []
             }
           ]
-        }        
+        }
       ]
     },
     {
-      "warps":[
+      "warps": [
         {
           "x": 36,
           "y": 17,

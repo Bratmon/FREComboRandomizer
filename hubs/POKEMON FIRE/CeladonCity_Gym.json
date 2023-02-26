@@ -1,15 +1,19 @@
 {
   "hubs": [
     {
-      "requirements": ["kgym3"],
-      "provides": ["kgym4"],
+      "requirements": [
+        "kgym3"
+      ],
+      "provides": [
+        "kgym4"
+      ],
       "warps": [
         {
-          "x": 5,
+          "x": 6,
           "y": 18,
           "ourMapGroup": 10,
           "ourMapNum": 16,
-          "ourID": 0,
+          "ourID": 1,
           "destID": 6,
           "destMapString": "MAP_CELADON_CITY",
           "gameName": "POKEMON FIRE",
@@ -17,11 +21,11 @@
           "destMapNum": 6,
           "duplicates": [
             {
-              "x": 6,
+              "x": 7,
               "y": 18,
               "ourMapGroup": 10,
               "ourMapNum": 16,
-              "ourID": 1,
+              "ourID": 2,
               "destID": 6,
               "destMapString": "MAP_CELADON_CITY",
               "gameName": "POKEMON FIRE",
@@ -30,11 +34,11 @@
               "duplicates": []
             },
             {
-              "x": 7,
+              "x": 5,
               "y": 18,
               "ourMapGroup": 10,
               "ourMapNum": 16,
-              "ourID": 2,
+              "ourID": 0,
               "destID": 6,
               "destMapString": "MAP_CELADON_CITY",
               "gameName": "POKEMON FIRE",

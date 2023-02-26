@@ -2,7 +2,7 @@
   "hubs": [
     {
       "requirements": [],
-      "warps":[
+      "warps": [
         {
           "x": 11,
           "y": 11,
@@ -15,7 +15,7 @@
           "destMapGroup": 1,
           "destMapNum": 60,
           "duplicates": []
-        }        
+        }
       ]
     },
     {
@@ -35,23 +35,23 @@
           "duplicates": []
         },
         {
-          "x": 18,
+          "x": 19,
           "y": 18,
           "ourMapGroup": 1,
           "ourMapNum": 61,
-          "ourID": 3,
-          "destID": 7,
+          "ourID": 4,
+          "destID": 8,
           "destMapString": "MAP_POKEMON_MANSION_1F",
           "gameName": "POKEMON FIRE",
           "destMapGroup": 1,
           "destMapNum": 59,
           "duplicates": [
             {
-              "x": 19,
+              "x": 20,
               "y": 18,
               "ourMapGroup": 1,
               "ourMapNum": 61,
-              "ourID": 4,
+              "ourID": 6,
               "destID": 8,
               "destMapString": "MAP_POKEMON_MANSION_1F",
               "gameName": "POKEMON FIRE",
@@ -60,12 +60,12 @@
               "duplicates": []
             },
             {
-              "x": 20,
+              "x": 18,
               "y": 18,
               "ourMapGroup": 1,
               "ourMapNum": 61,
-              "ourID": 6,
-              "destID": 8,
+              "ourID": 3,
+              "destID": 7,
               "destMapString": "MAP_POKEMON_MANSION_1F",
               "gameName": "POKEMON FIRE",
               "destMapGroup": 1,
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "warps":[
+      "warps": [
         {
           "x": 8,
           "y": 3,
@@ -117,7 +117,7 @@
           "destMapGroup": 1,
           "destMapNum": 60,
           "duplicates": []
-        }        
+        }
       ]
     }
   ]

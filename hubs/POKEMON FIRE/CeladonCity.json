@@ -2,7 +2,9 @@
   "hubs": [
     {
       "requirements": [],
-      "provides": ["celadon_city"],
+      "provides": [
+        "celadon_city"
+      ],
       "warps": [
         {
           "x": 34,
@@ -122,11 +124,11 @@
           "duplicates": []
         },
         {
-          "x": 29,
-          "y": 5,
+          "x": 30,
+          "y": 4,
           "ourMapGroup": 3,
           "ourMapNum": 6,
-          "ourID": 10,
+          "ourID": 11,
           "destID": 5,
           "destMapString": "MAP_CELADON_CITY_CONDOMINIUMS_1F",
           "gameName": "POKEMON FIRE",
@@ -134,11 +136,11 @@
           "destMapNum": 7,
           "duplicates": [
             {
-              "x": 30,
-              "y": 4,
+              "x": 31,
+              "y": 5,
               "ourMapGroup": 3,
               "ourMapNum": 6,
-              "ourID": 11,
+              "ourID": 12,
               "destID": 5,
               "destMapString": "MAP_CELADON_CITY_CONDOMINIUMS_1F",
               "gameName": "POKEMON FIRE",
@@ -147,11 +149,11 @@
               "duplicates": []
             },
             {
-              "x": 31,
+              "x": 29,
               "y": 5,
               "ourMapGroup": 3,
               "ourMapNum": 6,
-              "ourID": 12,
+              "ourID": 10,
               "destID": 5,
               "destMapString": "MAP_CELADON_CITY_CONDOMINIUMS_1F",
               "gameName": "POKEMON FIRE",
@@ -186,12 +188,15 @@
           "destMapGroup": 19,
           "destMapNum": 0,
           "duplicates": []
-        }        
+        }
       ]
     },
     {
       "always_available": true,
-      "requirements": ["celadon_city", "kcut"],
+      "requirements": [
+        "celadon_city",
+        "kcut"
+      ],
       "warps": [
         {
           "x": 11,
@@ -205,7 +210,7 @@
           "destMapGroup": 10,
           "destMapNum": 16,
           "duplicates": []
-        }      
+        }
       ]
     }
   ]
