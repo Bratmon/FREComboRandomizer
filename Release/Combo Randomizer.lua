@@ -78,6 +78,7 @@ Roms["POKEMON EMER"] = {
         VAR_PETALBURG_GYM_STATE = 0x4085,
         VAR_PETALBURG_CITY_STATE = 0x4057,
         VAR_STARTER_MON = 0x4023,
+        VAR_ELITE_4_STATE = 0x409C,
     },
     onSwitchCallbacks = {},
 }
@@ -91,6 +92,10 @@ Roms["POKEMON FIRE"] = {
         gSaveBlock1 = 0x0202552c, 
         gSaveBlock2Ptr = 0x0300500c,
         vars = 0x1000,
+    },
+    vars = {
+        VARS_START = 0x4000,
+        VAR_MAP_SCENE_POKEMON_LEAGUE = 0x4068,
     },
     onSwitchCallbacks = {},
 }
@@ -371,6 +376,9 @@ function OnFrame()
                         swap()
                     end
                     WriteWarp(CurrentGameRom.offsets.sWarpDestination, realDest)
+                    if realDest.varIndex ~= nil then
+                        WriteEventVar(CurrentGameRom.vars[realDest.varIndex], realDest.varSet)
+                    end
                 end                    
             end
         end

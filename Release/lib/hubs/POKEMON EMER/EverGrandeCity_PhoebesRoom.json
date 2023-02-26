@@ -5,6 +5,8 @@
       "provides": ["he42"],
       "warps": [
         {
+          "varIndex": "VAR_ELITE_4_STATE",
+          "varSet": 1,        
           "x": 6,
           "y": 13,
           "ourMapGroup": 16,

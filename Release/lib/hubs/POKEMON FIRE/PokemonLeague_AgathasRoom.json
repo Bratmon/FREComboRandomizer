@@ -5,6 +5,8 @@
       "provides": ["ke43"],
       "warps": [
         {
+          "varIndex": "VAR_MAP_SCENE_POKEMON_LEAGUE",
+          "varSet": 2,        
           "x": 6,
           "y": 12,
           "ourMapGroup": 1,

@@ -23,6 +23,8 @@
       "provides": ["ke44"],      
       "warps": [
         {
+          "varIndex": "VAR_MAP_SCENE_POKEMON_LEAGUE",
+          "varSet": 3,        
           "x": 23,
           "y": 13,
           "ourMapGroup": 1,

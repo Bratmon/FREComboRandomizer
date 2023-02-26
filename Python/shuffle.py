@@ -10,7 +10,8 @@ argParser.add_argument('--output', help="Location for output.  If not set, outpu
 argParser.add_argument('--hubsroot', type=str, help="Root directory of the hubs files", default="hubs")
 
 class WarpMapEntry:
-    def __init__(self, fromWarpID, fromMapNum, fromMapGroup, fromGame, toWarpID, toMapNum, toMapGroup, toGame, fromOurX = None, fromOurY = None, fromOurMapNum=None):
+    def __init__(self, fromWarpID, fromMapNum, fromMapGroup, fromGame, toWarpID, toMapNum, toMapGroup, toGame, 
+                 fromOurX = None, fromOurY = None, fromOurMapNum=None, varIndex=None, varSet=None):
         self.fromWarpID = fromWarpID
         self.fromMapNum = fromMapNum
         self.fromMapGroup = fromMapGroup
@@ -22,16 +23,21 @@ class WarpMapEntry:
         self.toMapNum = toMapNum
         self.toMapGroup = toMapGroup
         self.toGame = toGame
+        self.varIndex = varIndex
+        self.varSet = varSet
 
     def toString(self):
         ourXYString = ""
         if self.fromOurX:
-            ourXYString = '["posX"] = %i,["posY"] = %i, ["originMapNum"] = %i' % (self.fromOurX, self.fromOurY, self.fromOurMapNum)
+            ourXYString = '["posX"] = %i,["posY"] = %i, ["originMapNum"] = %i,' % (self.fromOurX, self.fromOurY, self.fromOurMapNum)
+        varSetString = ""
+        if self.varIndex:
+            varSetString = '["varIndex"] = "%s", ["varSet"] = %i,' % (self.varIndex, self.varSet)
         return """{
 from = { ["warpId"] = %i,["mapNum"] = %i,["y"] = 65535,["mapGroup"] = %i,["x"] = 65535, %s},
-to = { ["warpId"] = %i,["mapNum"] = %i,["y"] = 65535,["game"] = "%s",["mapGroup"] = %i,["x"] = 65535,} 
+to = { ["warpId"] = %i,["mapNum"] = %i,["y"] = 65535,["game"] = "%s",["mapGroup"] = %i,["x"] = 65535, %s} 
 },
-""" % (self.fromWarpID, self.fromMapNum, self.fromMapGroup, ourXYString, self.toWarpID, self.toMapNum, self.toGame, self.toMapGroup)
+""" % (self.fromWarpID, self.fromMapNum, self.fromMapGroup, ourXYString, self.toWarpID, self.toMapNum, self.toGame, self.toMapGroup, varSetString)
 
 allHubs = []
 deadEndCounts = defaultdict(lambda: 0)
@@ -64,12 +70,12 @@ def createFinalMapping(finalMappings, a, b, include_xy):
     ax = a["x"] if include_xy else None
     ay = a["y"] if include_xy else None
     amn = a["ourMapNum"] if include_xy else None
-    finalMappings.append(WarpMapEntry(a["destID"], a["destMapNum"], a["destMapGroup"], a["gameName"], b["ourID"], b["ourMapNum"], b["ourMapGroup"], b["gameName"], ax, ay, amn))
+    finalMappings.append(WarpMapEntry(a["destID"], a["destMapNum"], a["destMapGroup"], a["gameName"], b["ourID"], b["ourMapNum"], b["ourMapGroup"], b["gameName"], ax, ay, amn, b.get("varIndex"), b.get("varSet")))
     for d in a["duplicates"]:
         dx = d["x"] if include_xy else None
         dy = d["y"] if include_xy else None
         dmn = d["ourMapNum"] if include_xy else None
-        finalMappings.append(WarpMapEntry(d["destID"], d["destMapNum"], d["destMapGroup"], d["gameName"], b["ourID"], b["ourMapNum"], b["ourMapGroup"], b["gameName"], dx, dy, dmn))
+        finalMappings.append(WarpMapEntry(d["destID"], d["destMapNum"], d["destMapGroup"], d["gameName"], b["ourID"], b["ourMapNum"], b["ourMapGroup"], b["gameName"], dx, dy, dmn, b.get("varIndex"), b.get("varSet")))
     # finalMappings.append(WarpMapEntry(b["destID"], b["destMapNum"], b["destMapGroup"], b["gameName"], a["ourID"], a["ourMapNum"], a["ourMapGroup"], a["gameName"]))
     # for d in b["duplicates"]:
     #    finalMappings.append(WarpMapEntry(d["destID"], d["destMapNum"], d["destMapGroup"], d["gameName"], a["ourID"], a["ourMapNum"], a["ourMapGroup"], a["gameName"]))            

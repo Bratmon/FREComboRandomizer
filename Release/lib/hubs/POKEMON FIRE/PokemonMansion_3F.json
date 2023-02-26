@@ -22,19 +22,6 @@
       "requirements": [],
       "warps": [
         {
-          "x": 8,
-          "y": 3,
-          "ourMapGroup": 1,
-          "ourMapNum": 61,
-          "ourID": 0,
-          "destID": 0,
-          "destMapString": "MAP_POKEMON_MANSION_2F",
-          "gameName": "POKEMON FIRE",
-          "destMapGroup": 1,
-          "destMapNum": 60,
-          "duplicates": []
-        },
-        {
           "x": 34,
           "y": 18,
           "ourMapGroup": 1,
@@ -114,6 +101,23 @@
             }
           ]
         }
+      ]
+    },
+    {
+      "warps":[
+        {
+          "x": 8,
+          "y": 3,
+          "ourMapGroup": 1,
+          "ourMapNum": 61,
+          "ourID": 0,
+          "destID": 0,
+          "destMapString": "MAP_POKEMON_MANSION_2F",
+          "gameName": "POKEMON FIRE",
+          "destMapGroup": 1,
+          "destMapNum": 60,
+          "duplicates": []
+        }        
       ]
     }
   ]

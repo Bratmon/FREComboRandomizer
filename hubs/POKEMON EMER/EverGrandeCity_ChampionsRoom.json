@@ -5,6 +5,8 @@
       "provides": ["hchampion"],
       "warps": [
         {
+          "varIndex": "VAR_ELITE_4_STATE",
+          "varSet": 4,
           "x": 6,
           "y": 12,
           "ourMapGroup": 16,

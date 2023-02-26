@@ -5,7 +5,12 @@ Bugs:
 
 To Fix:
 -Fix walking into Elite 4 rooms in Fire Red; sometimes it works and shouldn't sometimes it doesn't work and should.
--Teleport from anywhere works but fly doesn't (See Task_Flymap) (Only in FR)
+-- Just disable PokemonLeague_EventScript_CloseEntry?
+-Beating Giovonni causes all the rockets to disappear; they may still be required for the lift key
+-Make the Emerald hallways all one-way.
+-Create a category of "Rooms we can get dragged into" and make sure they don't end up behind requirement doors.
 -Weight the RNG by open warps so that we don't end up with all the warps in the biggest hubs facing each other. (Maybe don't fix?)
+
+
 
 -We're done!

@@ -5,6 +5,8 @@
       "provides": ["kchampion"],
       "warps": [
         {
+          "varIndex": "VAR_MAP_SCENE_POKEMON_LEAGUE",
+          "varSet": 4,             
           "x": 6,
           "y": 19,
           "ourMapGroup": 1,
