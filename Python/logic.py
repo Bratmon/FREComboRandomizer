@@ -14,7 +14,9 @@ class State:
         self.potentialNonProviderDeadEnds = []
         self.missingRequirementHubs = []
         self.oneWayHubs = []
+        self.safeExitRequiredHubs = []
         self.currentFlags = []
+        self.weAreSafe = True
 
 def shortestPathToProvider(currentHubs, target):
     finalResult = ""
@@ -80,8 +82,9 @@ def metRequirements(currentFlags, h):
 
 def sortHub(state, h):
     s = state
-    if not metRequirements(s.currentFlags, h):
-        # print("Adding",h["name"],"to mr.")
+    if h.get("safe_exit_required"):
+        s.safeExitRequiredHubs.append(h)
+    elif not metRequirements(s.currentFlags, h):
         s.missingRequirementHubs.append(h)
     elif h.get("always_available"):
         moveToCurrent(s, h)
@@ -99,6 +102,15 @@ def sortHub(state, h):
 def newlyMetRequirements(missingRequirementHubs, currentFlags):
     return [h for h in missingRequirementHubs if metRequirements(currentFlags, h)]
 
+def addAllHubsRequiringSafeExit(state):
+    for serHub in state.safeExitRequiredHubs:
+        moveToCurrent(state, serHub)
+    state.safeExitRequiredHubs = []
+    # Move all one way hubs to end at the beginning.
+    for owh in state.oneWayHubs:
+        for w in owh["warps"]:
+            w["partner"] = random.choice(random.choice(state.currentHubs)["warps"])
+
 def moveToCurrent(state, h):
     s = state
     # print("Adding hub", h["name"])
@@ -106,6 +118,10 @@ def moveToCurrent(state, h):
     if not "warps" in h:
         print(h["name"] + " is invalid!")
         raise
+    if s.weAreSafe and h.get("requirements"):
+        # We're about to add a hub with a requirement.  Add everything that cannot be allowed to have a requirement first.
+        s.weAreSafe = False
+        addAllHubsRequiringSafeExit(state)
     if not (h.get("always_available")):
         link(findHubWithUnlinkedWarp(s.currentHubs), h)
     s.currentHubs.append(h)
@@ -141,11 +157,6 @@ def doLogic(allHubs):
     if len(s.currentHubs) != 2:
         raise "Unexpected number of starting hubs."
     link(s.currentHubs[0], s.currentHubs[1])
-
-    # Move all one way hubs to end at the beginning.
-    for owh in s.oneWayHubs:
-        for w in owh["warps"]:
-            w["partner"] = random.choice(random.choice(s.currentHubs)["warps"])
 
     while True:
         possibleNextHubs = s.potentialHubs + s.potentialHallways + s.potentialProviderDeadEnds

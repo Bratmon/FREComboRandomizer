@@ -2,6 +2,7 @@
   "hubs": [
     {
       "requirements": [],
+      "safe_exit_required": true,
       "warps": [
         {
           "x": 13,

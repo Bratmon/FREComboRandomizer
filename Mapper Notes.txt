@@ -4,9 +4,8 @@ Bugs:
 - One Island Pokemon Center is not randomized.  If you want to go into that quagmire, that's your own problem.
 
 To Fix:
--Make the Emerald hallways all one-way.
--Create a category of "Rooms we can get dragged into" and make sure they don't end up behind requirement doors.
 -Check that we don't require navigation of sky pillar exterior.
+-Circles!
 
 -Weight the RNG by open warps so that we don't end up with all the warps in the biggest hubs facing each other. (Maybe don't fix?)
 

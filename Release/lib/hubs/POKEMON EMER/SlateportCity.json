@@ -113,6 +113,19 @@
           "duplicates": []
         },
         {
+          "x": 28,
+          "y": 12,
+          "ourMapGroup": 0,
+          "ourMapNum": 1,
+          "ourID": 8,
+          "destID": 0,
+          "destMapString": "MAP_SLATEPORT_CITY_HARBOR",
+          "gameName": "POKEMON EMER",
+          "destMapGroup": 9,
+          "destMapNum": 9,
+          "duplicates": []
+        },        
+        {
           "x": 21,
           "y": 44,
           "ourMapGroup": 0,

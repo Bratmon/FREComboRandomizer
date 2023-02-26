@@ -1,6 +1,7 @@
 {
   "hubs": [
     {
+      "safe_exit_required": true,
       "requirements": [],
       "warps": [
         {

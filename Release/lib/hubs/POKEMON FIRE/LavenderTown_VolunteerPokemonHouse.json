@@ -1,8 +1,15 @@
 {
   "hubs": [
     {
-      "requirements": ["saved_mr_fuji"],
-      "provides": ["poke_flute"],
+      "always_available": true,
+      "requirements":["mr_fujis_house", "saved_mr_fuji"],
+      "provides":["poke_flute"],
+      "warps":[]
+    },
+    {
+      "safe_exit_required": true,
+      "requirements": [],
+      "provides": ["mr_fujis_house"],
       "warps": [
         {
           "x": 3,
