@@ -45,6 +45,7 @@
         }]
       },
       {
+        "one_way": true,
         "warps":[
         {
           "x": 5,
