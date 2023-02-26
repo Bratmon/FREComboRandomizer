@@ -78,6 +78,7 @@ When restarting mGBA, you need to load the "Combo Randomizer.lua" script to cont
 
 Although all seeds are beatable, it is possible to softlock yourself.  If you do get stuck, here are some ways to free yourself.
 
+* Teleport from anywhere and fly from anywhere are both enabled.
 * Load an old autosave from the "Savestates" folder
 * If that doesn't work, you can restart the emulator without the script and go somewhere else
 * If all else fails, you can try a walk through walls cheat
