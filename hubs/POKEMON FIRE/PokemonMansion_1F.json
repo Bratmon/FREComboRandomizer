@@ -5,23 +5,23 @@
       "requirements": [],
       "warps": [
         {
-          "x": 7,
+          "x": 8,
           "y": 33,
           "ourMapGroup": 1,
           "ourMapNum": 59,
-          "ourID": 0,
+          "ourID": 1,
           "destID": 0,
           "destMapString": "MAP_CINNABAR_ISLAND",
           "gameName": "POKEMON FIRE",
           "destMapGroup": 3,
-          "destMapNum": 8,
+          "destMapNum": 8,          
           "duplicates": [
             {
-              "x": 8,
+              "x": 7,
               "y": 33,
               "ourMapGroup": 1,
               "ourMapNum": 59,
-              "ourID": 1,
+              "ourID": 0,
               "destID": 0,
               "destMapString": "MAP_CINNABAR_ISLAND",
               "gameName": "POKEMON FIRE",
