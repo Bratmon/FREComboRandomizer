@@ -43,7 +43,9 @@ def shortestPathToProvider(currentHubs, target):
     return finalResult
 
 def findUnlinkedWarp(hub):
-    uws = [w for w in hub["warps"] if not "partner" in w]
+    uws = [w for w in hub["warps"] if w.get("priority") and not "partner" in w]
+    if not uws:
+        uws = [w for w in hub["warps"] if not "partner" in w]
     if len(uws) == 0:
         return None
     return random.choice(uws)

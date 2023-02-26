@@ -257,6 +257,7 @@
           "duplicates": []
         },
         {
+          "priority": true,
           "x": 45,
           "y": 9,
           "ourMapGroup": 24,
@@ -301,6 +302,7 @@
           "duplicates": []
         },
         {
+          "priority": true,
           "x": 45,
           "y": 13,
           "ourMapGroup": 24,
