@@ -1,6 +1,4 @@
-import random, itertools
-
-random.seed()
+import random
 
 global SpoilerString
 SpoilerString = ""
