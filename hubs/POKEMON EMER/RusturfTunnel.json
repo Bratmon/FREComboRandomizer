@@ -1,7 +1,7 @@
 {
   "hubs": [
     {
-      "requirements": ["hrocksmash"],
+      "requirements": ["hrocksmash", "rustboro"],
       "provides": ["saved_peeko", "hm04"],
       "warps": [
         {
