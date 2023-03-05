@@ -78,7 +78,6 @@
       ]
     },
     {
-      "provides": ["five_island_rocket_base_password_one_lol"],
       "requirements": ["kstrength"],
       "warps": [
         {
