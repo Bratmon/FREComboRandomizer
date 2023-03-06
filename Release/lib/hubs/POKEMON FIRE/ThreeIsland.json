@@ -1,9 +1,9 @@
 {
   "hubs": [
     {
-      "requirements": [],
-      "provides": ["three_island"],
-      "warps": [
+      "always_available": true,
+      "requirements":["three_island_north", "kcut"],
+      "warps":[
         {
           "x": 12,
           "y": 6,
@@ -30,7 +30,13 @@
               "duplicates": []
             }
           ]
-        },        
+        }        
+      ]
+    },
+    {
+      "requirements": [],
+      "provides": ["three_island", "three_island_north"],
+      "warps": [
         {
           "x": 18,
           "y": 12,
