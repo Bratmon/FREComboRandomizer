@@ -7,6 +7,7 @@ argParser = argparse.ArgumentParser()
 argParser.add_argument('--seed', type=str, help="The seed (If not present, one will be generated.)")
 argParser.add_argument('--spoiler', help="Location to dump the spoiler file.")
 argParser.add_argument('--output', help="Location for output.  If not set, output will not be generated.", default="final.lua")
+argParser.add_argument('--seedfile', help="Dump the seed in a human-readable way to this file.", default="seed.txt")
 argParser.add_argument('--hubsroot', type=str, help="Root directory of the hubs files", default="hubs")
 
 class WarpMapEntry:
@@ -106,7 +107,7 @@ def shuffle():
             createFinalMapping(finalMappings, w, p, "xy_required" in h)
     return (finalMappings, spoilerString)
 
-def finish(finalMappings, spoilerTxt, outFileName, spoilerFileName, seed):
+def finish(finalMappings, spoilerTxt, outFileName, spoilerFileName, seedFileName, seed):
     perGameWarpMappings = {}
     for m in finalMappings:
         if not m.fromGame in perGameWarpMappings:
@@ -127,6 +128,10 @@ def finish(finalMappings, spoilerTxt, outFileName, spoilerFileName, seed):
     if spoilerFileName:
         spoilerFile = open(spoilerFileName, "w")
         spoilerFile.write(spoilerTxt)
+
+    if seedFileName:
+        seedFile = open(seedFileName, "w")
+        seedFile.write("Generated with Combo Randomizer from seed " + seed + "\n")
 
 
 def main():
@@ -150,7 +155,7 @@ def main():
     print(len(allHubs),"total hubs")
     print("Starting logic.")
     (finalMappings, spoilerTxt) = shuffle()
-    finish(finalMappings, spoilerTxt, args.output, args.spoiler, seed)
+    finish(finalMappings, spoilerTxt, args.output, args.spoiler, args.seedfile, seed)
     print("Finished generating with seed",seed) 
 
 if __name__ == "__main__":
