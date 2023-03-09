@@ -202,7 +202,7 @@ function NewGame(seed)
         seedArg = "--seed=" .. seed
     end
     -- Call shuffle.
-    local command = string.format('""%sshuffle.exe" %s --output="%sfinal.lua" --hubsroot="%shubs" %s"', LIB_PATH, seedArg, LIB_PATH, LIB_PATH, EXEC_SUFFEX)
+    local command = string.format('""%sshuffle.exe" %s --output="%sfinal.lua" --hubsroot="%shubs" --seedfile="%sseed.txt" %s"', LIB_PATH, seedArg, LIB_PATH, LIB_PATH, LIB_PATH, EXEC_SUFFEX)
     console:log("Running command: " .. command)
     local result = io.popen(command)
     for l in result:lines() do
