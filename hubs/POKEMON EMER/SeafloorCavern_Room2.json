@@ -41,7 +41,11 @@
           "destMapGroup": 24,
           "destMapNum": 33,
           "duplicates": []
-        },
+        }
+      ]
+    },
+    {
+      "warps":[
         {
           "x": 11,
           "y": 1,
@@ -54,7 +58,7 @@
           "destMapGroup": 24,
           "destMapNum": 34,
           "duplicates": []
-        }
+        }        
       ]
     }
   ]
