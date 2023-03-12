@@ -97,19 +97,6 @@
           "duplicates": []
         },
         {
-          "x": 1,
-          "y": 12,
-          "ourMapGroup": 3,
-          "ourMapNum": 3,
-          "ourID": 7,
-          "destID": 0,
-          "destMapString": "MAP_CERULEAN_CAVE_1F",
-          "gameName": "POKEMON FIRE",
-          "destMapGroup": 1,
-          "destMapNum": 72,
-          "duplicates": []
-        },
-        {
           "x": 23,
           "y": 28,
           "ourMapGroup": 3,
