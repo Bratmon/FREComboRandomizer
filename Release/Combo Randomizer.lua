@@ -75,10 +75,13 @@ Roms["POKEMON EMER"] = {
     },
     vars = {
         VARS_START = 0x4000,
+        VAR_SOOTOPOLIS_CITY_STATE = 0x405E,
         VAR_PETALBURG_GYM_STATE = 0x4085,
         VAR_PETALBURG_CITY_STATE = 0x4057,
         VAR_STARTER_MON = 0x4023,
         VAR_ELITE_4_STATE = 0x409C,
+        VAR_SKY_PILLAR_STATE = 0x40CA,
+
     },
     onSwitchCallbacks = {},
 }
@@ -131,6 +134,20 @@ function CleanupPetalburg()
     end
 end
 table.insert(Roms["POKEMON EMER"].onSwitchCallbacks, CleanupPetalburg)
+
+function CleanupSootopolis()
+    -- If you awaken Kyogre after you awaken Rayquaza, all hell breaks loose. 
+    -- If VAR_SKY_PILLAR_STATE is at least 1, then we woke up Rayquaza.
+    local sky_pillar_state = ReadEventVar(CurrentGameRom.vars.VAR_SKY_PILLAR_STATE)
+    -- If VAR_SOOTOPOLIS_CITY_STATE is between 1 and 4, then the legendary battle is happening, but the game forgot we woke up Rayquaza.
+    local sootopolis_city_state = ReadEventVar(CurrentGameRom.vars.VAR_SOOTOPOLIS_CITY_STATE)
+    if (sky_pillar_state > 0) then
+        if (sootopolis_city_state > 0 and sootopolis_city_state < 5) then
+            WriteEventVar(CurrentGameRom.vars.VAR_SOOTOPOLIS_CITY_STATE, 5)
+        end
+    end
+end
+table.insert(Roms["POKEMON EMER"].onSwitchCallbacks, CleanupSootopolis)
 
 function StatePath()
     return BasePath .. "savestates\\swapper_" .. emu:getGameTitle() .. ".ss0"

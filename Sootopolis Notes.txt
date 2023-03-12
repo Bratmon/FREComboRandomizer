@@ -1,0 +1,19 @@
+Research Notes:
+
+VAR_SOOTOPOLIS_CITY_STATE:
+0 = Everything is fine
+1 = Kyogre Awake
+2 = Kyogre Awake and you've seen the cutscene
+3 = You need to go to sky pillar
+4 = You've been to Sky Pillar, but haven't awakened Raquaza (You jerk)
+5 = Raquaza Awake
+6 = Beat Juan
+
+VAR_SKY_PILLAR_STATE:
+0 = Raquaza asleep
+1 = Raquaza awake
+2 = Sootopolis Resolved but there still needs to be some camera movement
+3 = Sootopolis Resolved
+
+FLAG_SOOTOPOLIS_ARCHIE_MAXIE_LEAVE:
+Set after you talk to Archie / Maxie after Raquaza cutscene
