@@ -1,7 +1,7 @@
 {
   "hubs": [
     {
-      "requirements": [],
+      "requirements": ["hsurf"],
       "provides": ["kyogre_awake"],
       "warps": [
         {
