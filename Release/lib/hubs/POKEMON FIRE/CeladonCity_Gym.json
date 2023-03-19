@@ -2,7 +2,7 @@
   "hubs": [
     {
       "requirements": [
-        "kgym3"
+        "kgym3", "kcut"
       ],
       "provides": [
         "kgym4"
